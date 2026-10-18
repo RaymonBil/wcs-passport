@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Inter, Montserrat } from "next/font/google";
 import { ServiceWorkerRegister } from "@/components/ServiceWorkerRegister";
+import { withBase } from "@/lib/base-path";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
@@ -11,7 +12,8 @@ export const metadata: Metadata = {
   description: "La Guía Definitiva del Circuito Europeo: De la Pista Local al Mundo. Edición Especial Levante West Coast Swing | LOBAILAO.",
   applicationName: "WCS Passport",
   appleWebApp: { capable: true, title: "WCS Passport", statusBarStyle: "black-translucent" },
-  icons: { icon: "/icon.svg", apple: "/icon.svg" },
+  manifest: withBase("/manifest.webmanifest"),
+  icons: { icon: withBase("/icon.svg"), apple: withBase("/icon.svg") },
 };
 
 export const viewport: Viewport = {

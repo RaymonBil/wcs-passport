@@ -2,12 +2,14 @@
 
 Revista digital interactiva (PWA, mobile-first) para Levante West Coast Swing & Asociación Cultural LOBAILAO.
 
+**Web publicada:** https://raymonbil.github.io/wcs-passport/
+
 ## Arrancar
 
 ```bash
 npm install
 npm run dev                  # http://localhost:3000
-npm run build && npm start   # producción (activa el service worker / modo offline)
+npm run build                # export estático en out/ (activa el service worker / modo offline)
 ```
 
 ## Estructura
@@ -35,3 +37,7 @@ public/                   sw.js, iconos SVG
 ```
 
 Para añadir un festival, agrega un objeto a `initialEvents` y su bandera/aeropuerto en `travelInfo` (`data/events.ts`).
+
+## Publicación
+
+Cada push a `main` reconstruye la web y la publica en la rama `gh-pages` (`.github/workflows/deploy.yml`). GitHub Pages sirve esa rama en https://raymonbil.github.io/wcs-passport/.
