@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Autumn Swing Challenge 2026
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:autumn-swing-challenge-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+SUMMARY:Autumn Swing Challenge 2026 · WCS
+LOCATION:Aquincum Hotel Budapest
+GEO:47.5486;19.0466
+DESCRIPTION:El WSDC otoñal de Budapest\, con división Rising Star y un ca
+ rtel de profesores de lujo.\n\nWeb oficial: https://www.asc-budapest.com/\
+ n\nFicha completa: https://raymonbil.github.io/wcs-passport/festival/autum
+ n-swing-challenge/
+URL:https://raymonbil.github.io/wcs-passport/festival/autumn-swing-challeng
+ e/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Autumn Swing Challenge! Prepara la male
+ ta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

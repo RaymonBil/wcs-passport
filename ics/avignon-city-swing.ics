@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Avignon City Swing 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:avignon-city-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270118
+SUMMARY:Avignon City Swing 2027 · WCS
+LOCATION:202 rue Nicolas Ledoux\, Nîmes
+GEO:43.8113;4.3656
+DESCRIPTION:WSDC en Nîmes\, la «Roma francesa»\, a 3 horas en tren desde
+  Barcelona.\n\nWeb oficial: https://www.avignoncityswing.com/\n\nFicha com
+ pleta: https://raymonbil.github.io/wcs-passport/festival/avignon-city-swin
+ g/
+URL:https://raymonbil.github.io/wcs-passport/festival/avignon-city-swing/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Avignon City Swing! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

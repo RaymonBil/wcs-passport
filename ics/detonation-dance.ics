@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Detonation Dance 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:detonation-dance-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270427
+SUMMARY:Detonation Dance 2027 · WCS
+LOCATION:Hilton / DoubleTree by Hilton Manchester Airport
+GEO:53.3626;-2.2737
+DESCRIPTION:Weekender de primavera junto al aeropuerto de Manchester\, con 
+ Jack & Jill WSDC\, Strictly y programa «Zero to Hero».\n\nWeb oficial: h
+ ttps://detonationdance.com/\n\nFicha completa: https://raymonbil.github.io
+ /wcs-passport/festival/detonation-dance/
+URL:https://raymonbil.github.io/wcs-passport/festival/detonation-dance/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Detonation Dance! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

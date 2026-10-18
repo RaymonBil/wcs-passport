@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Augsburg Westie Station 2026
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:augsburg-westie-station-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261026
+SUMMARY:Augsburg Westie Station 2026 · WCS
+LOCATION:Hep Cat Club\, Augsburgo
+GEO:48.3705;10.8978
+DESCRIPTION:Evento WSDC con estética «street style» en una escuela de sw
+ ing de Augsburgo.\n\nWeb oficial: https://hepcatclub.com/\n\nFicha complet
+ a: https://raymonbil.github.io/wcs-passport/festival/augsburg-westie-stati
+ on/
+URL:https://raymonbil.github.io/wcs-passport/festival/augsburg-westie-stati
+ on/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Augsburg Westie Station! Prepara la mal
+ eta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

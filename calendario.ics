@@ -1,0 +1,1064 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WCS Passport 2026–2027 · Festivales de West Coast Swing
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:augsburg-westie-station-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261026
+SUMMARY:Augsburg Westie Station 2026 · WCS
+LOCATION:Hep Cat Club\, Augsburgo
+GEO:48.3705;10.8978
+DESCRIPTION:Evento WSDC con estética «street style» en una escuela de sw
+ ing de Augsburgo.\n\nWeb oficial: https://hepcatclub.com/\n\nFicha complet
+ a: https://raymonbil.github.io/wcs-passport/festival/augsburg-westie-stati
+ on/
+URL:https://raymonbil.github.io/wcs-passport/festival/augsburg-westie-stati
+ on/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Augsburg Westie Station! Prepara la mal
+ eta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:swingside-invitational-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+SUMMARY:Swingside Invitational 2026 · WCS
+LOCATION:Palais des Congrès de Liège
+GEO:50.6337;5.5793
+DESCRIPTION:Evento 100 % West Coast Swing en el Palacio de Congresos de Lie
+ ja.\n\nWeb oficial: https://www.swingside.be/festival-westcoastswing/\n\nF
+ icha completa: https://raymonbil.github.io/wcs-passport/festival/swingside
+ -invitational/
+URL:https://raymonbil.github.io/wcs-passport/festival/swingside-invitationa
+ l/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Swingside Invitational! Prepara la male
+ ta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:scandinavian-open-snow-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261102
+SUMMARY:Scandinavian Open WCS «SNOW» 2026 · WCS
+LOCATION:Quality Hotel Strawberry Arena\, Estocolmo (Solna)
+GEO:59.3727;18.0005
+DESCRIPTION:El gran WSDC sueco en un hotel-arena de Estocolmo: nivel nórdi
+ co altísimo.\n\nWeb oficial: https://snowcs.se/\n\nFicha completa: https:
+ //raymonbil.github.io/wcs-passport/festival/scandinavian-open-snow/
+URL:https://raymonbil.github.io/wcs-passport/festival/scandinavian-open-sno
+ w/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Scandinavian Open WCS «SNOW»! Prepara
+  la maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:warsaw-halloween-swing-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261103
+SUMMARY:Warsaw Halloween Swing 2026 · WCS
+LOCATION:The Westin Warsaw
+GEO:52.2337;20.9963
+DESCRIPTION:11.º aniversario de la fiesta de disfraces más grande del WCS
+  europeo\, en el Westin de Varsovia.\n\nWeb oficial: https://warsawhallowe
+ enswing.com/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/f
+ estival/warsaw-halloween-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/warsaw-halloween-swin
+ g/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Warsaw Halloween Swing! Prepara la male
+ ta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:westie-pink-city-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY:Westie Pink City 2026 · WCS
+LOCATION:NH Toulouse Airport ****\, Blagnac
+GEO:43.6455;1.3745
+DESCRIPTION:El WSDC del suroeste francés en un hotel junto al aeropuerto d
+ e Toulouse: workshops por niveles\, J&J y Strictly.\n\nWeb oficial: https:
+ //www.westiepinkcity.fr/\n\nFicha completa: https://raymonbil.github.io/wc
+ s-passport/festival/westie-pink-city/
+URL:https://raymonbil.github.io/wcs-passport/festival/westie-pink-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Westie Pink City! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:westies-angels-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:Westie's Angels 2026 · WCS
+LOCATION:Hotel Logis Est\, Saint-Maurice-de-Beynost (Lyon)
+GEO:45.8253;5.0006
+DESCRIPTION:Fin de semana WSDC centrado en el estilo individual (solo styli
+ ng)\, con intensivo de musicalidad.\n\nWeb oficial: https://www.frenchywes
+ ty.com/westiesangels\n\nFicha completa: https://raymonbil.github.io/wcs-pa
+ ssport/festival/westies-angels/
+URL:https://raymonbil.github.io/wcs-passport/festival/westies-angels/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Westie's Angels! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:flowstate-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+SUMMARY:Flowstate 2026 · WCS
+LOCATION:Thistle Hotel Heathrow Terminal 5\, Bath Road\, Longford
+GEO:51.4813;-0.5016
+DESCRIPTION:Festival de West Coast Swing y Zouk junto a Heathrow\, con Jack
+  & Jill WSDC y BZDC.\n\nWeb oficial: https://flowstatefest.com/\n\nFicha c
+ ompleta: https://raymonbil.github.io/wcs-passport/festival/flowstate/
+URL:https://raymonbil.github.io/wcs-passport/festival/flowstate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Flowstate! Prepara la maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:autumn-swing-challenge-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+SUMMARY:Autumn Swing Challenge 2026 · WCS
+LOCATION:Aquincum Hotel Budapest
+GEO:47.5486;19.0466
+DESCRIPTION:El WSDC otoñal de Budapest\, con división Rising Star y un ca
+ rtel de profesores de lujo.\n\nWeb oficial: https://www.asc-budapest.com/\
+ n\nFicha completa: https://raymonbil.github.io/wcs-passport/festival/autum
+ n-swing-challenge/
+URL:https://raymonbil.github.io/wcs-passport/festival/autumn-swing-challeng
+ e/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Autumn Swing Challenge! Prepara la male
+ ta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:project-switch-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:Project Switch 2026 · WCS
+LOCATION:Tumblingerstraße 34a\, Múnich
+GEO:48.1236;11.5532
+DESCRIPTION:El evento del cambio de rol: aprende a bailar tu segundo rol co
+ n Clem & Evi y compite en equipos que rotan.\n\nWeb oficial: https://www.r
+ egioactive.de/tanz/project-switch-the-wcs-event-in-munich-muenchen-tumblin
+ gerstrasse-34a-2026-11-27-lnRvXQbj6D\n\nFicha completa: https://raymonbil.
+ github.io/wcs-passport/festival/project-switch/
+URL:https://raymonbil.github.io/wcs-passport/festival/project-switch/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Project Switch! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:winter-white-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+SUMMARY:Winter White WCS 2026 · WCS
+LOCATION:Scandic Oslo Airport\, Ravinevegen 15\, Gardermoen (sede nueva)
+GEO:60.1958;11.1006
+DESCRIPTION:Evento WSDC íntimo y acogedor en Noruega\, junto al aeropuerto
+  de Oslo.\n\nWeb oficial: https://www.winterwhite.no/\n\nFicha completa: h
+ ttps://raymonbil.github.io/wcs-passport/festival/winter-white/
+URL:https://raymonbil.github.io/wcs-passport/festival/winter-white/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Winter White WCS! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:berlin-swing-revolution-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261214
+SUMMARY:Berlin Swing Revolution 2026 · WCS
+LOCATION:Werk36\, Berlín
+GEO:52.5163;13.4545
+DESCRIPTION:WSDC en Berlín en plena temporada de mercadillos navideños\, 
+ con 9 horas de workshops.\n\nWeb oficial: https://berlinswingrevolution.co
+ m/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/festival/be
+ rlin-swing-revolution/
+URL:https://raymonbil.github.io/wcs-passport/festival/berlin-swing-revoluti
+ on/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Berlin Swing Revolution! Prepara la mal
+ eta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:santa-swing-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261215
+SUMMARY:Santa Swing 2026 · WCS
+LOCATION:Galaxy Hotel ****\, junto al Vístula\, Cracovia
+GEO:50.0477;19.9371
+DESCRIPTION:WSDC navideño en Cracovia\, organizado por Skalski Dance en un
+  hotel junto al Vístula.\n\nWeb oficial: https://www.santaswing.pl/\n\nFi
+ cha completa: https://raymonbil.github.io/wcs-passport/festival/santa-swin
+ g/
+URL:https://raymonbil.github.io/wcs-passport/festival/santa-swing/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Santa Swing! Prepara la maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:new-years-swing-fling-2026–27@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20270104
+SUMMARY:New Year's Swing Fling 2026–27 · WCS
+LOCATION:Radisson RED Hotel London Heathrow
+GEO:51.4803;-0.4434
+DESCRIPTION:Despide el año bailando en Londres: Nochevieja\, workshops con
+  profesores top y Jack & Jill de Newcomer a Masters.\n\nWeb oficial: https
+ ://www.nysf.uk/\n\nFicha completa: https://raymonbil.github.io/wcs-passpor
+ t/festival/new-years-swing-fling/
+URL:https://raymonbil.github.io/wcs-passport/festival/new-years-swing-fling
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para New Year's Swing Fling! Prepara la male
+ ta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:swingvester-2026–27@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20270105
+SUMMARY:SwingVester 2026–27 · WCS
+LOCATION:Tanzschule Hippmann\, Pollheimerstraße 7\, Wels (≈ 2.000 m² en
+  7 salas)
+GEO:48.1597;14.0283
+DESCRIPTION:Cinco días de baile para despedir el año en Austria: 2.000 m
+ ² de pista en siete salas y competición WSDC.\n\nWeb oficial: https://ww
+ w.swingvester.com/\n\nFicha completa: https://raymonbil.github.io/wcs-pass
+ port/festival/swingvester/
+URL:https://raymonbil.github.io/wcs-passport/festival/swingvester/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para SwingVester! Prepara la maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:budafest-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270111
+SUMMARY:BudaFest Open WCS Championships 2027 · WCS
+LOCATION:Hotel InterContinental Budapest (algunas clases en la Academia Hú
+ ngara de Ciencias)
+GEO:47.4977;19.0479
+DESCRIPTION:El «Super Bowl» del WCS europeo: el evento más grande del co
+ ntinente\, a orillas del Danubio.\n\nWeb oficial: https://wcs-budafest.com
+ /\n\nFicha completa: https://raymonbil.github.io/wcs-passport/festival/bud
+ afest/
+URL:https://raymonbil.github.io/wcs-passport/festival/budafest/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para BudaFest Open WCS Championships! Prepar
+ a la maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:avignon-city-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270118
+SUMMARY:Avignon City Swing 2027 · WCS
+LOCATION:202 rue Nicolas Ledoux\, Nîmes
+GEO:43.8113;4.3656
+DESCRIPTION:WSDC en Nîmes\, la «Roma francesa»\, a 3 horas en tren desde
+  Barcelona.\n\nWeb oficial: https://www.avignoncityswing.com/\n\nFicha com
+ pleta: https://raymonbil.github.io/wcs-passport/festival/avignon-city-swin
+ g/
+URL:https://raymonbil.github.io/wcs-passport/festival/avignon-city-swing/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Avignon City Swing! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:swing-resolution-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270126
+SUMMARY:Swing Resolution 2027 · WCS
+LOCATION:Edimburgo (sede en la web oficial)
+GEO:55.9533;-3.1883
+DESCRIPTION:Cuatro noches de WCS en Edimburgo: el evento más amigable del 
+ circuito\, con temática\, tartas y tres salones.\n\nWeb oficial: https://
+ swingresolution.com/\n\nFicha completa: https://raymonbil.github.io/wcs-pa
+ ssport/festival/swing-resolution/
+URL:https://raymonbil.github.io/wcs-passport/festival/swing-resolution/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Swing Resolution! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:swing-in-paris-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270125
+SUMMARY:Swing In Paris 2027 · WCS
+LOCATION:Le Méridien Paris Arc de Triomphe
+GEO:48.8794;2.2846
+DESCRIPTION:Evento WSDC Trial en pleno París\, en el mismo hotel que el Pa
+ ris Swing Classic.\n\nWeb oficial: https://swing-in-paris.com/en\n\nFicha 
+ completa: https://raymonbil.github.io/wcs-passport/festival/swing-in-paris
+ /
+URL:https://raymonbil.github.io/wcs-passport/festival/swing-in-paris/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Swing In Paris! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:swingtzerland-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270208
+SUMMARY:Swingtzerland 2027 · WCS
+LOCATION:Zúrich (sede en la web oficial)
+GEO:47.3769;8.5417
+DESCRIPTION:El clásico suizo de alta gama en Zúrich: nivel altísimo\, or
+ ganización impecable y precios a juego.\n\nWeb oficial: http://www.swingt
+ zerland.ch/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/fe
+ stival/swingtzerland/
+URL:https://raymonbil.github.io/wcs-passport/festival/swingtzerland/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Swingtzerland! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:trinity-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270208
+SUMMARY:Trinity Swing 2027 · WCS
+LOCATION:Carrickdale Hotel & Spa ****\, Dundalk
+GEO:54.0544;-6.3333
+DESCRIPTION:El primer evento WSDC de Irlanda\, en un hotel-spa: 4 niveles d
+ e workshops\, 3 noches y 2 salones.\n\nWeb oficial: https://www.trinityswi
+ ng.com/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/festiv
+ al/trinity-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/trinity-swing/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Trinity Swing! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:euro-dance-festival-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270215
+SUMMARY:Euro Dance Festival (WSDC) 2027 · WCS
+LOCATION:Europa-Park\, Rust
+GEO:48.266;7.7221
+DESCRIPTION:Megafestival multiestilo dentro de Europa-Park\, con sala de WC
+ S hasta las 3:00 y competición WSDC el sábado.\n\nWeb oficial: https://w
+ ww.euro-dance-festival.com/en/rust/wsdc/\n\nFicha completa: https://raymon
+ bil.github.io/wcs-passport/festival/euro-dance-festival/
+URL:https://raymonbil.github.io/wcs-passport/festival/euro-dance-festival/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Euro Dance Festival (WSDC)! Prepara la 
+ maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:arousa-westie-fest-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270222
+SUMMARY:Arousa Westie Fest 2027 · WCS
+LOCATION:Hotel Carlos I Silgar ****\, Sanxenxo
+GEO:42.4006;-8.8086
+DESCRIPTION:El evento boutique de Galicia: competición WSDC sin preliminar
+ es masivas\, marisco\, albariño y hospitalidad atlántica.\n\nWeb oficial
+ : https://www.arousawestiefest.com/\n\nFicha completa: https://raymonbil.g
+ ithub.io/wcs-passport/festival/arousa-westie-fest/
+URL:https://raymonbil.github.io/wcs-passport/festival/arousa-westie-fest/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Arousa Westie Fest! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:prague-alchemy-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270222
+SUMMARY:Prague Alchemy Swing 2027 · WCS
+LOCATION:Praga (sede en la web oficial)
+GEO:50.0755;14.4378
+DESCRIPTION:WSDC en la ciudad de las cien torres\, a mediados de febrero.\n
+ \nWeb oficial: https://praguealchemyswing.cz/\n\nFicha completa: https://r
+ aymonbil.github.io/wcs-passport/festival/prague-alchemy-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/prague-alchemy-swing/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Prague Alchemy Swing! Prepara la maleta
+  🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:paris-swing-classic-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270301
+SUMMARY:Paris Swing Classic 2027 · WCS
+LOCATION:Le Méridien Paris Arc de Triomphe (≈ 2.000 m² de pista)
+GEO:48.8794;2.2846
+DESCRIPTION:Gran WSDC parisino con unos 2.000 m² de pista en un cuatro est
+ rellas junto a los Campos Elíseos.\n\nWeb oficial: https://parisswingclas
+ sic.com/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/festi
+ val/paris-swing-classic/
+URL:https://raymonbil.github.io/wcs-passport/festival/paris-swing-classic/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Paris Swing Classic! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:winter-coast-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270301
+SUMMARY:Winter Coast Swing 2027 · WCS
+LOCATION:Sport & Spa Hotel Vesileppis\, Leppävirta (pista de 450 m²)
+GEO:62.4911;27.7867
+DESCRIPTION:WSDC en un hotel-spa de la región de los lagos de Finlandia: p
+ ista\, habitación\, sauna y túnel de esquí bajo el mismo techo.\n\nWeb 
+ oficial: https://www.wintercoastswing.com/\n\nFicha completa: https://raym
+ onbil.github.io/wcs-passport/festival/winter-coast-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/winter-coast-swing/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Winter Coast Swing! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dutch-open-wcs-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270315
+SUMMARY:(Por confirmar) Dutch Open West Coast Swing 2027 · WCS
+LOCATION:Hotel Asteria\, Venray (sede 2026)
+GEO:51.5259;5.9746
+DESCRIPTION:El evento WSDC histórico de los Países Bajos\, en formato hot
+ el.\n\n⚠ Fechas por confirmar. La edición 2026 fue del 12 al 15 de marz
+ o. Fechas de 2027 sin publicar.\n\nWeb oficial: https://www.yourdancebuddy
+ .com/events/dutch-open-west-coast-swing-2026\n\nFicha completa: https://ra
+ ymonbil.github.io/wcs-passport/festival/dutch-open-wcs/
+URL:https://raymonbil.github.io/wcs-passport/festival/dutch-open-wcs/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Dutch Open West Coast Swing! Prepara la
+  maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:west-in-lyon-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+SUMMARY:West In Lyon 2027 · WCS
+LOCATION:Lyon (sede en la web oficial)
+GEO:45.764;4.8357
+DESCRIPTION:Uno de los grandes WSDC franceses de primavera\, en la capital 
+ gastronómica de Francia.\n\nWeb oficial: https://www.west-in-lyon.fr/\n\n
+ Ficha completa: https://raymonbil.github.io/wcs-passport/festival/west-in-
+ lyon/
+URL:https://raymonbil.github.io/wcs-passport/festival/west-in-lyon/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para West In Lyon! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:king-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270323
+SUMMARY:King Swing 2027 · WCS
+LOCATION:Qubus Hotel Kraków
+GEO:50.0469;19.9479
+DESCRIPTION:La opción europea más económica: WSDC de calidad en Cracovia
+  a precios polacos.\n\nWeb oficial: https://kingswing.pl/\n\nFicha complet
+ a: https://raymonbil.github.io/wcs-passport/festival/king-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/king-swing/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para King Swing! Prepara la maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:uk-wcs-championships-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270330
+SUMMARY:UK West Coast Swing Championships 2027 · WCS
+LOCATION:Radisson RED Hotel London Heathrow\, Sipson
+GEO:51.4803;-0.4434
+DESCRIPTION:El campeonato británico: un gigante con muchísimos competidor
+ es\, incluidos muchos de Estados Unidos.\n\nWeb oficial: https://www.ukwcs
+ champs.com/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/fe
+ stival/uk-wcs-championships/
+URL:https://raymonbil.github.io/wcs-passport/festival/uk-wcs-championships/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para UK West Coast Swing Championships! Prep
+ ara la maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:swing-in-capital-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270405
+SUMMARY:Swing in Capital 2027 · WCS
+LOCATION:Hotel Capannelle ****\, junto al Parque de la Vía Apia Antigua\, 
+ Roma
+GEO:41.8317;12.5631
+DESCRIPTION:WSDC en Roma en primavera\, en un hotel junto a la Vía Apia An
+ tigua\, con niveles de nombres romanos.\n\nWeb oficial: https://swingincap
+ ital.com/?locale=en\n\nFicha completa: https://raymonbil.github.io/wcs-pas
+ sport/festival/swing-in-capital/
+URL:https://raymonbil.github.io/wcs-passport/festival/swing-in-capital/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Swing in Capital! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:westy-nantes-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270419
+SUMMARY:(Por confirmar) Westy Nantes 2027 · WCS
+LOCATION:Sure Hotel by Best Western Nantes Beaujoire\, 27 Rue du Chemin Rou
+ ge
+GEO:47.2558;-1.5209
+DESCRIPTION:Evento regional asequible en Nantes\, con la técnica de la esc
+ uela francesa.\n\n⚠ Fechas por confirmar. Facebook indica que empieza el
+  16 de abril de 2027\; otro listado da del 15 al 18 «por confirmar».\n\n
+ Web oficial: https://www.facebook.com/p/Page-Westy-Nantes-61553121058244/\
+ n\nFicha completa: https://raymonbil.github.io/wcs-passport/festival/westy
+ -nantes/
+URL:https://raymonbil.github.io/wcs-passport/festival/westy-nantes/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Westy Nantes! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:detonation-dance-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270427
+SUMMARY:Detonation Dance 2027 · WCS
+LOCATION:Hilton / DoubleTree by Hilton Manchester Airport
+GEO:53.3626;-2.2737
+DESCRIPTION:Weekender de primavera junto al aeropuerto de Manchester\, con 
+ Jack & Jill WSDC\, Strictly y programa «Zero to Hero».\n\nWeb oficial: h
+ ttps://detonationdance.com/\n\nFicha completa: https://raymonbil.github.io
+ /wcs-passport/festival/detonation-dance/
+URL:https://raymonbil.github.io/wcs-passport/festival/detonation-dance/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Detonation Dance! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:beemad-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270503
+SUMMARY:BeeMAD 2027 · WCS
+LOCATION:Hotel Eurostars Puerta Madrid
+GEO:40.4466;-3.6264
+DESCRIPTION:La gran cita nacional en Madrid: WSDC\, tracks pedagógicos por
+  nivel\, shows y sociales hasta el amanecer en formato hotel.\n\nWeb ofici
+ al: https://beemadwcs.com/\n\nFicha completa: https://raymonbil.github.io/
+ wcs-passport/festival/beemad/
+URL:https://raymonbil.github.io/wcs-passport/festival/beemad/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para BeeMAD! Prepara la maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:french-open-wcs-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270511
+SUMMARY:(Por confirmar) French Open WCS 2027 · WCS
+LOCATION:París (sede en la web oficial)
+GEO:48.8566;2.3522
+DESCRIPTION:Uno de los tres grandes de Europa: nivel élite y escaparate de
+  routines antes de la temporada estadounidense.\n\n⚠ Fechas por confirma
+ r. La WSDC lo lista del 5 al 10 de mayo y Westie Hub del 7 al 9: los días
+  centrales del evento serían del 7 al 9.\n\nWeb oficial: https://westiehu
+ b.dance/events/french-open-2027\n\nFicha completa: https://raymonbil.githu
+ b.io/wcs-passport/festival/french-open-wcs/
+URL:https://raymonbil.github.io/wcs-passport/festival/french-open-wcs/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para French Open WCS! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:med-in-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270518
+SUMMARY:(Por confirmar) Med in Swing 2027 · WCS
+LOCATION:The Mediterranean Hall\, Toulon (recinto en un camping)
+GEO:43.1242;5.928
+DESCRIPTION:Festival internacional en la Costa Azul\, organizado por Bret &
+  Joëlle Navarre\, con niveles WSDC y niveles sociales.\n\n⚠ Fechas por 
+ confirmar. La tabla de la WSDC indica del 14 al 17 de mayo\, pero su texto
+  menciona del 25 al 28 de junio. La edición 2026 fue del 7 al 10 de mayo.
+ \n\nWeb oficial: https://www.facebook.com/MedInSwing/\n\nFicha completa: h
+ ttps://raymonbil.github.io/wcs-passport/festival/med-in-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/med-in-swing/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Med in Swing! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:festival-city-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270608
+SUMMARY:Festival City Swing 2027 · WCS
+LOCATION:Britannia Hotel\, Newcastle Airport
+GEO:55.0375;-1.6918
+DESCRIPTION:Evento WSDC organizado por WCS Edinburgh y Moonshine\, junto al
+  aeropuerto de Newcastle.\n\nWeb oficial: https://moonshinedance.com/festi
+ val-city-swing2027\n\nFicha completa: https://raymonbil.github.io/wcs-pass
+ port/festival/festival-city-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/festival-city-swing/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Festival City Swing! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:baltic-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270615
+SUMMARY:Baltic Swing 2027 · WCS
+LOCATION:Gdańsk (sede en la web oficial)
+GEO:54.352;18.6466
+DESCRIPTION:WSDC con ambiente de vacaciones de verano junto al mar Báltico
+ .\n\nWeb oficial: https://www.balticswing.com/\n\nFicha completa: https://
+ raymonbil.github.io/wcs-passport/festival/baltic-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/baltic-swing/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Baltic Swing! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:french-connection-wcs-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270629
+SUMMARY:French Connection WCS 2027 · WCS
+LOCATION:Centre des Congrès de l'Impérial Palace\, Annecy
+GEO:45.9031;6.1449
+DESCRIPTION:El festival más bonito del circuito: palacio de congresos a or
+ illas del lago de Annecy\, con los Alpes de fondo.\n\nWeb oficial: https:/
+ /en.frenchconnectionwcs.com/\n\nFicha completa: https://raymonbil.github.i
+ o/wcs-passport/festival/french-connection-wcs/
+URL:https://raymonbil.github.io/wcs-passport/festival/french-connection-wcs
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para French Connection WCS! Prepara la malet
+ a 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:mediterranean-open-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270713
+SUMMARY:(Por confirmar) Mediterranean Open WCS 2027 · WCS
+LOCATION:Hotel Don Ángel\, Santa Susanna (Barcelona)
+GEO:41.6345;2.7108
+DESCRIPTION:Sun\, sea & swing: WSDC en un resort de playa del Maresme\, con
+  fiestas en la piscina y pistas enormes.\n\n⚠ Fechas por confirmar. Fech
+ as de 2027 aún no publicadas. La edición 2026 fue del 9 al 13 de julio\;
+  la estimación sigue ese patrón.\n\nWeb oficial: https://mediterraneanop
+ enwcs.com/en/home/\n\nFicha completa: https://raymonbil.github.io/wcs-pass
+ port/festival/mediterranean-open/
+URL:https://raymonbil.github.io/wcs-passport/festival/mediterranean-open/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Mediterranean Open WCS! Prepara la male
+ ta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:lisbon-westie-fest-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270802
+SUMMARY:(Por confirmar) Lisbon Westie Fest 2027 · WCS
+LOCATION:VIP Executive Santa Iria Hotel **** (cerca del aeropuerto de Lisbo
+ a)
+GEO:38.8463;-9.0898
+DESCRIPTION:WSDC de verano en Lisboa: hotel junto al aeropuerto\, comunidad
+  portuguesa creciente y una ciudad preciosa para alargar el viaje.\n\n⚠ 
+ Fechas por confirmar. La edición 2026 fue del 30 de julio al 2 de agosto.
+  Fechas de 2027 aún no publicadas.\n\nWeb oficial: https://lisbonwestiefe
+ st.com/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/festiv
+ al/lisbon-westie-fest/
+URL:https://raymonbil.github.io/wcs-passport/festival/lisbon-westie-fest/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Lisbon Westie Fest! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:german-open-wcs-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270809
+SUMMARY:German Open WCS 2027 · WCS
+LOCATION:Ballhaus Freiburg\, Leo-Wohleb-Straße
+GEO:47.9873;7.8406
+DESCRIPTION:El clásico alemán de verano en Friburgo: Strictly y Jack & Ji
+ ll en todas las divisiones\, 7 h de clases y 5 fiestas.\n\nWeb oficial: ht
+ tps://go-wcs.com/\n\nFicha completa: https://raymonbil.github.io/wcs-passp
+ ort/festival/german-open-wcs/
+URL:https://raymonbil.github.io/wcs-passport/festival/german-open-wcs/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para German Open WCS! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:finnfest-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270920
+SUMMARY:(Por confirmar) Finnfest 2027 · WCS
+LOCATION:Helsinki Congress Paasitorni (sede 2026)
+GEO:60.1794;24.9535
+DESCRIPTION:El WSDC de Helsinki\, en el histórico Paasitorni\, junto al ma
+ r.\n\n⚠ Fechas por confirmar. La edición 2026 fue del 17 al 20 de septi
+ embre. Fechas de 2027 sin publicar.\n\nWeb oficial: https://finnfest.fi/\n
+ \nFicha completa: https://raymonbil.github.io/wcs-passport/festival/finnfe
+ st/
+URL:https://raymonbil.github.io/wcs-passport/festival/finnfest/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Finnfest! Prepara la maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:global-grand-prix-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270920
+SUMMARY:(Por confirmar) Global Grand Prix WCS Championships 2027 · WCS
+LOCATION:Hilton Paris Charles de Gaulle Airport
+GEO:49.0003;2.5708
+DESCRIPTION:Campeonato WSDC (Trial) en un hotel junto al aeropuerto de Par
+ ís-CDG.\n\n⚠ Fechas por confirmar. La edición 2026 fue del 18 al 20 de
+  septiembre. Fechas de 2027 sin publicar.\n\nWeb oficial: https://www.glob
+ algrandprixwcs.com/\n\nFicha completa: https://raymonbil.github.io/wcs-pas
+ sport/festival/global-grand-prix/
+URL:https://raymonbil.github.io/wcs-passport/festival/global-grand-prix/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Global Grand Prix WCS Championships! Pr
+ epara la maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:midland-swing-open-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270927
+SUMMARY:Midland Swing Open 2027 · WCS
+LOCATION:Thistle Hotel & Conference Centre\, Heathrow Terminal 5 (sede 2026
+ )
+GEO:51.4813;-0.5016
+DESCRIPTION:Gran evento británico de otoño junto a Heathrow\, con sala so
+ cial dedicada.\n\nWeb oficial: https://midlandswingopen.com/\n\nFicha comp
+ leta: https://raymonbil.github.io/wcs-passport/festival/midland-swing-open
+ /
+URL:https://raymonbil.github.io/wcs-passport/festival/midland-swing-open/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Midland Swing Open! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:madrid-westie-fest-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271004
+SUMMARY:(Por confirmar) Madrid Westie Fest 2027 · WCS
+LOCATION:Círculo de Baile\, Plaza del Conde del Valle de Súchil 3\, Madri
+ d
+GEO:40.4324;-3.7091
+DESCRIPTION:Fin de semana formativo en una escuela de Madrid: clases de alt
+ o nivel y tres sociales\, sin presión de puntos.\n\n⚠ Fechas por confir
+ mar. La edición 2026 fue del 2 al 4 de octubre. Estimamos un fin de seman
+ a de principios de octubre de 2027.\n\nWeb oficial: https://wcswingmadrid.
+ com/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/festival/
+ madrid-westie-fest/
+URL:https://raymonbil.github.io/wcs-passport/festival/madrid-westie-fest/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Madrid Westie Fest! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:norwegian-open-wcs-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271011
+SUMMARY:Norwegian Open WCS 2027 · WCS
+LOCATION:Scandic Hamar\, Vangsveien 121 (sede 2025–2026)
+GEO:60.7945;11.0997
+DESCRIPTION:WSDC noruego a orillas del lago Mjøsa\, con Jack & Jill de New
+ comer a All-Star y Sophisticated.\n\nWeb oficial: https://norwegianopen.no
+ /\n\nFicha completa: https://raymonbil.github.io/wcs-passport/festival/nor
+ wegian-open-wcs/
+URL:https://raymonbil.github.io/wcs-passport/festival/norwegian-open-wcs/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Norwegian Open WCS! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:milan-modern-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271018
+SUMMARY:(Por confirmar) Milan Modern Swing 2027 · WCS
+LOCATION:Sesto San Giovanni\, Milán
+GEO:45.5335;9.2347
+DESCRIPTION:El WSDC de otoño de la comunidad de Milán.\n\n⚠ Fechas por 
+ confirmar. La edición 2026 fue del 15 al 18 de octubre. Fechas de 2027 si
+ n publicar.\n\nWeb oficial: https://www.westcoastswingmilan.com/milanmoder
+ nswing/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/festiv
+ al/milan-modern-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/milan-modern-swing/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Milan Modern Swing! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

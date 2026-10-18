@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UK West Coast Swing Championships 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:uk-wcs-championships-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270330
+SUMMARY:UK West Coast Swing Championships 2027 · WCS
+LOCATION:Radisson RED Hotel London Heathrow\, Sipson
+GEO:51.4803;-0.4434
+DESCRIPTION:El campeonato británico: un gigante con muchísimos competidor
+ es\, incluidos muchos de Estados Unidos.\n\nWeb oficial: https://www.ukwcs
+ champs.com/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/fe
+ stival/uk-wcs-championships/
+URL:https://raymonbil.github.io/wcs-passport/festival/uk-wcs-championships/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para UK West Coast Swing Championships! Prep
+ ara la maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Westie's Angels 2026
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:westies-angels-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261116
+SUMMARY:Westie's Angels 2026 · WCS
+LOCATION:Hotel Logis Est\, Saint-Maurice-de-Beynost (Lyon)
+GEO:45.8253;5.0006
+DESCRIPTION:Fin de semana WSDC centrado en el estilo individual (solo styli
+ ng)\, con intensivo de musicalidad.\n\nWeb oficial: https://www.frenchywes
+ ty.com/westiesangels\n\nFicha completa: https://raymonbil.github.io/wcs-pa
+ ssport/festival/westies-angels/
+URL:https://raymonbil.github.io/wcs-passport/festival/westies-angels/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Westie's Angels! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

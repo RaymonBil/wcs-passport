@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Flowstate 2026
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:flowstate-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261116
+SUMMARY:Flowstate 2026 · WCS
+LOCATION:Thistle Hotel Heathrow Terminal 5\, Bath Road\, Longford
+GEO:51.4813;-0.5016
+DESCRIPTION:Festival de West Coast Swing y Zouk junto a Heathrow\, con Jack
+  & Jill WSDC y BZDC.\n\nWeb oficial: https://flowstatefest.com/\n\nFicha c
+ ompleta: https://raymonbil.github.io/wcs-passport/festival/flowstate/
+URL:https://raymonbil.github.io/wcs-passport/festival/flowstate/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Flowstate! Prepara la maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lisbon Westie Fest 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:lisbon-westie-fest-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270802
+SUMMARY:(Por confirmar) Lisbon Westie Fest 2027 · WCS
+LOCATION:VIP Executive Santa Iria Hotel **** (cerca del aeropuerto de Lisbo
+ a)
+GEO:38.8463;-9.0898
+DESCRIPTION:WSDC de verano en Lisboa: hotel junto al aeropuerto\, comunidad
+  portuguesa creciente y una ciudad preciosa para alargar el viaje.\n\n⚠ 
+ Fechas por confirmar. La edición 2026 fue del 30 de julio al 2 de agosto.
+  Fechas de 2027 aún no publicadas.\n\nWeb oficial: https://lisbonwestiefe
+ st.com/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/festiv
+ al/lisbon-westie-fest/
+URL:https://raymonbil.github.io/wcs-passport/festival/lisbon-westie-fest/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Lisbon Westie Fest! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dutch Open West Coast Swing 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:dutch-open-wcs-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270315
+SUMMARY:(Por confirmar) Dutch Open West Coast Swing 2027 · WCS
+LOCATION:Hotel Asteria\, Venray (sede 2026)
+GEO:51.5259;5.9746
+DESCRIPTION:El evento WSDC histórico de los Países Bajos\, en formato hot
+ el.\n\n⚠ Fechas por confirmar. La edición 2026 fue del 12 al 15 de marz
+ o. Fechas de 2027 sin publicar.\n\nWeb oficial: https://www.yourdancebuddy
+ .com/events/dutch-open-west-coast-swing-2026\n\nFicha completa: https://ra
+ ymonbil.github.io/wcs-passport/festival/dutch-open-wcs/
+URL:https://raymonbil.github.io/wcs-passport/festival/dutch-open-wcs/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Dutch Open West Coast Swing! Prepara la
+  maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:BeeMAD 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:beemad-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270503
+SUMMARY:BeeMAD 2027 · WCS
+LOCATION:Hotel Eurostars Puerta Madrid
+GEO:40.4466;-3.6264
+DESCRIPTION:La gran cita nacional en Madrid: WSDC\, tracks pedagógicos por
+  nivel\, shows y sociales hasta el amanecer en formato hotel.\n\nWeb ofici
+ al: https://beemadwcs.com/\n\nFicha completa: https://raymonbil.github.io/
+ wcs-passport/festival/beemad/
+URL:https://raymonbil.github.io/wcs-passport/festival/beemad/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para BeeMAD! Prepara la maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

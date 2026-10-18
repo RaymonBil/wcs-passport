@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Winter Coast Swing 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:winter-coast-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270301
+SUMMARY:Winter Coast Swing 2027 · WCS
+LOCATION:Sport & Spa Hotel Vesileppis\, Leppävirta (pista de 450 m²)
+GEO:62.4911;27.7867
+DESCRIPTION:WSDC en un hotel-spa de la región de los lagos de Finlandia: p
+ ista\, habitación\, sauna y túnel de esquí bajo el mismo techo.\n\nWeb 
+ oficial: https://www.wintercoastswing.com/\n\nFicha completa: https://raym
+ onbil.github.io/wcs-passport/festival/winter-coast-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/winter-coast-swing/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Winter Coast Swing! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

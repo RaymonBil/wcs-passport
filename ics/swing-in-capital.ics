@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Swing in Capital 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:swing-in-capital-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270405
+SUMMARY:Swing in Capital 2027 · WCS
+LOCATION:Hotel Capannelle ****\, junto al Parque de la Vía Apia Antigua\, 
+ Roma
+GEO:41.8317;12.5631
+DESCRIPTION:WSDC en Roma en primavera\, en un hotel junto a la Vía Apia An
+ tigua\, con niveles de nombres romanos.\n\nWeb oficial: https://swingincap
+ ital.com/?locale=en\n\nFicha completa: https://raymonbil.github.io/wcs-pas
+ sport/festival/swing-in-capital/
+URL:https://raymonbil.github.io/wcs-passport/festival/swing-in-capital/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Swing in Capital! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

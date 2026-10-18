@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Trinity Swing 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:trinity-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270208
+SUMMARY:Trinity Swing 2027 · WCS
+LOCATION:Carrickdale Hotel & Spa ****\, Dundalk
+GEO:54.0544;-6.3333
+DESCRIPTION:El primer evento WSDC de Irlanda\, en un hotel-spa: 4 niveles d
+ e workshops\, 3 noches y 2 salones.\n\nWeb oficial: https://www.trinityswi
+ ng.com/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/festiv
+ al/trinity-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/trinity-swing/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Trinity Swing! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

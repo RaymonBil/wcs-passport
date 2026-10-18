@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Year's Swing Fling 2026–27
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:new-years-swing-fling-2026–27@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20270104
+SUMMARY:New Year's Swing Fling 2026–27 · WCS
+LOCATION:Radisson RED Hotel London Heathrow
+GEO:51.4803;-0.4434
+DESCRIPTION:Despide el año bailando en Londres: Nochevieja\, workshops con
+  profesores top y Jack & Jill de Newcomer a Masters.\n\nWeb oficial: https
+ ://www.nysf.uk/\n\nFicha completa: https://raymonbil.github.io/wcs-passpor
+ t/festival/new-years-swing-fling/
+URL:https://raymonbil.github.io/wcs-passport/festival/new-years-swing-fling
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para New Year's Swing Fling! Prepara la male
+ ta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:French Open WCS 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:french-open-wcs-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270511
+SUMMARY:(Por confirmar) French Open WCS 2027 · WCS
+LOCATION:París (sede en la web oficial)
+GEO:48.8566;2.3522
+DESCRIPTION:Uno de los tres grandes de Europa: nivel élite y escaparate de
+  routines antes de la temporada estadounidense.\n\n⚠ Fechas por confirma
+ r. La WSDC lo lista del 5 al 10 de mayo y Westie Hub del 7 al 9: los días
+  centrales del evento serían del 7 al 9.\n\nWeb oficial: https://westiehu
+ b.dance/events/french-open-2027\n\nFicha completa: https://raymonbil.githu
+ b.io/wcs-passport/festival/french-open-wcs/
+URL:https://raymonbil.github.io/wcs-passport/festival/french-open-wcs/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para French Open WCS! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

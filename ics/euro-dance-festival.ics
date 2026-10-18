@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Euro Dance Festival (WSDC) 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:euro-dance-festival-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270215
+SUMMARY:Euro Dance Festival (WSDC) 2027 · WCS
+LOCATION:Europa-Park\, Rust
+GEO:48.266;7.7221
+DESCRIPTION:Megafestival multiestilo dentro de Europa-Park\, con sala de WC
+ S hasta las 3:00 y competición WSDC el sábado.\n\nWeb oficial: https://w
+ ww.euro-dance-festival.com/en/rust/wsdc/\n\nFicha completa: https://raymon
+ bil.github.io/wcs-passport/festival/euro-dance-festival/
+URL:https://raymonbil.github.io/wcs-passport/festival/euro-dance-festival/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Euro Dance Festival (WSDC)! Prepara la 
+ maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

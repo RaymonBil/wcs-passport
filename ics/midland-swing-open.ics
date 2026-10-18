@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Midland Swing Open 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:midland-swing-open-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270927
+SUMMARY:Midland Swing Open 2027 · WCS
+LOCATION:Thistle Hotel & Conference Centre\, Heathrow Terminal 5 (sede 2026
+ )
+GEO:51.4813;-0.5016
+DESCRIPTION:Gran evento británico de otoño junto a Heathrow\, con sala so
+ cial dedicada.\n\nWeb oficial: https://midlandswingopen.com/\n\nFicha comp
+ leta: https://raymonbil.github.io/wcs-passport/festival/midland-swing-open
+ /
+URL:https://raymonbil.github.io/wcs-passport/festival/midland-swing-open/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Midland Swing Open! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

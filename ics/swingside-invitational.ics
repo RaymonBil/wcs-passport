@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Swingside Invitational 2026
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:swingside-invitational-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261026
+SUMMARY:Swingside Invitational 2026 · WCS
+LOCATION:Palais des Congrès de Liège
+GEO:50.6337;5.5793
+DESCRIPTION:Evento 100 % West Coast Swing en el Palacio de Congresos de Lie
+ ja.\n\nWeb oficial: https://www.swingside.be/festival-westcoastswing/\n\nF
+ icha completa: https://raymonbil.github.io/wcs-passport/festival/swingside
+ -invitational/
+URL:https://raymonbil.github.io/wcs-passport/festival/swingside-invitationa
+ l/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Swingside Invitational! Prepara la male
+ ta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

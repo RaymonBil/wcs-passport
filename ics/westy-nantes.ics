@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Westy Nantes 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:westy-nantes-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270419
+SUMMARY:(Por confirmar) Westy Nantes 2027 · WCS
+LOCATION:Sure Hotel by Best Western Nantes Beaujoire\, 27 Rue du Chemin Rou
+ ge
+GEO:47.2558;-1.5209
+DESCRIPTION:Evento regional asequible en Nantes\, con la técnica de la esc
+ uela francesa.\n\n⚠ Fechas por confirmar. Facebook indica que empieza el
+  16 de abril de 2027\; otro listado da del 15 al 18 «por confirmar».\n\n
+ Web oficial: https://www.facebook.com/p/Page-Westy-Nantes-61553121058244/\
+ n\nFicha completa: https://raymonbil.github.io/wcs-passport/festival/westy
+ -nantes/
+URL:https://raymonbil.github.io/wcs-passport/festival/westy-nantes/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Westy Nantes! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Swingtzerland 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:swingtzerland-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270208
+SUMMARY:Swingtzerland 2027 · WCS
+LOCATION:Zúrich (sede en la web oficial)
+GEO:47.3769;8.5417
+DESCRIPTION:El clásico suizo de alta gama en Zúrich: nivel altísimo\, or
+ ganización impecable y precios a juego.\n\nWeb oficial: http://www.swingt
+ zerland.ch/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/fe
+ stival/swingtzerland/
+URL:https://raymonbil.github.io/wcs-passport/festival/swingtzerland/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Swingtzerland! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

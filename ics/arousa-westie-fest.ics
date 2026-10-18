@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Arousa Westie Fest 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:arousa-westie-fest-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270222
+SUMMARY:Arousa Westie Fest 2027 · WCS
+LOCATION:Hotel Carlos I Silgar ****\, Sanxenxo
+GEO:42.4006;-8.8086
+DESCRIPTION:El evento boutique de Galicia: competición WSDC sin preliminar
+ es masivas\, marisco\, albariño y hospitalidad atlántica.\n\nWeb oficial
+ : https://www.arousawestiefest.com/\n\nFicha completa: https://raymonbil.g
+ ithub.io/wcs-passport/festival/arousa-westie-fest/
+URL:https://raymonbil.github.io/wcs-passport/festival/arousa-westie-fest/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Arousa Westie Fest! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

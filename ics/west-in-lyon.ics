@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:West In Lyon 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:west-in-lyon-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+SUMMARY:West In Lyon 2027 · WCS
+LOCATION:Lyon (sede en la web oficial)
+GEO:45.764;4.8357
+DESCRIPTION:Uno de los grandes WSDC franceses de primavera\, en la capital 
+ gastronómica de Francia.\n\nWeb oficial: https://www.west-in-lyon.fr/\n\n
+ Ficha completa: https://raymonbil.github.io/wcs-passport/festival/west-in-
+ lyon/
+URL:https://raymonbil.github.io/wcs-passport/festival/west-in-lyon/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para West In Lyon! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

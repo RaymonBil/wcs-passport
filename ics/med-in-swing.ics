@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Med in Swing 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:med-in-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270518
+SUMMARY:(Por confirmar) Med in Swing 2027 · WCS
+LOCATION:The Mediterranean Hall\, Toulon (recinto en un camping)
+GEO:43.1242;5.928
+DESCRIPTION:Festival internacional en la Costa Azul\, organizado por Bret &
+  Joëlle Navarre\, con niveles WSDC y niveles sociales.\n\n⚠ Fechas por 
+ confirmar. La tabla de la WSDC indica del 14 al 17 de mayo\, pero su texto
+  menciona del 25 al 28 de junio. La edición 2026 fue del 7 al 10 de mayo.
+ \n\nWeb oficial: https://www.facebook.com/MedInSwing/\n\nFicha completa: h
+ ttps://raymonbil.github.io/wcs-passport/festival/med-in-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/med-in-swing/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Med in Swing! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

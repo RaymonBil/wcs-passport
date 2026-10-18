@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Warsaw Halloween Swing 2026
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:warsaw-halloween-swing-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261103
+SUMMARY:Warsaw Halloween Swing 2026 · WCS
+LOCATION:The Westin Warsaw
+GEO:52.2337;20.9963
+DESCRIPTION:11.º aniversario de la fiesta de disfraces más grande del WCS
+  europeo\, en el Westin de Varsovia.\n\nWeb oficial: https://warsawhallowe
+ enswing.com/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/f
+ estival/warsaw-halloween-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/warsaw-halloween-swin
+ g/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Warsaw Halloween Swing! Prepara la male
+ ta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

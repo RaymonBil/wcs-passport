@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Project Switch 2026
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:project-switch-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:Project Switch 2026 · WCS
+LOCATION:Tumblingerstraße 34a\, Múnich
+GEO:48.1236;11.5532
+DESCRIPTION:El evento del cambio de rol: aprende a bailar tu segundo rol co
+ n Clem & Evi y compite en equipos que rotan.\n\nWeb oficial: https://www.r
+ egioactive.de/tanz/project-switch-the-wcs-event-in-munich-muenchen-tumblin
+ gerstrasse-34a-2026-11-27-lnRvXQbj6D\n\nFicha completa: https://raymonbil.
+ github.io/wcs-passport/festival/project-switch/
+URL:https://raymonbil.github.io/wcs-passport/festival/project-switch/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Project Switch! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

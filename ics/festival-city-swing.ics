@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Festival City Swing 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:festival-city-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270608
+SUMMARY:Festival City Swing 2027 · WCS
+LOCATION:Britannia Hotel\, Newcastle Airport
+GEO:55.0375;-1.6918
+DESCRIPTION:Evento WSDC organizado por WCS Edinburgh y Moonshine\, junto al
+  aeropuerto de Newcastle.\n\nWeb oficial: https://moonshinedance.com/festi
+ val-city-swing2027\n\nFicha completa: https://raymonbil.github.io/wcs-pass
+ port/festival/festival-city-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/festival-city-swing/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Festival City Swing! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

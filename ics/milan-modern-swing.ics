@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Milan Modern Swing 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:milan-modern-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271018
+SUMMARY:(Por confirmar) Milan Modern Swing 2027 · WCS
+LOCATION:Sesto San Giovanni\, Milán
+GEO:45.5335;9.2347
+DESCRIPTION:El WSDC de otoño de la comunidad de Milán.\n\n⚠ Fechas por 
+ confirmar. La edición 2026 fue del 15 al 18 de octubre. Fechas de 2027 si
+ n publicar.\n\nWeb oficial: https://www.westcoastswingmilan.com/milanmoder
+ nswing/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/festiv
+ al/milan-modern-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/milan-modern-swing/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Milan Modern Swing! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

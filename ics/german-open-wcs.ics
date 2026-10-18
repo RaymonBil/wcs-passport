@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:German Open WCS 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:german-open-wcs-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270809
+SUMMARY:German Open WCS 2027 · WCS
+LOCATION:Ballhaus Freiburg\, Leo-Wohleb-Straße
+GEO:47.9873;7.8406
+DESCRIPTION:El clásico alemán de verano en Friburgo: Strictly y Jack & Ji
+ ll en todas las divisiones\, 7 h de clases y 5 fiestas.\n\nWeb oficial: ht
+ tps://go-wcs.com/\n\nFicha completa: https://raymonbil.github.io/wcs-passp
+ ort/festival/german-open-wcs/
+URL:https://raymonbil.github.io/wcs-passport/festival/german-open-wcs/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para German Open WCS! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

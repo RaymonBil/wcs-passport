@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Prague Alchemy Swing 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:prague-alchemy-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270222
+SUMMARY:Prague Alchemy Swing 2027 · WCS
+LOCATION:Praga (sede en la web oficial)
+GEO:50.0755;14.4378
+DESCRIPTION:WSDC en la ciudad de las cien torres\, a mediados de febrero.\n
+ \nWeb oficial: https://praguealchemyswing.cz/\n\nFicha completa: https://r
+ aymonbil.github.io/wcs-passport/festival/prague-alchemy-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/prague-alchemy-swing/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Prague Alchemy Swing! Prepara la maleta
+  🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

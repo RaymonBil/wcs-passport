@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Baltic Swing 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:baltic-swing-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270615
+SUMMARY:Baltic Swing 2027 · WCS
+LOCATION:Gdańsk (sede en la web oficial)
+GEO:54.352;18.6466
+DESCRIPTION:WSDC con ambiente de vacaciones de verano junto al mar Báltico
+ .\n\nWeb oficial: https://www.balticswing.com/\n\nFicha completa: https://
+ raymonbil.github.io/wcs-passport/festival/baltic-swing/
+URL:https://raymonbil.github.io/wcs-passport/festival/baltic-swing/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Baltic Swing! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Berlin Swing Revolution 2026
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:berlin-swing-revolution-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261214
+SUMMARY:Berlin Swing Revolution 2026 · WCS
+LOCATION:Werk36\, Berlín
+GEO:52.5163;13.4545
+DESCRIPTION:WSDC en Berlín en plena temporada de mercadillos navideños\, 
+ con 9 horas de workshops.\n\nWeb oficial: https://berlinswingrevolution.co
+ m/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/festival/be
+ rlin-swing-revolution/
+URL:https://raymonbil.github.io/wcs-passport/festival/berlin-swing-revoluti
+ on/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Berlin Swing Revolution! Prepara la mal
+ eta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

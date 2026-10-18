@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:SwingVester 2026–27
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:swingvester-2026–27@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20270105
+SUMMARY:SwingVester 2026–27 · WCS
+LOCATION:Tanzschule Hippmann\, Pollheimerstraße 7\, Wels (≈ 2.000 m² en
+  7 salas)
+GEO:48.1597;14.0283
+DESCRIPTION:Cinco días de baile para despedir el año en Austria: 2.000 m
+ ² de pista en siete salas y competición WSDC.\n\nWeb oficial: https://ww
+ w.swingvester.com/\n\nFicha completa: https://raymonbil.github.io/wcs-pass
+ port/festival/swingvester/
+URL:https://raymonbil.github.io/wcs-passport/festival/swingvester/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para SwingVester! Prepara la maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Westie Pink City 2026
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:westie-pink-city-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY:Westie Pink City 2026 · WCS
+LOCATION:NH Toulouse Airport ****\, Blagnac
+GEO:43.6455;1.3745
+DESCRIPTION:El WSDC del suroeste francés en un hotel junto al aeropuerto d
+ e Toulouse: workshops por niveles\, J&J y Strictly.\n\nWeb oficial: https:
+ //www.westiepinkcity.fr/\n\nFicha completa: https://raymonbil.github.io/wc
+ s-passport/festival/westie-pink-city/
+URL:https://raymonbil.github.io/wcs-passport/festival/westie-pink-city/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Westie Pink City! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

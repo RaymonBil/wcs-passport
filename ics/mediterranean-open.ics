@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mediterranean Open WCS 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:mediterranean-open-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270713
+SUMMARY:(Por confirmar) Mediterranean Open WCS 2027 · WCS
+LOCATION:Hotel Don Ángel\, Santa Susanna (Barcelona)
+GEO:41.6345;2.7108
+DESCRIPTION:Sun\, sea & swing: WSDC en un resort de playa del Maresme\, con
+  fiestas en la piscina y pistas enormes.\n\n⚠ Fechas por confirmar. Fech
+ as de 2027 aún no publicadas. La edición 2026 fue del 9 al 13 de julio\;
+  la estimación sigue ese patrón.\n\nWeb oficial: https://mediterraneanop
+ enwcs.com/en/home/\n\nFicha completa: https://raymonbil.github.io/wcs-pass
+ port/festival/mediterranean-open/
+URL:https://raymonbil.github.io/wcs-passport/festival/mediterranean-open/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Mediterranean Open WCS! Prepara la male
+ ta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

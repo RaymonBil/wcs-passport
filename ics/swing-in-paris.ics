@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Swing In Paris 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:swing-in-paris-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270125
+SUMMARY:Swing In Paris 2027 · WCS
+LOCATION:Le Méridien Paris Arc de Triomphe
+GEO:48.8794;2.2846
+DESCRIPTION:Evento WSDC Trial en pleno París\, en el mismo hotel que el Pa
+ ris Swing Classic.\n\nWeb oficial: https://swing-in-paris.com/en\n\nFicha 
+ completa: https://raymonbil.github.io/wcs-passport/festival/swing-in-paris
+ /
+URL:https://raymonbil.github.io/wcs-passport/festival/swing-in-paris/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Swing In Paris! Prepara la maleta 🕺
+ 💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

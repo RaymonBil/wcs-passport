@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Norwegian Open WCS 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:norwegian-open-wcs-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271011
+SUMMARY:Norwegian Open WCS 2027 · WCS
+LOCATION:Scandic Hamar\, Vangsveien 121 (sede 2025–2026)
+GEO:60.7945;11.0997
+DESCRIPTION:WSDC noruego a orillas del lago Mjøsa\, con Jack & Jill de New
+ comer a All-Star y Sophisticated.\n\nWeb oficial: https://norwegianopen.no
+ /\n\nFicha completa: https://raymonbil.github.io/wcs-passport/festival/nor
+ wegian-open-wcs/
+URL:https://raymonbil.github.io/wcs-passport/festival/norwegian-open-wcs/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Norwegian Open WCS! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

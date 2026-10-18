@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Paris Swing Classic 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:paris-swing-classic-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270301
+SUMMARY:Paris Swing Classic 2027 · WCS
+LOCATION:Le Méridien Paris Arc de Triomphe (≈ 2.000 m² de pista)
+GEO:48.8794;2.2846
+DESCRIPTION:Gran WSDC parisino con unos 2.000 m² de pista en un cuatro est
+ rellas junto a los Campos Elíseos.\n\nWeb oficial: https://parisswingclas
+ sic.com/\n\nFicha completa: https://raymonbil.github.io/wcs-passport/festi
+ val/paris-swing-classic/
+URL:https://raymonbil.github.io/wcs-passport/festival/paris-swing-classic/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Paris Swing Classic! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

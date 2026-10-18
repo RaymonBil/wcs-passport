@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:French Connection WCS 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:french-connection-wcs-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270629
+SUMMARY:French Connection WCS 2027 · WCS
+LOCATION:Centre des Congrès de l'Impérial Palace\, Annecy
+GEO:45.9031;6.1449
+DESCRIPTION:El festival más bonito del circuito: palacio de congresos a or
+ illas del lago de Annecy\, con los Alpes de fondo.\n\nWeb oficial: https:/
+ /en.frenchconnectionwcs.com/\n\nFicha completa: https://raymonbil.github.i
+ o/wcs-passport/festival/french-connection-wcs/
+URL:https://raymonbil.github.io/wcs-passport/festival/french-connection-wcs
+ /
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para French Connection WCS! Prepara la malet
+ a 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

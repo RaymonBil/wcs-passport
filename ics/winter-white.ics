@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Winter White WCS 2026
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:winter-white-2026@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261207
+SUMMARY:Winter White WCS 2026 · WCS
+LOCATION:Scandic Oslo Airport\, Ravinevegen 15\, Gardermoen (sede nueva)
+GEO:60.1958;11.1006
+DESCRIPTION:Evento WSDC íntimo y acogedor en Noruega\, junto al aeropuerto
+  de Oslo.\n\nWeb oficial: https://www.winterwhite.no/\n\nFicha completa: h
+ ttps://raymonbil.github.io/wcs-passport/festival/winter-white/
+URL:https://raymonbil.github.io/wcs-passport/festival/winter-white/
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Winter White WCS! Prepara la maleta 
+ 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR

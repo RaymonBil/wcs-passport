@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Levante West Coast Swing//WCS Passport//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Global Grand Prix WCS Championships 2027
+X-WR-TIMEZONE:Europe/Madrid
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:global-grand-prix-2027@wcs-passport
+DTSTAMP:20261018T183144Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270920
+SUMMARY:(Por confirmar) Global Grand Prix WCS Championships 2027 · WCS
+LOCATION:Hilton Paris Charles de Gaulle Airport
+GEO:49.0003;2.5708
+DESCRIPTION:Campeonato WSDC (Trial) en un hotel junto al aeropuerto de Par
+ ís-CDG.\n\n⚠ Fechas por confirmar. La edición 2026 fue del 18 al 20 de
+  septiembre. Fechas de 2027 sin publicar.\n\nWeb oficial: https://www.glob
+ algrandprixwcs.com/\n\nFicha completa: https://raymonbil.github.io/wcs-pas
+ sport/festival/global-grand-prix/
+URL:https://raymonbil.github.io/wcs-passport/festival/global-grand-prix/
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:¡Quedan 2 semanas para Global Grand Prix WCS Championships! Pr
+ epara la maleta 🕺💃
+TRIGGER:-P14D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
