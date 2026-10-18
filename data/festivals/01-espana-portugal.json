@@ -1,0 +1,234 @@
+[
+  {
+    "slug": "arousa-westie-fest",
+    "name": "Arousa Westie Fest",
+    "edition": "2027",
+    "region": "espana",
+    "country": "España",
+    "countryCode": "ES",
+    "cityId": "sanxenxo",
+    "venue": "Hotel Carlos I Silgar ****, Sanxenxo",
+    "coords": [42.4006, -8.8086],
+    "start": "2027-02-18",
+    "end": "2027-02-21",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "boutique",
+    "tags": ["hotel", "gastronomía", "mar", "puntos al inicio de año"],
+    "beginner": 5,
+    "costLevel": 2,
+    "prices": [
+      { "label": "Full Pass", "value": "145 € early bird (20 pases, en pareja) · 165 € normal · 185 € late" },
+      { "label": "Party Pass", "value": "110 € early (20 pases) · 130 € general" },
+      { "label": "All-Star Pass", "value": "Gratis (puede incluir juzgar o hacer de taxi dancer)" },
+      { "label": "Descuentos", "value": "−35 % para menores de 18 años en tarifas normal y late" }
+    ],
+    "priceYear": "2027",
+    "priceRefEUR": 165,
+    "priceNote": "El alojamiento y las comidas se reservan directamente con el hotel, escribiendo a reservas@hotelcarlos.es con el asunto «WESTIE FEST 2027».",
+    "website": "https://www.arousawestiefest.com/",
+    "summary": {
+      "es": "El evento boutique de Galicia: competición WSDC sin preliminares masivas, marisco, albariño y hospitalidad atlántica.",
+      "en": "Galicia's boutique WSDC event: competitions without huge prelims, seafood, Albariño wine and Atlantic hospitality."
+    },
+    "description": "El Arousa Westie Fest abre la temporada española de puntos. Como es un evento boutique, el aforo es más reducido que en las grandes convenciones europeas: las rondas preliminares son más cortas y los jueces te ven más veces, algo clave si buscas tus primeros puntos. Todo ocurre en un único hotel frente a la playa de Silgar (clases, competiciones y sociales), y la parte gastronómica es tan protagonista como la pista.",
+    "highlights": [
+      "Ideal para debutar en Newcomer o Novice: preliminares menos multitudinarias.",
+      "Formato hotel: duermes, comes y bailas en el mismo edificio.",
+      "Gastronomía gallega de primer nivel y albariño de la D.O. Rías Baixas.",
+      "Primera cita WSDC del año en España."
+    ],
+    "levanteTip": "Es nuestra recomendación n.º 1 para tu primer Jack & Jill. Reserva el early bird en pareja (leader + follower del mismo nivel) en cuanto abran: solo hay 20 plazas. Compartir coche desde el Levante sale caro por la distancia; lo práctico es volar a Santiago o Vigo y compartir un taxi o un coche de alquiler.",
+    "access": "El hotel está en el paseo de Silgar, en el centro de Sanxenxo. Desde Vigo o Santiago no hay transporte público directo cómodo: coche de alquiler o taxi compartido.",
+    "sources": [
+      "https://www.arousawestiefest.com/",
+      "https://thedanceatlas.com/countries/spain/styles/west-coast-swing"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "beemad",
+    "name": "BeeMAD",
+    "edition": "2027",
+    "region": "espana",
+    "country": "España",
+    "countryCode": "ES",
+    "cityId": "madrid",
+    "venue": "Hotel Eurostars Puerta Madrid",
+    "coords": [40.4466, -3.6264],
+    "start": "2027-04-29",
+    "end": "2027-05-02",
+    "dateStatus": "confirmed",
+    "dateNote": "Fechas publicadas en listados del evento. Coincide con el puente del 1 de mayo.",
+    "wsdc": "registry",
+    "size": "grande",
+    "tags": ["hotel", "puente de mayo", "tracks pedagógicos", "social hasta el amanecer"],
+    "beginner": 4,
+    "costLevel": 2,
+    "prices": [
+      { "label": "Full Pass (2026)", "value": "160 € early (50 pases) · 180 € normal · 195 € late" },
+      { "label": "Party Pass (2026)", "value": "120 € – 150 € según tramo" },
+      { "label": "Hotel (referencia)", "value": "150 € individual · 165 € doble/twin, desayuno incluido, por noche" }
+    ],
+    "priceYear": "2026 (referencia)",
+    "priceRefEUR": 180,
+    "priceNote": "En otra página oficial aparecen 165/185/198 €. Confirma las tarifas de 2027 cuando abran las inscripciones.",
+    "website": "https://beemadwcs.com/",
+    "summary": {
+      "es": "La gran cita nacional en Madrid: WSDC, tracks pedagógicos por nivel, shows y sociales hasta el amanecer en formato hotel.",
+      "en": "Spain's big national WSDC event in Madrid: leveled tracks, shows and dawn-to-dusk socials in a convention hotel."
+    },
+    "description": "BeeMAD es el buque insignia del West Coast Swing en el centro de España, organizado por la comunidad de West Coast Swing Madrid. Combina rigor competitivo WSDC con un ambiente muy festivo: el Full Pass incluye 6 horas de clases por niveles, las fiestas de viernes, sábado y domingo, los shows y el acceso a competir. Al celebrarse en un hotel de convenciones, la burbuja social es total.",
+    "highlights": [
+      "El evento WSDC más grande de España.",
+      "Clases por tracks (niveles) para que aproveches cada hora.",
+      "Pre-party en Círculo de Baile la semana del evento.",
+      "Ambiente internacional, con mucho público de toda Europa."
+    ],
+    "levanteTip": "Desde Alicante o Murcia, el AVE/Ouigo te deja en Madrid en algo más de 2 horas: compra los billetes en cuanto confirmes el pase y sale tirado. Es el mejor sitio para tu segundo o tercer Jack & Jill, cuando ya sabes cómo funciona un evento.",
+    "access": "El hotel está en la zona de Barajas/Avenida de América. Metro línea 5 o 2 + bus, o taxi desde el aeropuerto (≈ 10 min) o desde Atocha (≈ 20 min).",
+    "sources": [
+      "https://beemadwcs.com/",
+      "https://wcswingmadrid.com/en/event/beemad-2026-wsdc-registry/",
+      "https://www.yourdancebuddy.com/events/beemad-2027"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "mediterranean-open",
+    "name": "Mediterranean Open WCS",
+    "edition": "2027",
+    "region": "espana",
+    "country": "España",
+    "countryCode": "ES",
+    "cityId": "santa-susanna",
+    "venue": "Hotel Don Ángel, Santa Susanna (Barcelona)",
+    "coords": [41.6345, 2.7108],
+    "start": "2027-07-08",
+    "end": "2027-07-12",
+    "dateStatus": "tentative",
+    "dateNote": "Fechas de 2027 aún no publicadas. La edición 2026 fue del 9 al 13 de julio; la estimación sigue ese patrón.",
+    "wsdc": "registry",
+    "size": "grande",
+    "tags": ["playa", "piscina", "vacaciones", "resort", "verano"],
+    "beginner": 4,
+    "costLevel": 2,
+    "prices": [
+      { "label": "Event Pass / Intensive / Hotel", "value": "Se compran por separado en DanceApp. Precio desconocido." },
+      { "label": "Inscripción a competición (2026)", "value": "15 € por división y rol (solo en efectivo)" }
+    ],
+    "priceYear": "2026",
+    "website": "https://mediterraneanopenwcs.com/en/home/",
+    "summary": {
+      "es": "Sun, sea & swing: WSDC en un resort de playa del Maresme, con fiestas en la piscina y pistas enormes.",
+      "en": "Sun, sea & swing: a WSDC event at a Costa del Maresme beach resort with pool parties and huge floors."
+    },
+    "description": "El Mediterranean Open es la versión «vacaciones» del circuito: un resort a pie de playa donde se combinan competiciones WSDC, clases y sociales con piscina y mar. Es ideal si quieres juntar viaje de verano y baile sin salir de España. El evento cuida el equilibrio de roles entre leaders y followers en las inscripciones.",
+    "highlights": [
+      "Resort a pie de playa con piscina.",
+      "Ambiente relajado: perfecto si los nervios de competir te frenan.",
+      "Cerca de Barcelona, muy fácil de combinar con turismo.",
+      "Equilibrio de roles en la inscripción."
+    ],
+    "levanteTip": "Desde Valencia o Alicante en coche por la AP-7 (4–6 h), compartiendo gastos, es la opción más barata. Lleva efectivo para las inscripciones a competición.",
+    "access": "Rodalies R1 hasta Santa Susanna y unos minutos a pie hasta el hotel, junto a la playa.",
+    "sources": [
+      "https://mediterraneanopenwcs.com/en/home/",
+      "https://mediterraneanopenwcs.com/en/competition/"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "madrid-westie-fest",
+    "name": "Madrid Westie Fest",
+    "edition": "2027",
+    "region": "espana",
+    "country": "España",
+    "countryCode": "ES",
+    "cityId": "madrid",
+    "venue": "Círculo de Baile, Plaza del Conde del Valle de Súchil 3, Madrid",
+    "coords": [40.4324, -3.7091],
+    "start": "2027-10-01",
+    "end": "2027-10-03",
+    "dateStatus": "tentative",
+    "dateNote": "La edición 2026 fue del 2 al 4 de octubre. Estimamos un fin de semana de principios de octubre de 2027.",
+    "wsdc": "none",
+    "size": "boutique",
+    "tags": ["formativo", "sin competición", "escuela", "sociales"],
+    "beginner": 5,
+    "costLevel": 1,
+    "prices": [
+      { "label": "Full Pass (2026)", "value": "88 € early bird · 98 € normal (6 clases + 3 sociales)" },
+      { "label": "Party / Beginner Pass", "value": "45 € / 30 € (dato de otra edición, sin confirmar)" }
+    ],
+    "priceYear": "2026",
+    "priceRefEUR": 98,
+    "website": "https://wcswingmadrid.com/",
+    "teachers": ["Sara Mouchon & Fran Vidal", "Lauren Jones & Daniel Pavlov (2026)"],
+    "summary": {
+      "es": "Fin de semana formativo en una escuela de Madrid: clases de alto nivel y tres sociales, sin presión de puntos.",
+      "en": "A training weekend at a Madrid dance school: top-level classes and three socials, no points pressure."
+    },
+    "description": "El Madrid Westie Fest no tiene competición WSDC, y precisamente ahí está su gracia: es un fin de semana para aprender y bailar. Se celebra en Círculo de Baile, la escuela de referencia de Sara Mouchon y Fran Vidal, pioneros del WCS en España, con profesores invitados internacionales. El pase incluye 6 clases y las sociales de viernes, sábado y domingo.",
+    "highlights": [
+      "Clases con Sara Mouchon y Fran Vidal, pioneros nacionales.",
+      "Precio muy asequible.",
+      "Perfecto para tu primer evento fuera de casa.",
+      "Ambiente de escuela, cercano y familiar."
+    ],
+    "levanteTip": "Es el mejor «primer evento» posible para alguien que lleva pocos meses de clases en el Levante: no hay que competir, el precio es bajo y Madrid está a 2 horas en tren.",
+    "access": "Metro Quevedo o Canal (líneas 2 y 7), a pocos minutos a pie.",
+    "sources": [
+      "https://wcswingmadrid.com/events/madrid-westie-fest-2026/",
+      "https://circulodebaile.es/"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "lisbon-westie-fest",
+    "name": "Lisbon Westie Fest",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "cityId": "lisboa",
+    "venue": "VIP Executive Santa Iria Hotel **** (cerca del aeropuerto de Lisboa)",
+    "coords": [38.8463, -9.0898],
+    "start": "2027-07-29",
+    "end": "2027-08-01",
+    "dateStatus": "tentative",
+    "dateNote": "La edición 2026 fue del 30 de julio al 2 de agosto. Fechas de 2027 aún no publicadas.",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": ["verano", "hotel", "capital", "asequible"],
+    "beginner": 4,
+    "costLevel": 2,
+    "prices": [
+      { "label": "Full Pass (2026)", "value": "140 € super early · 160 € early · 170 € normal · 185 € late" },
+      { "label": "Party Pass (2026)", "value": "110 € early · 130 € normal" },
+      { "label": "Grupos", "value": "−10 % en Full Pass para grupos de 10 o más (cierre de grupo el 1 de junio)" }
+    ],
+    "priceYear": "2026",
+    "priceRefEUR": 170,
+    "priceNote": "En 2026 el Full Pass llegó a agotarse: compra pronto.",
+    "website": "https://lisbonwestiefest.com/",
+    "summary": {
+      "es": "WSDC de verano en Lisboa: hotel junto al aeropuerto, comunidad portuguesa creciente y una ciudad preciosa para alargar el viaje.",
+      "en": "Summer WSDC event in Lisbon: airport-side hotel, a fast-growing Portuguese scene and a gorgeous city to extend your trip."
+    },
+    "description": "El Lisbon Westie Fest es el evento WSDC de Portugal: Jack & Jill oficiales, workshops y fiestas en un hotel cuatro estrellas cerca del aeropuerto. Incluye también un Invitational sin puntuación WSDC. Con vuelos directos desde casi toda España y precios contenidos, es una de las mejores opciones de verano.",
+    "highlights": [
+      "Descuento de grupo del 10 %: ideal para ir con la comunidad del Levante.",
+      "Lisboa en verano, con atardeceres sobre el Tajo.",
+      "Hotel a 15–20 min del aeropuerto.",
+      "Comunidad portuguesa en pleno crecimiento."
+    ],
+    "levanteTip": "Organicemos un grupo de 10 o más para el descuento: escríbelo en el grupo de WhatsApp antes del 1 de junio.",
+    "access": "Taxi o VTC desde el aeropuerto (≈ 15–20 min). Para ir al centro de Lisboa, tren o taxi (≈ 25 min).",
+    "sources": [
+      "https://lisbonwestiefest.com/",
+      "https://lisbonwestiefest.com/schedule/"
+    ],
+    "verified": "2026-10-18"
+  }
+]

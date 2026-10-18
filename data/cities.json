@@ -1,0 +1,1295 @@
+{
+  "sanxenxo": {
+    "name": "Sanxenxo",
+    "region": "Pontevedra, Galicia",
+    "intro": "Capital turística de las Rías Baixas, a orillas de la ría de Pontevedra. En febrero es un pueblo tranquilo, sin aglomeraciones, con paseos frente al Atlántico y luz de invierno preciosa.",
+    "culture": [
+      "Paseo marítimo de Silgar y su playa urbana, a pie del hotel del evento.",
+      "Excursión a Pontevedra (25 min): casco histórico peatonal, uno de los mejor conservados de Galicia.",
+      "Mirador de A Lanzada y la ermita románica junto al mar."
+    ],
+    "food": [
+      "Marisco de las rías: navajas, almejas, zamburiñas y mejillón.",
+      "Pulpo á feira con cachelos.",
+      "Vino Albariño (estás en plena D.O. Rías Baixas).",
+      "Tarta de Santiago y filloas de postre."
+    ],
+    "climate": "Febrero atlántico: 8–15 °C y lluvia frecuente. Lleva chubasquero y algo de abrigo para salir entre sesiones.",
+    "airports": [
+      {
+        "code": "VGO",
+        "name": "Vigo-Peinador",
+        "distance": "≈ 45 min en coche"
+      },
+      {
+        "code": "SCQ",
+        "name": "Santiago-Rosalía de Castro",
+        "distance": "≈ 1 h en coche"
+      }
+    ],
+    "train": "Estación de Pontevedra (≈ 25 min en taxi o bus a Sanxenxo).",
+    "fromSpain": {
+      "madrid": "AVE/Alvia Madrid–Pontevedra (≈ 4 h) o vuelo a Vigo/Santiago (≈ 1 h 10 min).",
+      "barcelona": "Vuelo directo a Santiago o Vigo (≈ 1 h 40 min).",
+      "valencia": "Vuelo a Santiago (directo según temporada) o tren vía Madrid (≈ 6–7 h).",
+      "alicante": "Vuelo a Santiago (directo según temporada) o con escala en Madrid. En tren, vía Madrid (≈ 7 h)."
+    }
+  },
+  "madrid": {
+    "name": "Madrid",
+    "region": "Comunidad de Madrid",
+    "intro": "La capital tiene la comunidad westie más grande de España, con sociales casi a diario. Ir a un festival aquí es también la excusa perfecta para conocer la escena local.",
+    "culture": [
+      "Triángulo del Arte: Prado, Reina Sofía y Thyssen.",
+      "Retiro y Madrid Río para descansar las piernas entre sociales.",
+      "Barrios de La Latina, Malasaña y Lavapiés para tapear."
+    ],
+    "food": [
+      "Bocadillo de calamares en la Plaza Mayor.",
+      "Cocido madrileño (si te sobran fuerzas).",
+      "Huevos rotos, oreja a la plancha y vermut de grifo.",
+      "Churros con chocolate al salir de la social."
+    ],
+    "climate": "Primavera (abril–mayo): 12–24 °C, días largos y muy agradables. Otoño (octubre): 10–22 °C.",
+    "airports": [
+      {
+        "code": "MAD",
+        "name": "Adolfo Suárez Madrid-Barajas",
+        "distance": "≈ 15–30 min del centro"
+      }
+    ],
+    "train": "Atocha y Chamartín (AVE, Ouigo, Iryo) conectan con casi toda España.",
+    "fromSpain": {
+      "madrid": "Estás en casa: metro o Cercanías hasta la sede.",
+      "barcelona": "AVE/Ouigo/Iryo (≈ 2 h 30 min) o puente aéreo (≈ 1 h 15 min).",
+      "valencia": "Alta velocidad (≈ 1 h 50 min). Opción más cómoda y barata.",
+      "alicante": "Alta velocidad (≈ 2 h 15 min). Con Ouigo o Iryo hay billetes muy baratos si compras pronto."
+    }
+  },
+  "santa-susanna": {
+    "name": "Santa Susanna",
+    "region": "Maresme, Barcelona",
+    "intro": "Pueblo costero del Maresme, a una hora de Barcelona: playa larga, paseo marítimo y ambiente de vacaciones. El festival se vive entre la pista, la piscina y el mar.",
+    "culture": [
+      "Escapada a Barcelona: Sagrada Família, Barrio Gótico y el Born.",
+      "Tossa de Mar (≈ 30 min): villa medieval amurallada junto al mar.",
+      "Paseo de Santa Susanna a Malgrat por la costa."
+    ],
+    "food": [
+      "Arroz y fideuá frente al mar.",
+      "Pan con tomate y embutidos catalanes.",
+      "Crema catalana.",
+      "Vinos y cavas de la D.O. Alella, la del propio Maresme."
+    ],
+    "climate": "Julio mediterráneo: 22–30 °C y humedad. Bañador imprescindible, y prepárate para sudar en la pista.",
+    "airports": [
+      {
+        "code": "BCN",
+        "name": "Barcelona-El Prat",
+        "distance": "≈ 1 h en coche"
+      },
+      {
+        "code": "GRO",
+        "name": "Girona-Costa Brava",
+        "distance": "≈ 35 min en coche"
+      }
+    ],
+    "train": "Rodalies R1 desde Barcelona (Plaça de Catalunya o Arc de Triomf) hasta Santa Susanna (≈ 1 h 15 min).",
+    "fromSpain": {
+      "madrid": "AVE a Barcelona-Sants (≈ 2 h 30 min) y Rodalies R1. O vuelo a BCN.",
+      "barcelona": "Rodalies R1 directo (≈ 1 h 15 min) o coche por la C-32.",
+      "valencia": "Euromed/Intercity a Barcelona (≈ 3 h) y R1. En coche, ≈ 4 h por la AP-7.",
+      "alicante": "Euromed a Barcelona (≈ 4 h 30 min–5 h) y R1, o vuelo ALC–BCN (≈ 1 h 10 min)."
+    }
+  },
+  "lisboa": {
+    "name": "Lisboa",
+    "region": "Portugal",
+    "intro": "Siete colinas, tranvías amarillos y atardeceres sobre el Tajo. Una de las capitales más baratas y acogedoras de Europa occidental, y con una escena de WCS en pleno crecimiento.",
+    "culture": [
+      "Alfama y el Castillo de San Jorge.",
+      "Belém: Torre, Monasterio de los Jerónimos y los famosos pastéis.",
+      "Miradores de Santa Luzia y Senhora do Monte al atardecer.",
+      "Una noche de fado en Alfama o en el Bairro Alto."
+    ],
+    "food": [
+      "Pastel de nata (los de Belém son los originales).",
+      "Bacalao en todas sus versiones (à Brás, com natas...).",
+      "Sardinas a la brasa en verano.",
+      "Bifana (bocadillo de cerdo) y ginjinha."
+    ],
+    "climate": "Finales de julio: 20–30 °C, sol y brisa atlántica. Las noches son frescas.",
+    "airports": [
+      {
+        "code": "LIS",
+        "name": "Lisboa-Humberto Delgado",
+        "distance": "≈ 15–20 min de la sede"
+      }
+    ],
+    "train": "Lisboa no tiene tren directo con España: lo práctico es volar o ir en coche.",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 1 h 15 min) o coche (≈ 6 h).",
+      "barcelona": "Vuelo directo (≈ 2 h).",
+      "valencia": "Vuelo directo (habitual con TAP/Ryanair, ≈ 1 h 45 min).",
+      "alicante": "Vuelo directo según temporada o con escala en Madrid. En coche, ≈ 8 h."
+    }
+  },
+  "toulouse": {
+    "name": "Toulouse",
+    "region": "Occitania, Francia",
+    "intro": "La «Ciudad Rosa», por el ladrillo de sus edificios. Es la capital europea de la aeronáutica (Airbus) y queda a un paso de los Pirineos. El festival se celebra en un hotel junto al aeropuerto.",
+    "culture": [
+      "Place du Capitole y la basílica románica de Saint-Sernin.",
+      "Paseo por el Canal du Midi y las orillas del Garona.",
+      "Cité de l'Espace o Aeroscopia, para los fans de la aviación."
+    ],
+    "food": [
+      "Cassoulet: el guiso de alubias y pato de la región.",
+      "Saucisse de Toulouse.",
+      "Violetas de Toulouse (caramelos y licor).",
+      "Vinos de Fronton y Gaillac."
+    ],
+    "climate": "Noviembre: 5–14 °C, fresco y a veces lluvioso.",
+    "airports": [
+      {
+        "code": "TLS",
+        "name": "Toulouse-Blagnac",
+        "distance": "≈ 5–10 min de la sede"
+      }
+    ],
+    "train": "Estación Matabiau, con conexiones a Barcelona vía Narbona.",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 1 h 20 min) según temporada, o con escala.",
+      "barcelona": "Tren vía Narbona (≈ 3 h 30 min–4 h), coche (≈ 4 h) o vuelo.",
+      "valencia": "Coche (≈ 7 h) o vuelo con escala.",
+      "alicante": "Vuelo con escala (Madrid/Barcelona) o coche (≈ 8 h 30 min)."
+    }
+  },
+  "lyon": {
+    "name": "Lyon",
+    "region": "Auvernia-Ródano-Alpes, Francia",
+    "intro": "La capital gastronómica de Francia, en la confluencia del Ródano y el Saona. Tiene una comunidad westie muy activa que organiza varios eventos al año.",
+    "culture": [
+      "Vieux Lyon (Patrimonio de la Humanidad) y sus traboules, los pasajes secretos.",
+      "Basílica de Fourvière y vistas de toda la ciudad.",
+      "Barrio de la Croix-Rousse y su tradición de la seda."
+    ],
+    "food": [
+      "Un bouchon lionés: quenelles, saucisson brioché y andouillette.",
+      "Tarte aux pralines rosas.",
+      "Mercado Les Halles Paul Bocuse.",
+      "Vinos del Beaujolais y Côtes du Rhône."
+    ],
+    "climate": "Marzo: 3–14 °C. Noviembre: 4–12 °C. Lleva abrigo.",
+    "airports": [
+      {
+        "code": "LYS",
+        "name": "Lyon-Saint Exupéry",
+        "distance": "≈ 30 min del centro (Rhônexpress)"
+      }
+    ],
+    "train": "Part-Dieu: TGV directo a Barcelona (≈ 5 h) y París (≈ 2 h).",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 1 h 50 min).",
+      "barcelona": "TGV directo (≈ 5 h) o vuelo directo (≈ 1 h 15 min).",
+      "valencia": "Vuelo con escala o tren vía Barcelona.",
+      "alicante": "Vuelo directo según temporada, o con escala."
+    }
+  },
+  "nimes": {
+    "name": "Nîmes",
+    "region": "Occitania, Francia",
+    "intro": "La «Roma francesa»: tiene uno de los anfiteatros romanos mejor conservados del mundo y una Provenza a la vuelta de la esquina.",
+    "culture": [
+      "Arènes de Nîmes y la Maison Carrée.",
+      "Pont du Gard (≈ 25 min), el acueducto romano.",
+      "Avignon y su Palacio de los Papas (≈ 40 min)."
+    ],
+    "food": [
+      "Brandade de morue (crema de bacalao).",
+      "Aceitunas Picholine y aceite del Gard.",
+      "Costières de Nîmes (vino).",
+      "Croquants Villaret (galletas de almendra)."
+    ],
+    "climate": "Enero: 3–12 °C, seco y con mistral (viento frío del norte).",
+    "airports": [
+      {
+        "code": "FNI",
+        "name": "Nîmes-Garons",
+        "distance": "≈ 20 min (pocas rutas)"
+      },
+      {
+        "code": "MPL",
+        "name": "Montpellier",
+        "distance": "≈ 45 min"
+      },
+      {
+        "code": "MRS",
+        "name": "Marsella-Provenza",
+        "distance": "≈ 1 h 15 min"
+      }
+    ],
+    "train": "Nîmes y Nîmes-Pont du Gard: TGV/AVE directo con Barcelona (≈ 3 h).",
+    "fromSpain": {
+      "madrid": "AVE Madrid–Barcelona y tren a Nîmes (≈ 6 h 30 min en total), o vuelo a Marsella/Montpellier.",
+      "barcelona": "Tren directo (≈ 3 h) o coche (≈ 3 h 30 min).",
+      "valencia": "Coche (≈ 6 h 30 min) o tren vía Barcelona.",
+      "alicante": "Tren vía Barcelona o vuelo a Marsella con escala."
+    }
+  },
+  "paris": {
+    "name": "París",
+    "region": "Île-de-France, Francia",
+    "intro": "París es uno de los grandes polos del WCS europeo: acoge varios eventos al año y tiene un nivel técnico altísimo. Ideal para ver de cerca a profesionales de primera.",
+    "culture": [
+      "Torre Eiffel, Arco del Triunfo y los Campos Elíseos (junto a Le Méridien).",
+      "Louvre, Orsay y el Centro Pompidou.",
+      "Montmartre y el Sacré-Cœur.",
+      "Paseo en barco por el Sena."
+    ],
+    "food": [
+      "Croissant y pain au chocolat de boulangerie.",
+      "Steak frites o croque-monsieur en una brasserie.",
+      "Macarons y crêpes.",
+      "Quesos y vino natural en un bar à vins."
+    ],
+    "climate": "Enero–febrero: 2–9 °C. Mayo: 11–20 °C. Septiembre: 13–22 °C.",
+    "airports": [
+      {
+        "code": "CDG",
+        "name": "Charles de Gaulle",
+        "distance": "≈ 45 min del centro (RER B)"
+      },
+      {
+        "code": "ORY",
+        "name": "Orly",
+        "distance": "≈ 35 min (Orlyval/Metro 14)"
+      },
+      {
+        "code": "BVA",
+        "name": "Beauvais (low cost)",
+        "distance": "≈ 1 h 15 min en autobús"
+      }
+    ],
+    "train": "Gare de Lyon: TGV directo a Barcelona (≈ 6 h 30 min).",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 2 h). Muchas frecuencias diarias.",
+      "barcelona": "Vuelo directo (≈ 1 h 50 min) o TGV directo (≈ 6 h 30 min).",
+      "valencia": "Vuelo directo (≈ 2 h).",
+      "alicante": "Vuelo directo a CDG, Orly o Beauvais (≈ 2 h 10 min)."
+    }
+  },
+  "nantes": {
+    "name": "Nantes",
+    "region": "Países del Loira, Francia",
+    "intro": "Ciudad creativa y verde a orillas del Loira, cuna de Julio Verne. Es muy cómoda para un fin de semana.",
+    "culture": [
+      "Les Machines de l'Île y su elefante mecánico gigante.",
+      "Castillo de los Duques de Bretaña.",
+      "Passage Pommeraye y el barrio de Bouffay."
+    ],
+    "food": [
+      "Galettes y crêpes bretonas.",
+      "Beurre blanc (salsa nantesa) con pescado.",
+      "Galletas LU y Petit Beurre.",
+      "Vino blanco Muscadet."
+    ],
+    "climate": "Abril: 7–16 °C, primavera atlántica cambiante.",
+    "airports": [
+      {
+        "code": "NTE",
+        "name": "Nantes-Atlantique",
+        "distance": "≈ 20 min del centro"
+      }
+    ],
+    "train": "Gare de Nantes: TGV a París en ≈ 2 h.",
+    "fromSpain": {
+      "madrid": "Vuelo directo según temporada (≈ 1 h 40 min) o vía París.",
+      "barcelona": "Vuelo directo (≈ 1 h 40 min).",
+      "valencia": "Vuelo con escala o vía París.",
+      "alicante": "Vuelo con escala, o vuelo a París y TGV."
+    }
+  },
+  "toulon": {
+    "name": "Toulon",
+    "region": "Provenza-Alpes-Costa Azul, Francia",
+    "intro": "Puerto militar de la Costa Azul, con calas, mercado provenzal y una rada espectacular. Es un festival con ambiente de vacaciones a la francesa.",
+    "culture": [
+      "Teleférico del Mont Faron y vistas a la rada.",
+      "Mercado provenzal del Cours Lafayette.",
+      "Escapadas a Bandol, Cassis y las Calanques."
+    ],
+    "food": [
+      "Bouillabaisse (en Marsella o en la costa).",
+      "Cade toulonnaise (torta de harina de garbanzo).",
+      "Tapenade y aceitunas provenzales.",
+      "Rosado de Provenza y vino de Bandol."
+    ],
+    "climate": "Mayo: 14–23 °C, soleado. Primeros baños de mar.",
+    "airports": [
+      {
+        "code": "TLN",
+        "name": "Toulon-Hyères",
+        "distance": "≈ 25 min (pocas rutas)"
+      },
+      {
+        "code": "MRS",
+        "name": "Marsella-Provenza",
+        "distance": "≈ 1 h"
+      },
+      {
+        "code": "NCE",
+        "name": "Niza-Costa Azul",
+        "distance": "≈ 1 h 45 min"
+      }
+    ],
+    "train": "Estación de Toulon: TER/TGV desde Marsella (≈ 45 min).",
+    "fromSpain": {
+      "madrid": "Vuelo a Marsella (≈ 1 h 50 min) y tren a Toulon.",
+      "barcelona": "Tren vía Marsella (≈ 5 h) o vuelo a Marsella.",
+      "valencia": "Vuelo a Marsella con escala o coche (≈ 8 h).",
+      "alicante": "Vuelo a Marsella con escala, o tren vía Barcelona."
+    }
+  },
+  "annecy": {
+    "name": "Annecy",
+    "region": "Alta Saboya, Francia",
+    "intro": "La «Venecia de los Alpes»: canales, casas de colores y un lago turquesa rodeado de montañas. Es probablemente el escenario más bonito del circuito.",
+    "culture": [
+      "Vieille Ville y el Palais de l'Isle.",
+      "Baño o paseo en barco por el lago de Annecy (el hotel está en la orilla).",
+      "Excursión a Chamonix y el Mont Blanc (≈ 1 h 15 min)."
+    ],
+    "food": [
+      "Tartiflette y raclette.",
+      "Fondue savoyarde.",
+      "Quesos: Reblochon, Beaufort y Tomme de Savoie.",
+      "Vinos blancos de Saboya."
+    ],
+    "climate": "Finales de junio: 15–27 °C. Clima alpino con tormentas de tarde ocasionales.",
+    "airports": [
+      {
+        "code": "GVA",
+        "name": "Ginebra",
+        "distance": "≈ 45 min en coche o shuttle"
+      },
+      {
+        "code": "LYS",
+        "name": "Lyon-Saint Exupéry",
+        "distance": "≈ 1 h 30 min"
+      }
+    ],
+    "train": "Gare d'Annecy, a ≈ 10 min de la sede.",
+    "fromSpain": {
+      "madrid": "Vuelo directo a Ginebra (≈ 2 h).",
+      "barcelona": "Vuelo directo a Ginebra (≈ 1 h 30 min).",
+      "valencia": "Vuelo directo a Ginebra (habitual con easyJet).",
+      "alicante": "Vuelo directo a Ginebra (habitual con easyJet, ≈ 2 h)."
+    }
+  },
+  "londres": {
+    "name": "Londres (Heathrow)",
+    "region": "Inglaterra, Reino Unido",
+    "intro": "Varios de los grandes eventos británicos se celebran en hoteles pegados a Heathrow: llegas del avión a la pista sin pasar por el centro. Si te sobra un día, Londres está a 15 minutos en el Elizabeth Line o el Heathrow Express.",
+    "culture": [
+      "Westminster, el Big Ben y el London Eye.",
+      "Museos gratuitos: British Museum, National Gallery y Tate Modern.",
+      "Camden, Notting Hill y Covent Garden."
+    ],
+    "food": [
+      "Fish and chips.",
+      "Sunday roast en un pub.",
+      "Full English breakfast para recuperar fuerzas.",
+      "Afternoon tea con scones."
+    ],
+    "climate": "Noviembre–marzo: 3–11 °C y lluvia. Septiembre: 12–20 °C.",
+    "airports": [
+      {
+        "code": "LHR",
+        "name": "Heathrow",
+        "distance": "Los hoteles sede están junto al aeropuerto (≈ 5–10 min en shuttle o bus)"
+      },
+      {
+        "code": "LGW",
+        "name": "Gatwick",
+        "distance": "≈ 1 h 15 min"
+      },
+      {
+        "code": "STN",
+        "name": "Stansted / Luton",
+        "distance": "≈ 1 h 30 min"
+      }
+    ],
+    "train": "Eurostar desde París (≈ 2 h 20 min), si combinas viaje.",
+    "fromSpain": {
+      "madrid": "Vuelo directo a Heathrow (≈ 2 h 20 min).",
+      "barcelona": "Vuelo directo a Heathrow o Gatwick (≈ 2 h 10 min).",
+      "valencia": "Vuelo directo a Heathrow, Gatwick o Stansted.",
+      "alicante": "Muchísimos vuelos directos (Heathrow, Gatwick, Stansted, Luton), ≈ 2 h 30 min. Recuerda: para el Reino Unido necesitas pasaporte (el DNI no sirve) y la autorización electrónica ETA."
+    }
+  },
+  "edimburgo": {
+    "name": "Edimburgo",
+    "region": "Escocia, Reino Unido",
+    "intro": "Castillo sobre un volcán, callejones medievales y pubs con música en directo. En enero es fría pero mágica, y la comunidad escocesa es famosa por lo acogedora que es.",
+    "culture": [
+      "Castillo de Edimburgo y la Royal Mile.",
+      "Subida a Arthur's Seat al amanecer.",
+      "Old Town, Victoria Street y el barrio de Dean Village."
+    ],
+    "food": [
+      "Haggis, neeps & tatties.",
+      "Desayuno escocés.",
+      "Whisky de malta (cata en la Royal Mile).",
+      "Shortbread y cranachan."
+    ],
+    "climate": "Enero: 1–7 °C, viento y pocas horas de luz. Abrigo, gorro y guantes.",
+    "airports": [
+      {
+        "code": "EDI",
+        "name": "Edimburgo",
+        "distance": "≈ 25–30 min del centro (tranvía o Airlink)"
+      }
+    ],
+    "train": "Waverley: trenes a Londres en ≈ 4 h 30 min.",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 2 h 40 min).",
+      "barcelona": "Vuelo directo (≈ 2 h 30 min).",
+      "valencia": "Vuelo directo según temporada, o vía Londres.",
+      "alicante": "Vuelo directo (habitual con Ryanair/Jet2, ≈ 3 h). Recuerda: para el Reino Unido necesitas pasaporte (el DNI no sirve) y la autorización electrónica ETA."
+    }
+  },
+  "dundalk": {
+    "name": "Dundalk",
+    "region": "Condado de Louth, Irlanda",
+    "intro": "Ciudad irlandesa a medio camino entre Dublín y Belfast. El festival se celebra en un hotel-spa rodeado de colinas: ambiente íntimo, chimeneas y pintas.",
+    "culture": [
+      "Península de Cooley y los paisajes de la leyenda de Cú Chulainn.",
+      "Monasterboice y Mellifont, joyas monásticas medievales.",
+      "Escapada a Dublín (≈ 1 h): Trinity College y Temple Bar."
+    ],
+    "food": [
+      "Irish stew.",
+      "Seafood chowder con pan de soda.",
+      "Pinta de Guinness (aquí sabe distinta).",
+      "Full Irish breakfast."
+    ],
+    "climate": "Febrero: 3–9 °C, húmedo y ventoso.",
+    "airports": [
+      {
+        "code": "DUB",
+        "name": "Dublín",
+        "distance": "≈ 1 h en coche o autobús"
+      },
+      {
+        "code": "BFS",
+        "name": "Belfast International",
+        "distance": "≈ 1 h 15 min"
+      }
+    ],
+    "train": "Estación de Dundalk: línea Enterprise Dublín–Belfast.",
+    "fromSpain": {
+      "madrid": "Vuelo directo a Dublín (≈ 2 h 30 min).",
+      "barcelona": "Vuelo directo a Dublín (≈ 2 h 30 min).",
+      "valencia": "Vuelo directo a Dublín (habitual).",
+      "alicante": "Vuelo directo a Dublín (muy habitual, ≈ 2 h 50 min)."
+    }
+  },
+  "manchester": {
+    "name": "Manchester",
+    "region": "Inglaterra, Reino Unido",
+    "intro": "Ciudad industrial reconvertida en capital musical y futbolera. El evento se celebra junto al aeropuerto: logística facilísima.",
+    "culture": [
+      "Northern Quarter: arte urbano, vinilos y cafés.",
+      "Museo de Ciencia e Industria.",
+      "Old Trafford o el Etihad, si eres futbolero."
+    ],
+    "food": [
+      "Curry Mile (Rusholme).",
+      "Pie & mash en un pub.",
+      "Eccles cakes.",
+      "Cervezas artesanas locales."
+    ],
+    "climate": "Abril: 5–13 °C, chubascos frecuentes.",
+    "airports": [
+      {
+        "code": "MAN",
+        "name": "Manchester",
+        "distance": "El hotel sede está en el propio aeropuerto"
+      }
+    ],
+    "train": "Manchester Piccadilly: trenes a Londres en ≈ 2 h 10 min.",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 2 h 30 min).",
+      "barcelona": "Vuelo directo (≈ 2 h 20 min).",
+      "valencia": "Vuelo directo (habitual).",
+      "alicante": "Vuelo directo (muy habitual, ≈ 2 h 40 min). Recuerda: para el Reino Unido necesitas pasaporte (el DNI no sirve) y la autorización electrónica ETA."
+    }
+  },
+  "newcastle": {
+    "name": "Newcastle",
+    "region": "Inglaterra, Reino Unido",
+    "intro": "Capital del noreste inglés, famosa por sus puentes sobre el Tyne y por el carácter abierto de los geordies. El festival se celebra junto al aeropuerto.",
+    "culture": [
+      "Quayside y el Millennium Bridge.",
+      "Muralla de Adriano (≈ 45 min), Patrimonio de la Humanidad.",
+      "Castillo de Alnwick (el Hogwarts de las películas)."
+    ],
+    "food": [
+      "Stottie cake con jamón y pease pudding.",
+      "Pan haggerty.",
+      "Newcastle Brown Ale.",
+      "Fish and chips en la costa (Tynemouth)."
+    ],
+    "climate": "Junio: 10–19 °C, días larguísimos.",
+    "airports": [
+      {
+        "code": "NCL",
+        "name": "Newcastle",
+        "distance": "El hotel sede está junto al aeropuerto"
+      }
+    ],
+    "train": "Newcastle Central: trenes a Londres (≈ 3 h) y Edimburgo (≈ 1 h 30 min).",
+    "fromSpain": {
+      "madrid": "Vuelo con escala (Londres/Ámsterdam) o vuelo a Edimburgo y tren.",
+      "barcelona": "Vuelo directo según temporada o con escala.",
+      "valencia": "Vuelo con escala.",
+      "alicante": "Vuelo directo habitual (Jet2/Ryanair, ≈ 3 h). Recuerda: para el Reino Unido necesitas pasaporte (el DNI no sirve) y la autorización electrónica ETA."
+    }
+  },
+  "augsburgo": {
+    "name": "Augsburgo",
+    "region": "Baviera, Alemania",
+    "intro": "Una de las ciudades más antiguas de Alemania, fundada por los romanos. Tranquila, monumental y a solo 40 minutos de Múnich.",
+    "culture": [
+      "La Fuggerei, el complejo de viviendas sociales más antiguo del mundo (1521).",
+      "Ayuntamiento renacentista y su Salón Dorado.",
+      "Augsburger Puppenkiste, el teatro de marionetas."
+    ],
+    "food": [
+      "Weißwurst con pretzel y mostaza dulce.",
+      "Schweinshaxe (codillo).",
+      "Käsespätzle.",
+      "Cerveza bávara (Riegele, de la propia ciudad)."
+    ],
+    "climate": "Finales de octubre: 3–12 °C. Noviembre: 0–8 °C.",
+    "airports": [
+      {
+        "code": "MUC",
+        "name": "Múnich",
+        "distance": "≈ 1 h 10 min en tren o coche"
+      },
+      {
+        "code": "FMM",
+        "name": "Memmingen (low cost)",
+        "distance": "≈ 1 h"
+      }
+    ],
+    "train": "Augsburg Hbf: trenes a Múnich cada pocos minutos (≈ 30–45 min).",
+    "fromSpain": {
+      "madrid": "Vuelo directo a Múnich (≈ 2 h 40 min) y tren.",
+      "barcelona": "Vuelo directo a Múnich o Memmingen (≈ 2 h).",
+      "valencia": "Vuelo directo a Múnich (habitual con Lufthansa) o Memmingen.",
+      "alicante": "Vuelo directo a Múnich o Memmingen según temporada."
+    }
+  },
+  "munich": {
+    "name": "Múnich",
+    "region": "Baviera, Alemania",
+    "intro": "La capital bávara combina cervecerías centenarias, museos de primer nivel y una escena de WCS muy activa.",
+    "culture": [
+      "Marienplatz y el carillón del Ayuntamiento.",
+      "Englischer Garten y los surfistas del Eisbach.",
+      "Pinacotecas y el Deutsches Museum."
+    ],
+    "food": [
+      "Brezn y Obatzda en una Biergarten.",
+      "Schweinsbraten con Knödel.",
+      "Apfelstrudel.",
+      "Cerveza en el Hofbräuhaus o el Augustiner."
+    ],
+    "climate": "Noviembre: 0–8 °C. Mercadillos navideños desde finales de mes.",
+    "airports": [
+      {
+        "code": "MUC",
+        "name": "Múnich",
+        "distance": "≈ 40 min al centro (S-Bahn S1/S8)"
+      }
+    ],
+    "train": "München Hbf, conectada con toda Alemania y Austria.",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 2 h 40 min).",
+      "barcelona": "Vuelo directo (≈ 2 h).",
+      "valencia": "Vuelo directo (habitual).",
+      "alicante": "Vuelo directo según temporada."
+    }
+  },
+  "berlin": {
+    "name": "Berlín",
+    "region": "Alemania",
+    "intro": "Historia, arte urbano y la vida nocturna más famosa de Europa. Diciembre llega con mercadillos navideños en cada barrio.",
+    "culture": [
+      "Puerta de Brandeburgo, el Reichstag y el Memorial del Holocausto.",
+      "East Side Gallery (Muro de Berlín).",
+      "Isla de los Museos.",
+      "Mercadillos de Navidad: Gendarmenmarkt y Charlottenburg."
+    ],
+    "food": [
+      "Currywurst.",
+      "Döner kebab berlinés.",
+      "Glühwein (vino caliente) en los mercadillos.",
+      "Berliner (bollo relleno)."
+    ],
+    "climate": "Diciembre: −2 a 5 °C. Abrigo serio.",
+    "airports": [
+      {
+        "code": "BER",
+        "name": "Berlín-Brandeburgo",
+        "distance": "≈ 40 min al centro"
+      }
+    ],
+    "train": "Berlin Hbf, con conexiones a toda Europa central.",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 3 h).",
+      "barcelona": "Vuelo directo (≈ 2 h 40 min).",
+      "valencia": "Vuelo directo (habitual).",
+      "alicante": "Vuelo directo (habitual con Ryanair/easyJet)."
+    }
+  },
+  "wels": {
+    "name": "Wels",
+    "region": "Alta Austria",
+    "intro": "Pequeña ciudad austriaca entre Linz y Salzburgo. Despedir el año bailando aquí es toda una tradición del circuito.",
+    "culture": [
+      "Stadtplatz, el casco histórico de Wels.",
+      "Linz (≈ 25 min): el Danubio y el Ars Electronica Center.",
+      "Salzburgo (≈ 1 h): la ciudad de Mozart, y aún más bonita nevada."
+    ],
+    "food": [
+      "Wiener Schnitzel.",
+      "Tafelspitz (ternera hervida).",
+      "Linzer Torte y Sachertorte.",
+      "Punsch y Glühwein navideño."
+    ],
+    "climate": "Fin de año: −3 a 4 °C, posibilidad de nieve.",
+    "airports": [
+      {
+        "code": "LNZ",
+        "name": "Linz",
+        "distance": "≈ 25 min"
+      },
+      {
+        "code": "SZG",
+        "name": "Salzburgo",
+        "distance": "≈ 1 h"
+      },
+      {
+        "code": "VIE",
+        "name": "Viena",
+        "distance": "≈ 2 h 30 min en tren"
+      },
+      {
+        "code": "MUC",
+        "name": "Múnich",
+        "distance": "≈ 2 h 30 min en tren"
+      }
+    ],
+    "train": "Wels Hbf: está en la línea principal Viena–Salzburgo.",
+    "fromSpain": {
+      "madrid": "Vuelo directo a Viena o Múnich y tren.",
+      "barcelona": "Vuelo directo a Viena, Múnich o Salzburgo y tren.",
+      "valencia": "Vuelo a Viena o Múnich (directo o con escala) y tren.",
+      "alicante": "Vuelo a Viena, Múnich o Memmingen según temporada y tren."
+    }
+  },
+  "zurich": {
+    "name": "Zúrich",
+    "region": "Suiza",
+    "intro": "La ciudad más grande de Suiza: lago, Alpes en el horizonte y una calidad de vida altísima. También es la más cara del circuito, así que planifica el presupuesto.",
+    "culture": [
+      "Altstadt, el Grossmünster y la Bahnhofstrasse.",
+      "Paseo por el lago de Zúrich.",
+      "Excursión a las cataratas del Rin (≈ 45 min)."
+    ],
+    "food": [
+      "Zürcher Geschnetzeltes con rösti.",
+      "Fondue y raclette.",
+      "Chocolate suizo (Sprüngli y Läderach).",
+      "Luxemburgerli (mini macarons)."
+    ],
+    "climate": "Febrero: −2 a 6 °C, posibles nevadas.",
+    "airports": [
+      {
+        "code": "ZRH",
+        "name": "Zúrich",
+        "distance": "≈ 12 min en tren al centro"
+      },
+      {
+        "code": "BSL",
+        "name": "Basilea-Mulhouse",
+        "distance": "≈ 1 h 15 min (alternativa low cost)"
+      }
+    ],
+    "train": "Zürich HB: red ferroviaria suiza, puntual y cara.",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 2 h 20 min).",
+      "barcelona": "Vuelo directo (≈ 1 h 50 min).",
+      "valencia": "Vuelo directo (habitual con Swiss).",
+      "alicante": "Vuelo directo según temporada, o a Basilea (easyJet) y tren."
+    }
+  },
+  "rust": {
+    "name": "Rust (Europa-Park)",
+    "region": "Baden-Wurtemberg, Alemania",
+    "intro": "El festival se celebra dentro de Europa-Park, el mayor parque temático de Alemania: hoteles temáticos, varias salas y miles de bailarines de muchos estilos.",
+    "culture": [
+      "Europa-Park y Rulantica (parque acuático cubierto).",
+      "Estrasburgo (≈ 45 min): catedral y la Petite France.",
+      "Friburgo y la Selva Negra (≈ 40 min)."
+    ],
+    "food": [
+      "Flammkuchen (tarte flambée).",
+      "Tarta Selva Negra.",
+      "Spätzle y Maultaschen.",
+      "Vinos de Baden."
+    ],
+    "climate": "Febrero: −1 a 7 °C.",
+    "airports": [
+      {
+        "code": "BSL",
+        "name": "Basilea-Mulhouse-Friburgo",
+        "distance": "≈ 1 h"
+      },
+      {
+        "code": "SXB",
+        "name": "Estrasburgo",
+        "distance": "≈ 45 min"
+      },
+      {
+        "code": "FKB",
+        "name": "Karlsruhe/Baden-Baden",
+        "distance": "≈ 1 h"
+      }
+    ],
+    "train": "Estación Ringsheim/Europa-Park, con shuttle al parque.",
+    "fromSpain": {
+      "madrid": "Vuelo directo a Basilea (easyJet) y coche o shuttle.",
+      "barcelona": "Vuelo directo a Basilea (≈ 1 h 40 min).",
+      "valencia": "Vuelo directo a Basilea (habitual con easyJet).",
+      "alicante": "Vuelo directo a Basilea (habitual con easyJet)."
+    }
+  },
+  "friburgo": {
+    "name": "Friburgo de Brisgovia",
+    "region": "Baden-Wurtemberg, Alemania",
+    "intro": "Ciudad universitaria y soleada a las puertas de la Selva Negra, con canalillos de agua (Bächle) recorriendo el casco antiguo. En agosto se vive en terrazas.",
+    "culture": [
+      "Catedral (Münster) y su mercado diario.",
+      "Teleférico al Schauinsland.",
+      "Lagos Titisee y Schluchsee en la Selva Negra."
+    ],
+    "food": [
+      "Tarta Selva Negra (Schwarzwälder Kirschtorte).",
+      "Lange Rote (salchicha larga del mercado del Münster).",
+      "Jamón de la Selva Negra.",
+      "Vinos de la región de Kaiserstuhl."
+    ],
+    "climate": "Agosto: 15–28 °C, la ciudad más soleada de Alemania.",
+    "airports": [
+      {
+        "code": "BSL",
+        "name": "EuroAirport Basilea-Mulhouse-Friburgo",
+        "distance": "≈ 50 min en bus o coche"
+      }
+    ],
+    "train": "Freiburg Hbf, en la línea Basilea–Frankfurt.",
+    "fromSpain": {
+      "madrid": "Vuelo directo a Basilea (easyJet) y bus.",
+      "barcelona": "Vuelo directo a Basilea (≈ 1 h 40 min).",
+      "valencia": "Vuelo directo a Basilea (habitual).",
+      "alicante": "Vuelo directo a Basilea (habitual con easyJet)."
+    }
+  },
+  "varsovia": {
+    "name": "Varsovia",
+    "region": "Polonia",
+    "intro": "La capital polaca, reconstruida tras la guerra, es hoy una metrópolis moderna con precios muy razonables. Halloween aquí es la fiesta de disfraces más grande del circuito.",
+    "culture": [
+      "Casco antiguo (Stare Miasto), reconstruido piedra a piedra.",
+      "Museo del Levantamiento de Varsovia.",
+      "Palacio de la Cultura y la Ciencia, con mirador en la planta 30."
+    ],
+    "food": [
+      "Pierogi (empanadillas) de mil rellenos.",
+      "Żurek (sopa agria) servido en pan.",
+      "Pączki (berlinas polacas).",
+      "Vodka polaco de calidad, con moderación."
+    ],
+    "climate": "Finales de octubre: 2–10 °C.",
+    "airports": [
+      {
+        "code": "WAW",
+        "name": "Varsovia-Chopin",
+        "distance": "≈ 25 min del centro"
+      },
+      {
+        "code": "WMI",
+        "name": "Varsovia-Modlin (low cost)",
+        "distance": "≈ 50 min"
+      }
+    ],
+    "train": "Warszawa Centralna.",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 3 h 30 min).",
+      "barcelona": "Vuelo directo (≈ 3 h).",
+      "valencia": "Vuelo directo según temporada o con escala.",
+      "alicante": "Vuelo directo a Chopin o Modlin (habitual con Ryanair/Wizz Air)."
+    }
+  },
+  "budapest": {
+    "name": "Budapest",
+    "region": "Hungría",
+    "intro": "Buda y Pest a ambos lados del Danubio: balnearios termales, arquitectura imperial y ruin bars. Es una ciudad muy asequible y el escenario del evento más grande de Europa.",
+    "culture": [
+      "Parlamento, Bastión de los Pescadores y el Castillo de Buda.",
+      "Balnearios Széchenyi y Gellért, perfectos para recuperar las piernas.",
+      "Ruin bars del barrio judío (Szimpla Kert).",
+      "Paseo nocturno junto al Danubio y el Puente de las Cadenas."
+    ],
+    "food": [
+      "Goulash (gulyás) y paprikás de pollo.",
+      "Lángos (masa frita con nata agria y queso).",
+      "Kürtőskalács (chimenea de dulce).",
+      "Vino de Tokaj y pálinka."
+    ],
+    "climate": "Enero: −4 a 3 °C. Noviembre: 1–9 °C.",
+    "airports": [
+      {
+        "code": "BUD",
+        "name": "Budapest-Ferenc Liszt",
+        "distance": "≈ 35 min al centro (bus 100E)"
+      }
+    ],
+    "train": "Keleti y Nyugati, con conexiones a Viena (≈ 2 h 40 min).",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 3 h 15 min).",
+      "barcelona": "Vuelo directo (≈ 2 h 40 min).",
+      "valencia": "Vuelo directo (habitual con Wizz Air/Ryanair).",
+      "alicante": "Vuelo directo (habitual con Wizz Air/Ryanair, ≈ 3 h)."
+    }
+  },
+  "cracovia": {
+    "name": "Cracovia",
+    "region": "Polonia",
+    "intro": "Joya medieval intacta, antigua capital real y una de las ciudades más bonitas (y baratas) de Europa. Tiene dos eventos WSDC al año: King Swing en primavera y Santa Swing en Navidad.",
+    "culture": [
+      "Rynek Główny, la plaza medieval más grande de Europa.",
+      "Castillo de Wawel y el barrio judío de Kazimierz.",
+      "Minas de sal de Wieliczka (≈ 30 min).",
+      "Visita a Auschwitz-Birkenau (≈ 1 h 30 min), dura pero necesaria."
+    ],
+    "food": [
+      "Pierogi y zapiekanka en Kazimierz.",
+      "Obwarzanek (rosca típica de Cracovia).",
+      "Oscypek (queso ahumado de montaña).",
+      "Mercadillo de Navidad del Rynek (en diciembre)."
+    ],
+    "climate": "Marzo: −1 a 9 °C. Diciembre: −4 a 3 °C.",
+    "airports": [
+      {
+        "code": "KRK",
+        "name": "Cracovia-Juan Pablo II",
+        "distance": "≈ 20–30 min del centro"
+      },
+      {
+        "code": "KTW",
+        "name": "Katowice",
+        "distance": "≈ 1 h 15 min"
+      }
+    ],
+    "train": "Kraków Główny.",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 3 h 30 min).",
+      "barcelona": "Vuelo directo (≈ 2 h 50 min).",
+      "valencia": "Vuelo directo según temporada o con escala.",
+      "alicante": "Vuelo directo (habitual con Ryanair, ≈ 3 h 15 min)."
+    }
+  },
+  "praga": {
+    "name": "Praga",
+    "region": "República Checa",
+    "intro": "La ciudad de las cien torres: puentes góticos, cerveza legendaria y un invierno de postal.",
+    "culture": [
+      "Puente de Carlos y el Castillo de Praga.",
+      "Plaza de la Ciudad Vieja y su reloj astronómico.",
+      "Barrio judío (Josefov) y Malá Strana."
+    ],
+    "food": [
+      "Svíčková (solomillo en salsa de nata con knedlíky).",
+      "Goulash checo con cerveza.",
+      "Trdelník (aunque es más turístico que tradicional).",
+      "Pilsner Urquell de barril, la mejor del mundo según los checos."
+    ],
+    "climate": "Febrero: −3 a 4 °C.",
+    "airports": [
+      {
+        "code": "PRG",
+        "name": "Praga-Václav Havel",
+        "distance": "≈ 30 min del centro"
+      }
+    ],
+    "train": "Praha hlavní nádraží.",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 3 h).",
+      "barcelona": "Vuelo directo (≈ 2 h 30 min).",
+      "valencia": "Vuelo directo según temporada o con escala.",
+      "alicante": "Vuelo directo según temporada o con escala."
+    }
+  },
+  "gdansk": {
+    "name": "Gdańsk",
+    "region": "Pomerania, Polonia",
+    "intro": "Ciudad hanseática junto al Báltico, con fachadas de colores y el puerto donde nació Solidaridad. En junio el norte de Europa no duerme, y tú tampoco.",
+    "culture": [
+      "Calle Larga (Długa) y la Fuente de Neptuno.",
+      "Museo de la Segunda Guerra Mundial y el Centro Europeo de Solidaridad.",
+      "Playas de Sopot y su muelle de madera (≈ 20 min)."
+    ],
+    "food": [
+      "Pescado del Báltico: arenque y bacalao.",
+      "Pierogi y sopa de remolacha (barszcz).",
+      "Goldwasser, el licor con láminas de oro.",
+      "Cerveza artesana polaca."
+    ],
+    "climate": "Junio: 11–21 °C, días de casi 17 horas de luz.",
+    "airports": [
+      {
+        "code": "GDN",
+        "name": "Gdańsk-Lech Wałęsa",
+        "distance": "≈ 25 min del centro"
+      }
+    ],
+    "train": "Gdańsk Główny, con conexión rápida a Varsovia (≈ 3 h).",
+    "fromSpain": {
+      "madrid": "Vuelo con escala o directo según temporada.",
+      "barcelona": "Vuelo directo según temporada (Ryanair/Wizz Air).",
+      "valencia": "Vuelo con escala.",
+      "alicante": "Vuelo directo según temporada (Ryanair) o con escala."
+    }
+  },
+  "lieja": {
+    "name": "Lieja",
+    "region": "Valonia, Bélgica",
+    "intro": "Ciudad valona con carácter, junto al río Mosa y a un paso de Maastricht y Aquisgrán.",
+    "culture": [
+      "Escalera de la Montagne de Bueren (374 escalones).",
+      "Estación de Liège-Guillemins, obra de Calatrava.",
+      "Mercado de La Batte, los domingos junto al Mosa."
+    ],
+    "food": [
+      "Gofre de Lieja (con perlas de azúcar).",
+      "Boulets à la liégeoise (albóndigas con salsa de sirope).",
+      "Pèket, la ginebra local.",
+      "Cervezas belgas de abadía."
+    ],
+    "climate": "Finales de octubre: 5–13 °C, lluvia frecuente.",
+    "airports": [
+      {
+        "code": "BRU",
+        "name": "Bruselas-Zaventem",
+        "distance": "≈ 1 h 15 min en tren"
+      },
+      {
+        "code": "CRL",
+        "name": "Charleroi (low cost)",
+        "distance": "≈ 1 h 15 min"
+      }
+    ],
+    "train": "Liège-Guillemins: tren de alta velocidad desde Bruselas (≈ 1 h) y París.",
+    "fromSpain": {
+      "madrid": "Vuelo directo a Bruselas o Charleroi y tren.",
+      "barcelona": "Vuelo directo a Bruselas o Charleroi y tren.",
+      "valencia": "Vuelo directo a Bruselas o Charleroi y tren.",
+      "alicante": "Vuelo directo a Bruselas o Charleroi (habitual) y tren."
+    }
+  },
+  "estocolmo": {
+    "name": "Estocolmo",
+    "region": "Suecia",
+    "intro": "Capital construida sobre 14 islas: diseño, cafés fika y un nivel de baile altísimo, porque Suecia es una potencia del WCS europeo.",
+    "culture": [
+      "Gamla Stan (ciudad vieja) y el Palacio Real.",
+      "Museo Vasa, con un galeón del siglo XVII intacto.",
+      "Djurgården y Skansen, el museo al aire libre."
+    ],
+    "food": [
+      "Albóndigas suecas con puré y mermelada de arándanos rojos.",
+      "Kanelbulle (bollo de canela) en una pausa fika.",
+      "Gravlax (salmón marinado).",
+      "Smörgåstårta, si te invitan a una."
+    ],
+    "climate": "Finales de octubre: 2–9 °C, oscurece pronto.",
+    "airports": [
+      {
+        "code": "ARN",
+        "name": "Estocolmo-Arlanda",
+        "distance": "≈ 30 min (Arlanda Express) — la sede está en el área norte"
+      }
+    ],
+    "train": "Stockholm Central.",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 4 h).",
+      "barcelona": "Vuelo directo (≈ 3 h 40 min).",
+      "valencia": "Vuelo directo según temporada o con escala.",
+      "alicante": "Vuelo directo (habitual con Norwegian/SAS, ≈ 4 h)."
+    }
+  },
+  "oslo": {
+    "name": "Oslo (Gardermoen)",
+    "region": "Noruega",
+    "intro": "El evento se celebra junto al aeropuerto de Oslo-Gardermoen, ideal para llegar sin complicaciones. Diciembre en Noruega es nieve, velas y hygge.",
+    "culture": [
+      "Ópera de Oslo, cuya cubierta se puede recorrer a pie.",
+      "Museo Munch y el Parque Vigeland.",
+      "Península de Bygdøy y sus museos vikingos y polares."
+    ],
+    "food": [
+      "Salmón noruego y bacalao skrei.",
+      "Brunost (queso marrón dulce).",
+      "Kjøttkaker (albóndigas noruegas).",
+      "Gløgg navideño."
+    ],
+    "climate": "Diciembre: −7 a 0 °C, nieve probable y solo 6 horas de luz.",
+    "airports": [
+      {
+        "code": "OSL",
+        "name": "Oslo-Gardermoen",
+        "distance": "El hotel sede está en el propio aeropuerto"
+      }
+    ],
+    "train": "Flytoget: tren del aeropuerto a Oslo centro (≈ 20 min).",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 4 h).",
+      "barcelona": "Vuelo directo (≈ 3 h 30 min).",
+      "valencia": "Vuelo directo según temporada o con escala.",
+      "alicante": "Vuelo directo (habitual con Norwegian, ≈ 4 h)."
+    }
+  },
+  "leppavirta": {
+    "name": "Leppävirta",
+    "region": "Savonia del Norte, Finlandia",
+    "intro": "Un hotel-spa en plena región de los lagos de Finlandia: lagos helados, sauna y una pista de 450 m² con todo bajo el mismo techo. Es un festival invernal único.",
+    "culture": [
+      "Sauna finlandesa y baño en hielo (avanto), si te atreves.",
+      "Kuopio (≈ 45 min) y la colina de Puijo.",
+      "Paseos por lagos helados y posibles auroras boreales."
+    ],
+    "food": [
+      "Kalakukko (pan relleno de pescado) de Savonia.",
+      "Sopa de salmón (lohikeitto).",
+      "Karjalanpiirakka (empanadillas de Carelia).",
+      "Café, mucho café: los finlandeses son los mayores consumidores del mundo."
+    ],
+    "climate": "Febrero: −15 a −3 °C. Ropa térmica obligatoria.",
+    "airports": [
+      {
+        "code": "KUO",
+        "name": "Kuopio",
+        "distance": "≈ 45 min"
+      },
+      {
+        "code": "HEL",
+        "name": "Helsinki-Vantaa",
+        "distance": "≈ 4 h en tren o coche"
+      }
+    ],
+    "train": "Estación de Kuopio o Varkaus, más un traslado.",
+    "fromSpain": {
+      "madrid": "Vuelo a Helsinki (≈ 4 h 30 min) y conexión a Kuopio.",
+      "barcelona": "Vuelo a Helsinki y conexión a Kuopio.",
+      "valencia": "Vuelo a Helsinki con escala y conexión.",
+      "alicante": "Vuelo a Helsinki (directo según temporada) y conexión."
+    }
+  },
+  "venray": {
+    "name": "Venray",
+    "region": "Limburgo, Países Bajos",
+    "intro": "Localidad holandesa cerca de la frontera alemana. El evento es de formato hotel cerrado: todo pasa en el mismo edificio.",
+    "culture": [
+      "Parque Nacional De Maasduinen.",
+      "Maastricht (≈ 1 h): una de las ciudades más bonitas de Holanda.",
+      "Eindhoven (≈ 40 min): diseño y el museo Van Abbe."
+    ],
+    "food": [
+      "Bitterballen y kroketten.",
+      "Vlaai de Limburgo (tarta de frutas).",
+      "Stroopwafels.",
+      "Quesos holandeses."
+    ],
+    "climate": "Marzo: 2–11 °C.",
+    "airports": [
+      {
+        "code": "EIN",
+        "name": "Eindhoven",
+        "distance": "≈ 40 min"
+      },
+      {
+        "code": "NRN",
+        "name": "Weeze (low cost)",
+        "distance": "≈ 35 min"
+      },
+      {
+        "code": "AMS",
+        "name": "Ámsterdam-Schiphol",
+        "distance": "≈ 2 h en tren"
+      }
+    ],
+    "train": "Estación de Venray, con conexión a Eindhoven y Nimega.",
+    "fromSpain": {
+      "madrid": "Vuelo directo a Eindhoven o Ámsterdam.",
+      "barcelona": "Vuelo directo a Eindhoven o Ámsterdam.",
+      "valencia": "Vuelo directo a Eindhoven (habitual con Ryanair/Transavia).",
+      "alicante": "Vuelo directo a Eindhoven o Ámsterdam (habitual)."
+    }
+  },
+  "roma": {
+    "name": "Roma",
+    "region": "Lacio, Italia",
+    "intro": "La Ciudad Eterna en primavera. El hotel del festival está junto al Parque de la Vía Apia Antigua, en un entorno verde lejos del caos del centro.",
+    "culture": [
+      "Coliseo, Foro Romano y el Palatino.",
+      "Vaticano: Basílica de San Pedro y la Capilla Sixtina.",
+      "Trastevere al anochecer.",
+      "Vía Apia Antigua en bici, junto a la sede."
+    ],
+    "food": [
+      "Carbonara, cacio e pepe y amatriciana.",
+      "Supplì (croqueta de arroz frita).",
+      "Pizza al taglio.",
+      "Gelato y maritozzo con nata."
+    ],
+    "climate": "Principios de abril: 9–20 °C, soleado.",
+    "airports": [
+      {
+        "code": "FCO",
+        "name": "Roma-Fiumicino",
+        "distance": "≈ 45 min"
+      },
+      {
+        "code": "CIA",
+        "name": "Roma-Ciampino (low cost)",
+        "distance": "≈ 15 min de la sede"
+      }
+    ],
+    "train": "Roma Termini.",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 2 h 30 min).",
+      "barcelona": "Vuelo directo (≈ 1 h 50 min).",
+      "valencia": "Vuelo directo (habitual).",
+      "alicante": "Vuelo directo a Fiumicino o Ciampino (habitual con Ryanair)."
+    }
+  },
+  "helsinki": {
+    "name": "Helsinki",
+    "region": "Finlandia",
+    "intro": "Capital nórdica junto al mar, de diseño y saunas públicas. El festival se celebra en Paasitorni, un histórico edificio de congresos en el centro.",
+    "culture": [
+      "Catedral luterana y la Plaza del Senado.",
+      "Fortaleza de Suomenlinna (en ferry).",
+      "Sauna pública Löyly frente al mar."
+    ],
+    "food": [
+      "Salmón y arenques del Báltico.",
+      "Korvapuusti (bollo de canela finlandés).",
+      "Mercado de la Plaza del Mercado (Kauppatori).",
+      "Salmiakki (regaliz salado), solo para valientes."
+    ],
+    "climate": "Septiembre: 9–16 °C.",
+    "airports": [
+      {
+        "code": "HEL",
+        "name": "Helsinki-Vantaa",
+        "distance": "≈ 30 min en tren al centro"
+      }
+    ],
+    "train": "Helsinki Central.",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 4 h 30 min).",
+      "barcelona": "Vuelo directo (≈ 4 h).",
+      "valencia": "Vuelo con escala o directo según temporada.",
+      "alicante": "Vuelo directo según temporada (Finnair/Norwegian) o con escala."
+    }
+  },
+  "hamar": {
+    "name": "Hamar",
+    "region": "Innlandet, Noruega",
+    "intro": "Ciudad noruega a orillas del lago Mjøsa, el más grande del país, a una hora al norte de Oslo. Fue sede olímpica en Lillehammer 1994.",
+    "culture": [
+      "Vikingskipet, el estadio olímpico con forma de barco vikingo.",
+      "Ruinas de la catedral medieval bajo su cúpula de cristal.",
+      "Paseo por el lago Mjøsa en otoño."
+    ],
+    "food": [
+      "Fårikål (cordero con col), plato nacional de otoño.",
+      "Salmón y trucha.",
+      "Lefse (crepe noruego).",
+      "Waffles con brunost."
+    ],
+    "climate": "Octubre: 0–9 °C.",
+    "airports": [
+      {
+        "code": "OSL",
+        "name": "Oslo-Gardermoen",
+        "distance": "≈ 45 min en tren"
+      }
+    ],
+    "train": "Hamar stasjon, con trenes directos desde el aeropuerto de Oslo.",
+    "fromSpain": {
+      "madrid": "Vuelo directo a Oslo y tren.",
+      "barcelona": "Vuelo directo a Oslo y tren.",
+      "valencia": "Vuelo a Oslo (directo según temporada) y tren.",
+      "alicante": "Vuelo directo a Oslo (habitual con Norwegian) y tren."
+    }
+  },
+  "milan": {
+    "name": "Milán",
+    "region": "Lombardía, Italia",
+    "intro": "Capital italiana de la moda y el diseño, con una de las comunidades de WCS más grandes de Italia.",
+    "culture": [
+      "Duomo y su terraza, y la Galería Vittorio Emanuele II.",
+      "La Última Cena de Leonardo (reserva con mucha antelación).",
+      "Navigli al atardecer, a la hora del aperitivo."
+    ],
+    "food": [
+      "Risotto alla milanese (con azafrán).",
+      "Cotoletta alla milanese.",
+      "Panettone y un aperitivo con spritz.",
+      "Ossobuco."
+    ],
+    "climate": "Octubre: 9–19 °C.",
+    "airports": [
+      {
+        "code": "MXP",
+        "name": "Milán-Malpensa",
+        "distance": "≈ 50 min"
+      },
+      {
+        "code": "LIN",
+        "name": "Milán-Linate",
+        "distance": "≈ 20 min"
+      },
+      {
+        "code": "BGY",
+        "name": "Bérgamo (low cost)",
+        "distance": "≈ 50 min"
+      }
+    ],
+    "train": "Milano Centrale.",
+    "fromSpain": {
+      "madrid": "Vuelo directo (≈ 2 h 15 min).",
+      "barcelona": "Vuelo directo (≈ 1 h 35 min).",
+      "valencia": "Vuelo directo (habitual).",
+      "alicante": "Vuelo directo a Bérgamo o Malpensa (habitual con Ryanair)."
+    }
+  }
+}

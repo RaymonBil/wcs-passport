@@ -7,6 +7,10 @@ const nextConfig = {
   basePath,
   trailingSlash: true,
   images: { unoptimized: true },
+  env: {
+    // Fecha del build: el HTML estático se genera con ella y la app la actualiza al abrirse.
+    NEXT_PUBLIC_BUILD_DATE: new Date().toISOString(),
+  },
 };
 
 export default nextConfig;

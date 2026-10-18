@@ -7,7 +7,7 @@ export default function manifest(): MetadataRoute.Manifest {
   return {
     name: "West Coast Swing Passport 2026–2027",
     short_name: "WCS Passport",
-    description: "La Guía Definitiva del Circuito Europeo: De la Pista Local al Mundo.",
+    description: "47 festivales de West Coast Swing en España y Europa: buscador, agenda, mapa, calendario y pasaporte.",
     start_url: withBase("/"),
     scope: withBase("/"),
     display: "standalone",

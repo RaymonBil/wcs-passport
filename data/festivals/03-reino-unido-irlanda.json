@@ -1,0 +1,337 @@
+[
+  {
+    "slug": "flowstate",
+    "name": "Flowstate",
+    "edition": "2026",
+    "region": "europa",
+    "country": "Reino Unido",
+    "countryCode": "GB",
+    "cityId": "londres",
+    "venue": "Thistle Hotel Heathrow Terminal 5, Bath Road, Longford",
+    "coords": [51.4813, -0.5016],
+    "start": "2026-11-13",
+    "end": "2026-11-15",
+    "dateStatus": "confirmed",
+    "dateNote": "Un listado indica del 15 al 17 de noviembre; la mayoría de fuentes dan del 13 al 15.",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": ["WCS + Zouk", "hotel", "aeropuerto"],
+    "beginner": 4,
+    "costLevel": 3,
+    "prices": [
+      { "label": "Pases", "value": "Desconocido" }
+    ],
+    "priceYear": "2026",
+    "website": "https://flowstatefest.com/",
+    "summary": {
+      "es": "Festival de West Coast Swing y Zouk junto a Heathrow, con Jack & Jill WSDC y BZDC.",
+      "en": "West Coast Swing and Zouk festival by Heathrow, with WSDC and BZDC Jack & Jills."
+    },
+    "description": "Flowstate une dos estilos de baile de conexión: West Coast Swing y Brazilian Zouk. Los workshops, las sociales, las competiciones y tu habitación están en el mismo hotel de Heathrow. Hay Jack & Jill oficiales de WSDC y BZDC.",
+    "highlights": [
+      "Dos estilos: perfecto si también bailas Zouk.",
+      "Todo en el mismo hotel de Heathrow.",
+      "Jack & Jill oficiales WSDC."
+    ],
+    "levanteTip": "Si te pica la curiosidad por el Zouk, es la excusa perfecta. Hay vuelos directos desde Alicante a Heathrow.",
+    "access": "Bus o shuttle desde Heathrow T5 (≈ 5 min).",
+    "sources": [
+      "https://flowstatefest.com/",
+      "https://ukdc.co.uk/event/flowstate-festival/"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "new-years-swing-fling",
+    "name": "New Year's Swing Fling",
+    "edition": "2026–27",
+    "region": "europa",
+    "country": "Reino Unido",
+    "countryCode": "GB",
+    "cityId": "londres",
+    "venue": "Radisson RED Hotel London Heathrow",
+    "coords": [51.4803, -0.4434],
+    "start": "2026-12-30",
+    "end": "2027-01-03",
+    "dateStatus": "confirmed",
+    "dateNote": "10.ª edición. Un listado indica del 31 de diciembre al 4 de enero.",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": ["Nochevieja", "hotel", "aeropuerto"],
+    "beginner": 3,
+    "costLevel": 3,
+    "prices": [
+      { "label": "Pases", "value": "Desconocido: consulta nysf.uk" }
+    ],
+    "priceYear": "2026",
+    "website": "https://www.nysf.uk/",
+    "teachers": ["Intensivo con J'Em el 30 de diciembre"],
+    "summary": {
+      "es": "Despide el año bailando en Londres: Nochevieja, workshops con profesores top y Jack & Jill de Newcomer a Masters.",
+      "en": "Ring in the New Year dancing in London: NYE party, top pros and Jack & Jills from Newcomer to Masters."
+    },
+    "description": "El New Year's Swing Fling celebra en 2026 su décima edición con fiesta de Nochevieja, workshops de alto nivel, competiciones WSDC (de Newcomer a Masters, más Hi-Lo Strictly) y sociales hasta tarde. El 30 de diciembre hay un intensivo con J'Em.",
+    "highlights": [
+      "Fiesta de Nochevieja bailando.",
+      "Jack & Jill WSDC de Newcomer a Masters.",
+      "Hi-Lo Strictly Swing."
+    ],
+    "levanteTip": "Compite con SwingVester (Austria) por el fin de año. Londres es más fácil de alcanzar desde Alicante y Valencia.",
+    "access": "Shuttle o bus local desde las terminales de Heathrow.",
+    "sources": ["https://www.nysf.uk/"],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "swing-resolution",
+    "name": "Swing Resolution",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Reino Unido (Escocia)",
+    "countryCode": "GB-SCT",
+    "cityId": "edimburgo",
+    "venue": "Edimburgo (sede en la web oficial)",
+    "coords": [55.9533, -3.1883],
+    "start": "2027-01-21",
+    "end": "2027-01-25",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": ["amigable", "temático", "3 salones", "invierno"],
+    "beginner": 5,
+    "costLevel": 3,
+    "prices": [
+      { "label": "Full Pass", "value": "175 £ early bird · 185 £ normal" },
+      { "label": "Party Pass", "value": "120 £ (sociales de noche)" },
+      { "label": "Student Pass", "value": "50 £ (21 años o menos)" }
+    ],
+    "priceYear": "2027",
+    "priceRefEUR": 215,
+    "priceNote": "El pase no incluye hotel. En 2026 hubo paquete pase + A&O Hotel, justo detrás de la sede.",
+    "website": "https://swingresolution.com/",
+    "summary": {
+      "es": "Cuatro noches de WCS en Edimburgo: el evento más amigable del circuito, con temática, tartas y tres salones.",
+      "en": "Four nights of WCS in Edinburgh: the friendliest event on the circuit, themed nights, cakes and three ballrooms."
+    },
+    "description": "Swing Resolution tiene fama de ser uno de los eventos más acogedores de Europa: noches temáticas, detalles caseros (las tartas son ya una leyenda) y tres salones de baile para que siempre haya hueco en la pista. Son cuatro noches de social, workshops inspiradores y competiciones WSDC en el corazón de Escocia.",
+    "highlights": [
+      "Ambiente súper acogedor, ideal si viajas por primera vez.",
+      "Noches temáticas y de disfraces.",
+      "Pase de estudiante a 50 £.",
+      "Edimburgo, una de las ciudades más bonitas de Europa."
+    ],
+    "levanteTip": "Muy recomendable como primer evento internacional. Desde Alicante hay vuelo directo. Saca la ETA británica con tiempo y lleva pasaporte.",
+    "access": "Tranvía o Airlink desde el aeropuerto de Edimburgo hasta el centro (≈ 30 min).",
+    "sources": [
+      "https://swingresolution.com/",
+      "https://swingresolution.com/products/leader-full-pass-2027"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "trinity-swing",
+    "name": "Trinity Swing",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Irlanda",
+    "countryCode": "IE",
+    "cityId": "dundalk",
+    "venue": "Carrickdale Hotel & Spa ****, Dundalk",
+    "coords": [54.0544, -6.3333],
+    "start": "2027-02-05",
+    "end": "2027-02-07",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "boutique",
+    "tags": ["spa", "hotel", "primer WSDC de Irlanda", "aforo limitado"],
+    "beginner": 5,
+    "costLevel": 2,
+    "prices": [
+      { "label": "Pases", "value": "Desconocido. Aforo limitado: en 2026 se llenó." }
+    ],
+    "priceYear": "2027",
+    "website": "https://www.trinityswing.com/",
+    "summary": {
+      "es": "El primer evento WSDC de Irlanda, en un hotel-spa: 4 niveles de workshops, 3 noches y 2 salones.",
+      "en": "Ireland's first WSDC event, at a spa hotel: 4 workshop levels, 3 party nights and 2 ballrooms."
+    },
+    "description": "Tras su edición Trial, Trinity Swing se convirtió en el primer evento registrado WSDC de Irlanda. La tercera edición vuelve al Carrickdale Hotel & Spa, con 4 niveles de workshops, 3 noches de fiesta y 2 salones. Tras llenarse el año pasado, este año limitan las entradas.",
+    "highlights": [
+      "Spa en el hotel para recuperar después de bailar.",
+      "Formato boutique y aforo limitado.",
+      "4 niveles de workshops."
+    ],
+    "levanteTip": "Desde Alicante hay vuelos directos a Dublín y desde allí 1 hora de bus. Compra pronto: el aforo es limitado. Irlanda está en la UE: basta el DNI.",
+    "access": "Bus o coche desde el aeropuerto de Dublín (≈ 1 h).",
+    "sources": [
+      "https://www.trinityswing.com/",
+      "https://eastonswing.com/west-coast-swing-events/"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "uk-wcs-championships",
+    "name": "UK West Coast Swing Championships",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Reino Unido",
+    "countryCode": "GB",
+    "cityId": "londres",
+    "venue": "Radisson RED Hotel London Heathrow, Sipson",
+    "coords": [51.4803, -0.4434],
+    "start": "2027-03-25",
+    "end": "2027-03-29",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "masivo",
+    "tags": ["campeonato nacional", "nivel élite", "aeropuerto"],
+    "beginner": 2,
+    "costLevel": 3,
+    "soldOut": true,
+    "prices": [
+      { "label": "Full Pass (edición anterior)", "value": "159 £ early · 179 £ normal · 199 £ late" },
+      { "label": "Estado", "value": "AGOTADO: aforo completo" }
+    ],
+    "priceYear": "Edición anterior (referencia)",
+    "priceRefEUR": 210,
+    "website": "https://www.ukwcschamps.com/",
+    "summary": {
+      "es": "El campeonato británico: un gigante con muchísimos competidores, incluidos muchos de Estados Unidos.",
+      "en": "The British championship: a giant event drawing many competitors, including many from the US."
+    },
+    "description": "El UK Championships es uno de los eventos de referencia de Europa y atrae a muchos competidores estadounidenses. Se celebra en un hotel pegado a Heathrow. Para 2027 el registro ya figura como completo, así que solo queda vigilar la lista de espera o las reventas oficiales.",
+    "highlights": [
+      "Nivel élite europeo y estadounidense.",
+      "Logística facilísima junto a Heathrow.",
+      "Uno de los «tres grandes» de Europa."
+    ],
+    "levanteTip": "Agotado para 2027. Apúntate a la lista de espera y apunta en el calendario la apertura de inscripciones de 2028: vuela.",
+    "access": "Shuttle o bus local desde Heathrow (≈ 5–10 min).",
+    "sources": [
+      "https://www.ukwcschamps.com/registration",
+      "https://www.yourdancebuddy.com/events/uk-west-coast-swing-championships-2027"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "detonation-dance",
+    "name": "Detonation Dance",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Reino Unido",
+    "countryCode": "GB",
+    "cityId": "manchester",
+    "venue": "Hilton / DoubleTree by Hilton Manchester Airport",
+    "coords": [53.3626, -2.2737],
+    "start": "2027-04-22",
+    "end": "2027-04-26",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "grande",
+    "tags": ["aeropuerto", "Zero to Hero", "Strictly"],
+    "beginner": 4,
+    "costLevel": 2,
+    "prices": [
+      { "label": "Full Pass internacional", "value": "149 £ earlybird · 169 £ full" },
+      { "label": "Full Pass UK & Irlanda", "value": "149 £ superbird (agotado) · 169 £ earlybird · 189 £ full" },
+      { "label": "Advanced / All-Star", "value": "129 £ earlybird · 149 £ full" }
+    ],
+    "priceYear": "2027",
+    "priceRefEUR": 175,
+    "website": "https://detonationdance.com/",
+    "summary": {
+      "es": "Weekender de primavera junto al aeropuerto de Manchester, con Jack & Jill WSDC, Strictly y programa «Zero to Hero».",
+      "en": "Spring weekender by Manchester Airport with WSDC Jack & Jills, Strictly and a 'Zero to Hero' track."
+    },
+    "description": "Detonation Dance, organizado por Easton Swing, es uno de los grandes eventos británicos de primavera. Hay Jack & Jill WSDC, Strictly Swing y un programa específico para principiantes (Zero to Hero). Los internacionales tienen precio propio, más bajo.",
+    "highlights": [
+      "Tarifa especial para internacionales.",
+      "Programa Zero to Hero para quien empieza.",
+      "Hotel en el mismo aeropuerto."
+    ],
+    "levanteTip": "Alicante–Manchester es una de las rutas más baratas que existen. Elige la tarifa internacional (149 £ early).",
+    "access": "A pie o en shuttle desde las terminales del aeropuerto de Manchester.",
+    "sources": [
+      "https://detonationdance.com/register/",
+      "https://westiehub.dance/events/detonation-dance-2027"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "festival-city-swing",
+    "name": "Festival City Swing",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Reino Unido",
+    "countryCode": "GB",
+    "cityId": "newcastle",
+    "venue": "Britannia Hotel, Newcastle Airport",
+    "coords": [55.0375, -1.6918],
+    "start": "2027-06-03",
+    "end": "2027-06-07",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": ["aeropuerto", "noreste de Inglaterra"],
+    "beginner": 4,
+    "costLevel": 2,
+    "prices": [
+      { "label": "Pases", "value": "Próximamente (coming soon)" }
+    ],
+    "priceYear": "2027",
+    "website": "https://moonshinedance.com/festival-city-swing2027",
+    "summary": {
+      "es": "Evento WSDC organizado por WCS Edinburgh y Moonshine, junto al aeropuerto de Newcastle.",
+      "en": "WSDC event by WCS Edinburgh and Moonshine, next to Newcastle Airport."
+    },
+    "description": "Festival City Swing es un evento WSDC producido por West Coast Swing Edinburgh y Moonshine Productions. En 2027 se traslada a un hotel junto al aeropuerto de Newcastle. Las entradas y el horario aún no se han publicado.",
+    "highlights": [
+      "Organizan los mismos equipos que la escena de Edimburgo.",
+      "Hotel junto al aeropuerto."
+    ],
+    "levanteTip": "Desde Alicante suele haber vuelo directo a Newcastle (Jet2). Vigila cuándo salen las entradas.",
+    "access": "Junto al aeropuerto de Newcastle.",
+    "sources": ["https://moonshinedance.com/festival-city-swing2027"],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "midland-swing-open",
+    "name": "Midland Swing Open",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Reino Unido",
+    "countryCode": "GB",
+    "cityId": "londres",
+    "venue": "Thistle Hotel & Conference Centre, Heathrow Terminal 5 (sede 2026)",
+    "coords": [51.4813, -0.5016],
+    "start": "2027-09-23",
+    "end": "2027-09-26",
+    "dateStatus": "confirmed",
+    "dateNote": "Fechas según la lista de la WSDC. La sede de 2027 aún no se ha anunciado (en 2026 fue el Thistle T5).",
+    "wsdc": "registry",
+    "size": "grande",
+    "tags": ["aeropuerto", "sala social"],
+    "beginner": 3,
+    "costLevel": 3,
+    "prices": [
+      { "label": "Pases", "value": "Desconocido" }
+    ],
+    "priceYear": "—",
+    "website": "https://midlandswingopen.com/",
+    "summary": {
+      "es": "Gran evento británico de otoño junto a Heathrow, con sala social dedicada.",
+      "en": "Major British autumn event by Heathrow with a dedicated social room."
+    },
+    "description": "Midland Swing Open, pese a su nombre, se celebra en el área de Heathrow. Combina competiciones WSDC, workshops y una sala social específica para bailar sin descanso.",
+    "highlights": [
+      "Sala social dedicada.",
+      "Junto a Heathrow T5."
+    ],
+    "levanteTip": "Buena opción para cerrar la temporada en septiembre.",
+    "access": "Bus o shuttle desde Heathrow T5.",
+    "sources": [
+      "https://worldsdc.com/events-/?country=GBR",
+      "https://midlandswingopen.com/"
+    ],
+    "verified": "2026-10-18"
+  }
+]

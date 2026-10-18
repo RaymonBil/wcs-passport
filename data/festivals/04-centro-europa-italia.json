@@ -1,0 +1,639 @@
+[
+  {
+    "slug": "augsburg-westie-station",
+    "name": "Augsburg Westie Station",
+    "edition": "2026",
+    "region": "europa",
+    "country": "Alemania",
+    "countryCode": "DE",
+    "cityId": "augsburgo",
+    "venue": "Hep Cat Club, Augsburgo",
+    "coords": [
+      48.3705,
+      10.8978
+    ],
+    "start": "2026-10-22",
+    "end": "2026-10-25",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "boutique",
+    "tags": [
+      "street style",
+      "escuela",
+      "aforo limitado"
+    ],
+    "beginner": 3,
+    "costLevel": 2,
+    "soldOut": true,
+    "prices": [
+      {
+        "label": "Pases",
+        "value": "Full y parciales vía DanceApp. AGOTADO (lista de espera)."
+      }
+    ],
+    "priceYear": "2026",
+    "website": "https://hepcatclub.com/",
+    "summary": {
+      "es": "Evento WSDC con estética «street style» en una escuela de swing de Augsburgo.",
+      "en": "Street-style WSDC event at a swing dance school in Augsburg."
+    },
+    "description": "La Westie Station se define como un evento de West Coast Swing «street style» y es WSDC Registry. Se celebra en el Hep Cat Club, una escuela de swing con mucha personalidad. La edición 2026 está agotada.",
+    "highlights": [
+      "Estilo urbano y ambiente de club.",
+      "Formato cercano.",
+      "A 40 minutos de Múnich."
+    ],
+    "levanteTip": "Agotado este año: apúntalo para octubre de 2027 y compra en cuanto abran.",
+    "access": "Tren Múnich–Augsburgo (≈ 30–45 min) y tranvía o a pie.",
+    "sources": [
+      "https://www.festivalsindeutschland.de/festival/augsburg-westie-station",
+      "https://danceapp.net/en-us/events/145-Augsburg_Westie_Station_2026/"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "project-switch",
+    "name": "Project Switch",
+    "edition": "2026",
+    "region": "europa",
+    "country": "Alemania",
+    "countryCode": "DE",
+    "cityId": "munich",
+    "venue": "Tumblingerstraße 34a, Múnich",
+    "coords": [
+      48.1236,
+      11.5532
+    ],
+    "start": "2026-11-27",
+    "end": "2026-11-29",
+    "dateStatus": "confirmed",
+    "wsdc": "none",
+    "size": "boutique",
+    "tags": [
+      "cambio de rol",
+      "switch",
+      "formato original"
+    ],
+    "beginner": 3,
+    "costLevel": 2,
+    "prices": [
+      {
+        "label": "Full Pass",
+        "value": "149 € early (hasta 31/08) · 169 € normal"
+      },
+      {
+        "label": "Party Pass",
+        "value": "59 € early · 79 € normal"
+      }
+    ],
+    "priceYear": "2026",
+    "priceRefEUR": 169,
+    "website": "https://www.regioactive.de/tanz/project-switch-the-wcs-event-in-munich-muenchen-tumblingerstrasse-34a-2026-11-27-lnRvXQbj6D",
+    "teachers": [
+      "Clem & Evi"
+    ],
+    "summary": {
+      "es": "El evento del cambio de rol: aprende a bailar tu segundo rol con Clem & Evi y compite en equipos que rotan.",
+      "en": "The role-switching event: learn your second role with Clem & Evi and compete in rotating teams."
+    },
+    "description": "Project Switch está dedicado al «switch» (bailar ambos roles). Tiene dos tracks: Switch, con los básicos en tu segundo rol, y Switch++, con cambio de rol avanzado. Su competición estrella es original: te inscribes solo, te asignan a un grupo de cuatro y compites en equipo mientras las parejas rotan, los roles cambian y te «roban» en mitad de la canción.",
+    "highlights": [
+      "Único evento centrado en el doble rol.",
+      "Competición por equipos de cuatro.",
+      "Mercadillos navideños de Múnich recién abiertos."
+    ],
+    "levanteTip": "Si eres follower y quieres aprender a llevar (o al revés), no hay mejor sitio. No da puntos WSDC.",
+    "access": "Metro U3/U6 o S-Bahn hasta la zona de Schlachthof/Poccistraße.",
+    "sources": [
+      "https://www.regioactive.de/tanz/project-switch-the-wcs-event-in-munich-muenchen-tumblingerstrasse-34a-2026-11-27-lnRvXQbj6D"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "berlin-swing-revolution",
+    "name": "Berlin Swing Revolution",
+    "edition": "2026",
+    "region": "europa",
+    "country": "Alemania",
+    "countryCode": "DE",
+    "cityId": "berlin",
+    "venue": "Werk36, Berlín",
+    "coords": [
+      52.5163,
+      13.4545
+    ],
+    "start": "2026-12-10",
+    "end": "2026-12-13",
+    "dateStatus": "confirmed",
+    "dateNote": "Facebook indica hasta el 14 de diciembre.",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": [
+      "Navidad",
+      "capital",
+      "workshops"
+    ],
+    "beginner": 3,
+    "costLevel": 3,
+    "prices": [
+      {
+        "label": "Full Pass",
+        "value": "180 € / 200 € según entradas vendidas (7 h por niveles + 2 h todos los niveles + 3 fiestas + competiciones)"
+      },
+      {
+        "label": "All-Star Pass",
+        "value": "90 € / 100 €"
+      },
+      {
+        "label": "Pre-party jueves",
+        "value": "15 € (con workshop)"
+      },
+      {
+        "label": "Fiesta del domingo",
+        "value": "15 € (abierta al público)"
+      },
+      {
+        "label": "Jack & Jill WSDC",
+        "value": "17 € anticipada · 20 € en el evento"
+      }
+    ],
+    "priceYear": "2026",
+    "priceRefEUR": 190,
+    "priceNote": "No hay Party Pass completo. La fiesta del domingo sí está abierta al público.",
+    "website": "https://berlinswingrevolution.com/",
+    "summary": {
+      "es": "WSDC en Berlín en plena temporada de mercadillos navideños, con 9 horas de workshops.",
+      "en": "WSDC event in Berlin during Christmas-market season, with 9 hours of workshops."
+    },
+    "description": "Berlin Swing Revolution reúne 7 horas de workshops por niveles, 2 horas de clases para todos los niveles, tres fiestas y competiciones WSDC en Werk36. Diciembre en Berlín significa Glühwein y mercadillos en cada barrio.",
+    "highlights": [
+      "9 h de workshops en total.",
+      "Mercadillos navideños berlineses.",
+      "Fiesta del domingo abierta al público."
+    ],
+    "levanteTip": "Desde Alicante hay vuelos directos a Berlín. Es un evento caro para quien va solo a bailar: si no vas a tomar clases, plantéate solo la fiesta del domingo.",
+    "access": "Transporte público de Berlín (S-Bahn y U-Bahn). Desde BER, ≈ 40 min.",
+    "sources": [
+      "https://berlinswingrevolution.com/registration/index.en.html",
+      "https://www.yourdancebuddy.com/events/berlin-swing-revolution-2026"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "swingvester",
+    "name": "SwingVester",
+    "edition": "2026–27",
+    "region": "europa",
+    "country": "Austria",
+    "countryCode": "AT",
+    "cityId": "wels",
+    "venue": "Tanzschule Hippmann, Pollheimerstraße 7, Wels (≈ 2.000 m² en 7 salas)",
+    "coords": [
+      48.1597,
+      14.0283
+    ],
+    "start": "2026-12-30",
+    "end": "2027-01-04",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "grande",
+    "tags": [
+      "Nochevieja",
+      "7 salas",
+      "Rising Star Tour",
+      "intensivos"
+    ],
+    "beginner": 3,
+    "costLevel": 2,
+    "prices": [
+      {
+        "label": "Workshop Pass",
+        "value": "160 € (versión en alemán: 150 €). Incluye 5 fiestas y acceso a competiciones."
+      },
+      {
+        "label": "Party Pass",
+        "value": "120 € (5 fiestas + acceso a competiciones)"
+      },
+      {
+        "label": "Intensivos",
+        "value": "90 € por persona e intensivo"
+      },
+      {
+        "label": "Inscripción a competición",
+        "value": "22 € por persona y división"
+      },
+      {
+        "label": "Paquetes con hotel",
+        "value": "480 € – 750 € (tienda swingticket.dance)"
+      }
+    ],
+    "priceYear": "2026–27",
+    "priceRefEUR": 160,
+    "priceNote": "La tienda swingticket.dance muestra un Workshop Ticket de 195 €: comprueba la tarifa vigente.",
+    "website": "https://www.swingvester.com/",
+    "summary": {
+      "es": "Cinco días de baile para despedir el año en Austria: 2.000 m² de pista en siete salas y competición WSDC.",
+      "en": "Five days of dancing to ring in the New Year in Austria: 2,000 m² of floors across seven rooms and WSDC competition."
+    },
+    "description": "SwingVester es la gran tradición de fin de año del WCS europeo. Se celebra en una escuela de baile enorme (≈ 2.000 m² repartidos en 7 salas) con workshops, intensivos, cinco fiestas incluida la de Nochevieja y competiciones WSDC del Rising Star Tour. Hay hoteles asociados a 2, 5 y 10 minutos a pie.",
+    "highlights": [
+      "Nochevieja bailando con cientos de westies.",
+      "7 salas: siempre hay sitio para bailar.",
+      "Hoteles asociados a pocos minutos a pie.",
+      "Salzburgo y Linz muy cerca."
+    ],
+    "levanteTip": "Plan de fin de año perfecto: vuelo a Múnich o Viena y tren a Wels. Si viajas antes del 30, Salzburgo nevado merece una parada.",
+    "access": "Desde Wels Hbf, ≈ 10–15 min a pie o en taxi. Hotel Kremsmünster a 2 min, Plaza Inn a 5 min, Ibis a 10 min.",
+    "sources": [
+      "https://www.swingvester.com/event-info/",
+      "https://www.swingvester.com/tickets/",
+      "https://www.swingvester.com/event-info/faq/"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "swingtzerland",
+    "name": "Swingtzerland",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Suiza",
+    "countryCode": "CH",
+    "cityId": "zurich",
+    "venue": "Zúrich (sede en la web oficial)",
+    "coords": [
+      47.3769,
+      8.5417
+    ],
+    "start": "2027-02-04",
+    "end": "2027-02-07",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "grande",
+    "tags": [
+      "alta gama",
+      "nivel alto",
+      "invierno alpino"
+    ],
+    "beginner": 2,
+    "costLevel": 3,
+    "soldOut": true,
+    "prices": [
+      {
+        "label": "Event Pass",
+        "value": "AGOTADO para 2027"
+      },
+      {
+        "label": "Referencia 2024",
+        "value": "Full Pass desde 210 CHF"
+      }
+    ],
+    "priceYear": "2024 (referencia)",
+    "priceRefEUR": 225,
+    "website": "http://www.swingtzerland.ch/",
+    "summary": {
+      "es": "El clásico suizo de alta gama en Zúrich: nivel altísimo, organización impecable y precios a juego.",
+      "en": "The upscale Swiss classic in Zurich: very high level, flawless organisation and prices to match."
+    },
+    "description": "Swingtzerland es uno de los históricos del circuito europeo, conocido por su organización suiza y su nivel competitivo alto. Es también uno de los más caros: el pase y, sobre todo, el alojamiento en Zúrich. Los pases de 2027 ya están agotados.",
+    "highlights": [
+      "Organización impecable.",
+      "Nivel competitivo alto.",
+      "Zúrich, el lago y los Alpes."
+    ],
+    "levanteTip": "Agotado en 2027. Si quieres ir en 2028, presupuesta alto y compra el primer día de inscripción.",
+    "access": "Tren desde el aeropuerto de Zúrich al centro (≈ 12 min).",
+    "sources": [
+      "http://www.swingtzerland.ch/index_ger.php",
+      "https://www.yourdancebuddy.com/events/swingtzerland-2027"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "euro-dance-festival",
+    "name": "Euro Dance Festival (WSDC)",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Alemania",
+    "countryCode": "DE",
+    "cityId": "rust",
+    "venue": "Europa-Park, Rust",
+    "coords": [
+      48.266,
+      7.7221
+    ],
+    "start": "2027-02-09",
+    "end": "2027-02-14",
+    "dateStatus": "confirmed",
+    "dateNote": "Festival del 9 al 14 de febrero. La competición WSDC es el sábado 13 de febrero de 2027.",
+    "wsdc": "registry",
+    "size": "masivo",
+    "tags": [
+      "multiestilo",
+      "parque temático",
+      "hoteles temáticos"
+    ],
+    "beginner": 3,
+    "costLevel": 3,
+    "prices": [
+      {
+        "label": "WCS Eventpass (11–13 feb.)",
+        "value": "99 €"
+      },
+      {
+        "label": "Pase de festival de 6 días",
+        "value": "599 € (hasta 31/10/2026) → 679 € (febrero) → 699 € en taquilla"
+      },
+      {
+        "label": "Entrada de día",
+        "value": "119 € – 149 €"
+      },
+      {
+        "label": "Jack & Jill WSDC",
+        "value": "20 € por inscripción (requiere entrada válida)"
+      },
+      {
+        "label": "Hoteles Europa-Park",
+        "value": "107 € individual · 160 € doble · 189 € triple · 226 € cuádruple por noche, con desayuno (código «Euro Dance Festival»)"
+      }
+    ],
+    "priceYear": "2027",
+    "priceRefEUR": 99,
+    "priceNote": "El hotel Colosseo estará cerrado por reformas a principios de 2027.",
+    "website": "https://www.euro-dance-festival.com/en/rust/wsdc/",
+    "summary": {
+      "es": "Megafestival multiestilo dentro de Europa-Park, con sala de WCS hasta las 3:00 y competición WSDC el sábado.",
+      "en": "A huge multi-style festival inside Europa-Park, with a WCS area until 3 am and WSDC competition on Saturday."
+    },
+    "description": "El Euro Dance Festival es un festival enorme de muchos estilos (salsa, bachata, kizomba, WCS...) en los hoteles temáticos de Europa-Park. El área de West Coast Swing abre hasta las 3:00 el viernes y el sábado, y el sábado 13 se celebra la competición WSDC. Existe un pase específico de WCS mucho más barato que el pase general.",
+    "highlights": [
+      "Pase WCS específico por 99 €.",
+      "Hoteles temáticos dentro del parque.",
+      "Puedes probar otros estilos en las salas vecinas."
+    ],
+    "levanteTip": "Compra solo el WCS Eventpass (99 €) si vas a por el West: el pase general es para quien también baila otros estilos. Vuela a Basilea desde Alicante o Valencia.",
+    "access": "Shuttle o coche desde Basilea o Estrasburgo. Estación Ringsheim/Europa-Park.",
+    "sources": [
+      "https://www.euro-dance-festival.com/en/rust/wsdc/",
+      "https://www.euro-dance-festival.com/en/rust/tickets-preise/",
+      "https://shop.gutmann-events.de/de/edf/47.html"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "german-open-wcs",
+    "name": "German Open WCS",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Alemania",
+    "countryCode": "DE",
+    "cityId": "friburgo",
+    "venue": "Ballhaus Freiburg, Leo-Wohleb-Straße",
+    "coords": [
+      47.9873,
+      7.8406
+    ],
+    "start": "2027-08-04",
+    "end": "2027-08-08",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "grande",
+    "tags": [
+      "verano",
+      "sede histórica",
+      "Selva Negra"
+    ],
+    "beginner": 3,
+    "costLevel": 2,
+    "prices": [
+      {
+        "label": "Full Pass (2025)",
+        "value": "Desde 159 €"
+      }
+    ],
+    "priceYear": "2025 (referencia)",
+    "priceRefEUR": 159,
+    "website": "https://go-wcs.com/",
+    "summary": {
+      "es": "El clásico alemán de verano en Friburgo: Strictly y Jack & Jill en todas las divisiones, 7 h de clases y 5 fiestas.",
+      "en": "Germany's summer classic in Freiburg: Strictly and J&J in all divisions, 7 h of workshops and 5 parties."
+    },
+    "description": "El German Open mantiene un perfil competitivo muy alto en pleno verano: Strictly y Jack & Jill en todas las divisiones, 7 horas de workshops y 5 fiestas en el histórico Ballhaus de Friburgo, la puerta de la Selva Negra.",
+    "highlights": [
+      "Todas las divisiones de J&J y Strictly.",
+      "5 fiestas.",
+      "Friburgo en agosto: terrazas y Selva Negra."
+    ],
+    "levanteTip": "Vuelo a Basilea (easyJet) desde Alicante o Valencia y bus a Friburgo. Agosto en Friburgo es caluroso: lleva ropa de recambio de sobra.",
+    "access": "Tranvía desde Freiburg Hbf. Desde el aeropuerto de Basilea, bus (≈ 50 min).",
+    "sources": [
+      "https://go-wcs.com/"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "swingside-invitational",
+    "name": "Swingside Invitational",
+    "edition": "2026",
+    "region": "europa",
+    "country": "Bélgica",
+    "countryCode": "BE",
+    "cityId": "lieja",
+    "venue": "Palais des Congrès de Liège",
+    "coords": [
+      50.6337,
+      5.5793
+    ],
+    "start": "2026-10-23",
+    "end": "2026-10-25",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": [
+      "100 % WCS",
+      "palacio de congresos",
+      "Benelux"
+    ],
+    "beginner": 4,
+    "costLevel": 2,
+    "prices": [
+      {
+        "label": "Full Pass (2024)",
+        "value": "Desde 150 €"
+      }
+    ],
+    "priceYear": "2024 (referencia)",
+    "priceRefEUR": 150,
+    "website": "https://www.swingside.be/festival-westcoastswing/",
+    "summary": {
+      "es": "Evento 100 % West Coast Swing en el Palacio de Congresos de Lieja.",
+      "en": "A 100% West Coast Swing event at Liège's Palais des Congrès."
+    },
+    "description": "El Swingside Invitational es el evento WSDC de la escuela Swingside de Lieja. En 2026 se traslada al Palacio de Congresos de la ciudad, junto al río Mosa.",
+    "highlights": [
+      "100 % West Coast Swing.",
+      "Sede junto al Mosa.",
+      "Bien conectado por tren desde Bruselas."
+    ],
+    "levanteTip": "Vuelo a Charleroi o Bruselas desde Alicante o Valencia y tren a Lieja. Prueba el gofre auténtico.",
+    "access": "Desde Liège-Guillemins, ≈ 15 min a pie o en bus.",
+    "sources": [
+      "https://www.swingside.be/festival-westcoastswing/",
+      "https://www.yourdancebuddy.com/events/swingside-invitational-2026"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "dutch-open-wcs",
+    "name": "Dutch Open West Coast Swing",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Países Bajos",
+    "countryCode": "NL",
+    "cityId": "venray",
+    "venue": "Hotel Asteria, Venray (sede 2026)",
+    "coords": [
+      51.5259,
+      5.9746
+    ],
+    "start": "2027-03-11",
+    "end": "2027-03-14",
+    "dateStatus": "tentative",
+    "dateNote": "La edición 2026 fue del 12 al 15 de marzo. Fechas de 2027 sin publicar.",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": [
+      "hotel",
+      "premium"
+    ],
+    "beginner": 3,
+    "costLevel": 3,
+    "prices": [
+      {
+        "label": "Pases",
+        "value": "Desconocido. Los asistentes lo describen como un evento «premium»."
+      }
+    ],
+    "priceYear": "—",
+    "website": "https://www.yourdancebuddy.com/events/dutch-open-west-coast-swing-2026",
+    "summary": {
+      "es": "El evento WSDC histórico de los Países Bajos, en formato hotel.",
+      "en": "The Netherlands' long-running WSDC event, in hotel format."
+    },
+    "description": "El Dutch Open es desde hace años el evento WSDC de referencia en los Países Bajos. Se celebra en formato hotel en Venray, cerca de Eindhoven y de la frontera alemana.",
+    "highlights": [
+      "Formato hotel: todo bajo el mismo techo.",
+      "Cerca del aeropuerto de Eindhoven."
+    ],
+    "levanteTip": "Vuelo a Eindhoven desde Alicante o Valencia y tren a Venray.",
+    "access": "Tren desde Eindhoven o taxi desde el aeropuerto de Weeze.",
+    "sources": [
+      "https://www.yourdancebuddy.com/events/dutch-open-west-coast-swing-2026"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "swing-in-capital",
+    "name": "Swing in Capital",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Italia",
+    "countryCode": "IT",
+    "cityId": "roma",
+    "venue": "Hotel Capannelle ****, junto al Parque de la Vía Apia Antigua, Roma",
+    "coords": [
+      41.8317,
+      12.5631
+    ],
+    "start": "2027-04-01",
+    "end": "2027-04-04",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": [
+      "primavera",
+      "Roma",
+      "niveles por audición"
+    ],
+    "beginner": 4,
+    "costLevel": 2,
+    "prices": [
+      {
+        "label": "Full Pass",
+        "value": "149 €"
+      },
+      {
+        "label": "Hotel",
+        "value": "110 € por noche, individual con desayuno"
+      }
+    ],
+    "priceYear": "2027",
+    "priceRefEUR": 149,
+    "website": "https://swingincapital.com/?locale=en",
+    "summary": {
+      "es": "WSDC en Roma en primavera, en un hotel junto a la Vía Apia Antigua, con niveles de nombres romanos.",
+      "en": "Spring WSDC event in Rome at a hotel by the Appian Way, with Roman-themed levels."
+    },
+    "description": "Swing in Capital es el evento WSDC de West Coast Swing Roma. Tiene Jack & Jill y Strictly oficiales, y los workshops se ordenan por niveles con nombres romanos (de Legionary a Colosseum) según tus puntos WSDC o una audición. La sede está en un entorno verde junto a la Vía Apia.",
+    "highlights": [
+      "Precio muy competitivo (149 €).",
+      "Justo después de Semana Santa (Pascua es el 28 de marzo de 2027): Roma en primavera.",
+      "Ciampino a 15 minutos."
+    ],
+    "levanteTip": "Alicante–Roma en low cost y un Full Pass de 149 €: una de las mejores relaciones calidad-precio de la temporada. La inscripción abrió el 1 de octubre de 2026.",
+    "access": "Desde Ciampino, taxi (≈ 15 min). Desde Fiumicino, ≈ 45 min.",
+    "sources": [
+      "https://swingincapital.com/?locale=en"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "milan-modern-swing",
+    "name": "Milan Modern Swing",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Italia",
+    "countryCode": "IT",
+    "cityId": "milan",
+    "venue": "Sesto San Giovanni, Milán",
+    "coords": [
+      45.5335,
+      9.2347
+    ],
+    "start": "2027-10-14",
+    "end": "2027-10-17",
+    "dateStatus": "tentative",
+    "dateNote": "La edición 2026 fue del 15 al 18 de octubre. Fechas de 2027 sin publicar.",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": [
+      "otoño",
+      "Milán",
+      "hotel"
+    ],
+    "beginner": 3,
+    "costLevel": 2,
+    "prices": [
+      {
+        "label": "Pases",
+        "value": "Desconocido"
+      }
+    ],
+    "priceYear": "—",
+    "website": "https://www.westcoastswingmilan.com/milanmodernswing/",
+    "summary": {
+      "es": "El WSDC de otoño de la comunidad de Milán.",
+      "en": "The Milan community's autumn WSDC event."
+    },
+    "description": "Milan Modern Swing es el evento WSDC de West Coast Swing Milan. Se celebra en Sesto San Giovanni, en el área metropolitana de Milán, a mediados de octubre.",
+    "highlights": [
+      "Milán, capital del diseño.",
+      "Vuelos baratos a Bérgamo y Malpensa."
+    ],
+    "levanteTip": "Alicante–Bérgamo es una ruta low cost muy habitual. Cierra la temporada aquí.",
+    "access": "Metro M1 hasta Sesto.",
+    "sources": [
+      "https://www.westcoastswingmilan.com/milanmodernswing/"
+    ],
+    "verified": "2026-10-18"
+  }
+]

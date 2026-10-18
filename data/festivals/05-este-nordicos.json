@@ -1,0 +1,538 @@
+[
+  {
+    "slug": "scandinavian-open-snow",
+    "name": "Scandinavian Open WCS «SNOW»",
+    "edition": "2026",
+    "region": "europa",
+    "country": "Suecia",
+    "countryCode": "SE",
+    "cityId": "estocolmo",
+    "venue": "Quality Hotel Strawberry Arena, Estocolmo (Solna)",
+    "coords": [59.3727, 18.0005],
+    "start": "2026-10-28",
+    "end": "2026-11-01",
+    "dateStatus": "confirmed",
+    "dateNote": "Algunos listados lo alargan hasta el 2 de noviembre.",
+    "wsdc": "registry",
+    "size": "grande",
+    "tags": ["hotel", "nivel nórdico", "otoño"],
+    "beginner": 3,
+    "costLevel": 3,
+    "prices": [
+      { "label": "Full Pass (2025)", "value": "Desde 2.000 SEK (tarifa «Blizzard Bird»), con tramos que suben" }
+    ],
+    "priceYear": "2025 (referencia)",
+    "priceRefEUR": 175,
+    "website": "https://snowcs.se/",
+    "summary": {
+      "es": "El gran WSDC sueco en un hotel-arena de Estocolmo: nivel nórdico altísimo.",
+      "en": "Sweden's big WSDC event at a Stockholm arena hotel: top Nordic level."
+    },
+    "description": "SNOW es el Scandinavian Open, el gran evento WSDC de Suecia, uno de los países con más nivel de WCS de Europa. Se celebra en el Quality Hotel junto al Strawberry Arena de Solna, en el área norte de Estocolmo.",
+    "highlights": [
+      "Nivel de baile nórdico, de los más altos de Europa.",
+      "Formato hotel.",
+      "Estocolmo, la ciudad de las 14 islas."
+    ],
+    "levanteTip": "Desde Alicante suele haber vuelo directo a Estocolmo (Norwegian/SAS). Prepárate para pagar precios nórdicos en comida y bebida.",
+    "access": "Desde Arlanda, tren o bus a Solna/Stockholm City y metro o pendeltåg hasta la zona del Strawberry Arena.",
+    "sources": [
+      "https://snowcs.se/register/",
+      "https://www.yourdancebuddy.com/events/scandinavian-open-wcs-snow-2026"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "warsaw-halloween-swing",
+    "name": "Warsaw Halloween Swing",
+    "edition": "2026",
+    "region": "europa",
+    "country": "Polonia",
+    "countryCode": "PL",
+    "cityId": "varsovia",
+    "venue": "The Westin Warsaw",
+    "coords": [52.2337, 20.9963],
+    "start": "2026-10-29",
+    "end": "2026-11-02",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "grande",
+    "tags": ["disfraces", "Halloween", "hotel", "inscripción en pareja"],
+    "beginner": 3,
+    "costLevel": 1,
+    "prices": [
+      { "label": "Full Pass", "value": "840 zł por persona (solo inscripción en pareja)" },
+      { "label": "Party & Comp Pass", "value": "525 zł por persona (en pareja)" },
+      { "label": "Party Pass", "value": "300 zł" },
+      { "label": "Fri-tensive", "value": "320 zł anticipado · 380 zł en puerta" },
+      { "label": "En puerta (si no se agota)", "value": "150 € Party Pass · 230 € Full Pass" }
+    ],
+    "priceYear": "2026",
+    "priceRefEUR": 195,
+    "priceNote": "Se paga la tarifa vigente en el momento del pago, no la del registro. Hay que pagar en 5 días o pasas a lista de espera.",
+    "website": "https://warsawhalloweenswing.com/",
+    "summary": {
+      "es": "11.º aniversario de la fiesta de disfraces más grande del WCS europeo, en el Westin de Varsovia.",
+      "en": "The 11th 'AnniverScary' of European WCS's biggest costume party, at the Westin Warsaw."
+    },
+    "description": "El Warsaw Halloween Swing celebra en 2026 su 11.º «AnniverScary»: un evento WSDC con workshops, competiciones y las fiestas de viernes, sábado y domingo, con la noche de disfraces como plato fuerte. La inscripción del Full Pass es solo en pareja (leader + follower).",
+    "highlights": [
+      "La fiesta de disfraces del año.",
+      "Precios polacos muy competitivos.",
+      "Hotel de cinco estrellas en el centro de Varsovia."
+    ],
+    "levanteTip": "Busca pareja de inscripción en el grupo de WhatsApp: el Full Pass solo se vende en pareja. Prepara el disfraz con tiempo, aquí se lo toman muy en serio.",
+    "access": "Desde Chopin, taxi o tren al centro (≈ 25 min). Desde Modlin, bus o tren (≈ 50 min).",
+    "sources": [
+      "https://warsawhalloweenswing.com/booking/",
+      "https://warsawhalloweenswing.com/"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "autumn-swing-challenge",
+    "name": "Autumn Swing Challenge",
+    "edition": "2026",
+    "region": "europa",
+    "country": "Hungría",
+    "countryCode": "HU",
+    "cityId": "budapest",
+    "venue": "Aquincum Hotel Budapest",
+    "coords": [47.5486, 19.0466],
+    "start": "2026-11-13",
+    "end": "2026-11-15",
+    "dateStatus": "confirmed",
+    "dateNote": "Pre-party el jueves 12. Algunos listados lo alargan al lunes 16.",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": ["Rising Star Tour", "hotel", "termas"],
+    "beginner": 3,
+    "costLevel": 2,
+    "prices": [
+      { "label": "Workshop Pass", "value": "160 € · 180 € · 190 € según tramo" },
+      { "label": "Party Pass", "value": "120 € · 130 € · 140 €" },
+      { "label": "All-Star Pass", "value": "Gratis para las 6 primeras parejas" },
+      { "label": "Hotel", "value": "134 € (2 pers.) · 118 € (1 pers.) por noche con desayuno" }
+    ],
+    "priceYear": "2026",
+    "priceRefEUR": 180,
+    "website": "https://www.asc-budapest.com/",
+    "teachers": [
+      "Joao Parada & Savana Barreau",
+      "Kyle FitzGerald & Mélodie Paletta",
+      "Miguel Ortega & Irina Puzanova",
+      "Ludovic Pelegrin & Coleen Man",
+      "Philipp & Ekaterina Wolff"
+    ],
+    "summary": {
+      "es": "El WSDC otoñal de Budapest, con división Rising Star y un cartel de profesores de lujo.",
+      "en": "Budapest's autumn WSDC event, with a Rising Star division and a stellar line-up."
+    },
+    "description": "Autumn Swing Challenge es el «hermano pequeño» de BudaFest, pero con un cartel de profesores de primer nivel. Forma parte del Rising Star Tour, con su división oficial, y tiene competiciones para divertirse y sumar puntos WSDC en el hotel Aquincum, con balneario propio.",
+    "highlights": [
+      "Profesores top a precio razonable.",
+      "División Rising Star.",
+      "Hotel con balneario termal."
+    ],
+    "levanteTip": "Una forma más asequible y menos masiva de conocer Budapest que BudaFest. Desde Alicante hay vuelos directos.",
+    "access": "Desde el aeropuerto, taxi (≈ 35 min) o bus 100E + HÉV hasta Árpád híd.",
+    "sources": [
+      "https://westiehub.dance/events/autumn-swing-challenge-2026",
+      "https://thedanceatlas.com/events/autumn-swing-challenge-2026-wsdc-rising-star-tour-event/131787"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "winter-white",
+    "name": "Winter White WCS",
+    "edition": "2026",
+    "region": "europa",
+    "country": "Noruega",
+    "countryCode": "NO",
+    "cityId": "oslo",
+    "venue": "Scandic Oslo Airport, Ravinevegen 15, Gardermoen (sede nueva)",
+    "coords": [60.1958, 11.1006],
+    "start": "2026-12-03",
+    "end": "2026-12-06",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "boutique",
+    "tags": ["íntimo", "invierno", "aeropuerto"],
+    "beginner": 4,
+    "costLevel": 3,
+    "prices": [
+      { "label": "Full Pass (2023)", "value": "Desde 1.500 NOK" },
+      { "label": "Hotel (con desayuno)", "value": "1.150 NOK individual · 1.350 NOK doble · 1.680 NOK triple · 1.980 NOK cuádruple por noche" }
+    ],
+    "priceYear": "2023 (referencia)",
+    "priceRefEUR": 130,
+    "priceNote": "Las tarifas de hotel del evento estuvieron disponibles hasta el 20 de septiembre de 2026.",
+    "website": "https://www.winterwhite.no/",
+    "summary": {
+      "es": "Evento WSDC íntimo y acogedor en Noruega, junto al aeropuerto de Oslo.",
+      "en": "A cosy, intimate WSDC event in Norway, next to Oslo airport."
+    },
+    "description": "Winter White se define como un evento «cozy» e íntimo. Es WSDC desde 2014 y en 2026 estrena sede en el hotel Scandic del aeropuerto de Oslo-Gardermoen. Diciembre noruego: nieve, velas y pista llena.",
+    "highlights": [
+      "Ambiente íntimo y acogedor.",
+      "Hotel en el mismo aeropuerto.",
+      "Experiencia invernal nórdica."
+    ],
+    "levanteTip": "Desde Alicante suele haber vuelo directo a Oslo (Norwegian). Ropa de invierno de verdad: fuera se está bajo cero.",
+    "access": "Lanzadera del hotel o a pie desde la terminal de Oslo-Gardermoen.",
+    "sources": [
+      "https://www.winterwhite.no/hotel",
+      "https://danceapp.net/en-us/events/147-Winter_White_2026/"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "santa-swing",
+    "name": "Santa Swing",
+    "edition": "2026",
+    "region": "europa",
+    "country": "Polonia",
+    "countryCode": "PL",
+    "cityId": "cracovia",
+    "venue": "Galaxy Hotel ****, junto al Vístula, Cracovia",
+    "coords": [50.0477, 19.9371],
+    "start": "2026-12-10",
+    "end": "2026-12-14",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": ["Navidad", "mercadillo navideño", "hotel"],
+    "beginner": 3,
+    "costLevel": 1,
+    "soldOut": true,
+    "prices": [
+      { "label": "Full Pass", "value": "790 PLN / 190 € early · 860 PLN / 210 € normal · 930 PLN / 230 € late" },
+      { "label": "Party Pass", "value": "500 PLN / 120 €" }
+    ],
+    "priceYear": "2026",
+    "priceRefEUR": 230,
+    "priceNote": "Varios listados lo marcan como AGOTADO. Las cancelaciones desde el 1 de octubre no se reembolsan.",
+    "website": "https://www.santaswing.pl/",
+    "summary": {
+      "es": "WSDC navideño en Cracovia, organizado por Skalski Dance en un hotel junto al Vístula.",
+      "en": "Christmas-themed WSDC event in Kraków by Skalski Dance, at a hotel on the Vistula."
+    },
+    "description": "Santa Swing es el evento navideño del circuito: un WSDC Registry en el Galaxy Hotel, a orillas del Vístula, organizado por la escuela Skalski Dance. De día, mercadillo navideño en la plaza del mercado; de noche, social.",
+    "highlights": [
+      "Ambiente navideño en una de las ciudades más bonitas de Europa.",
+      "Mercadillo de Navidad del Rynek.",
+      "Precios polacos."
+    ],
+    "levanteTip": "Probablemente agotado este año. Apunta King Swing (marzo, misma ciudad) como alternativa, y para Santa Swing 2027 compra en julio, cuando sale el early bird.",
+    "access": "Desde el aeropuerto KRK, tren al centro (≈ 20 min) y taxi o tranvía.",
+    "sources": [
+      "https://www.santaswing.pl/prices/",
+      "https://westiehub.dance/events/santa-swing-2026"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "budafest",
+    "name": "BudaFest Open WCS Championships",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Hungría",
+    "countryCode": "HU",
+    "cityId": "budapest",
+    "venue": "Hotel InterContinental Budapest (algunas clases en la Academia Húngara de Ciencias)",
+    "coords": [47.4977, 19.0479],
+    "start": "2027-01-05",
+    "end": "2027-01-10",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "masivo",
+    "tags": ["el más grande de Europa", "nivel All-Star", "maratón social", "Danubio"],
+    "beginner": 2,
+    "costLevel": 3,
+    "prices": [
+      { "label": "Party Pass (late)", "value": "165 €" },
+      { "label": "Workshop Pass vie–dom (late)", "value": "230 € (agotado en la última consulta)" },
+      { "label": "Focus Workshop mar–mié (late)", "value": "200 € (agotado)" },
+      { "label": "Social Marathon mié–jue (late)", "value": "110 € (agotado)" },
+      { "label": "All-Star Pass", "value": "130 € con juzgar · 180 € sin juzgar" }
+    ],
+    "priceYear": "2027",
+    "priceRefEUR": 230,
+    "priceNote": "Inscripciones abiertas desde el 16/08/2026. Las tarifas super early y early ya han pasado.",
+    "website": "https://wcs-budafest.com/",
+    "summary": {
+      "es": "El «Super Bowl» del WCS europeo: el evento más grande del continente, a orillas del Danubio.",
+      "en": "The 'Super Bowl' of European WCS: the continent's biggest event, on the banks of the Danube."
+    },
+    "description": "BudaFest es el evento más grande de Europa, con más de mil asistentes, nivel All-Star y Champion en las finales, maratón social y días de intensivos antes del fin de semana principal. Se celebra en el InterContinental, frente al Danubio y el Puente de las Cadenas. Las entradas se agotan muy rápido.",
+    "highlights": [
+      "El evento más grande de Europa.",
+      "Finales con las estrellas mundiales del WCS.",
+      "Maratón social y días de Focus Workshops.",
+      "Balnearios termales para recuperar las piernas."
+    ],
+    "levanteTip": "Para tu primera vez, mejor como espectador y bailarín social: las preliminares de Newcomer y Novice son masivas. Vuelo directo desde Alicante y un baño en el Széchenyi obligatorio.",
+    "access": "Desde el aeropuerto, bus 100E al centro (≈ 35 min) o taxi. El hotel está junto al Puente de las Cadenas.",
+    "sources": [
+      "https://wcs-budafest.com/",
+      "https://wcs-budafest.com/tickets/"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "prague-alchemy-swing",
+    "name": "Prague Alchemy Swing",
+    "edition": "2027",
+    "region": "europa",
+    "country": "República Checa",
+    "countryCode": "CZ",
+    "cityId": "praga",
+    "venue": "Praga (sede en la web oficial)",
+    "coords": [50.0755, 14.4378],
+    "start": "2027-02-19",
+    "end": "2027-02-21",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": ["Praga", "invierno", "intensivo"],
+    "beginner": 3,
+    "costLevel": 2,
+    "prices": [
+      { "label": "Full Pass (2026)", "value": "165 € (hasta agosto) → 205 € (última tarifa)" },
+      { "label": "Party Pass (2026)", "value": "150 €" },
+      { "label": "All-Star Pass (2026)", "value": "90 €" },
+      { "label": "Intensivo / pre-party", "value": "80 € / 15 €" },
+      { "label": "Competición", "value": "20 € por división" }
+    ],
+    "priceYear": "2026 (referencia)",
+    "priceRefEUR": 205,
+    "website": "https://praguealchemyswing.cz/",
+    "summary": {
+      "es": "WSDC en la ciudad de las cien torres, a mediados de febrero.",
+      "en": "WSDC event in the city of a hundred spires, in mid-February."
+    },
+    "description": "Prague Alchemy Swing es el evento WSDC de la capital checa: workshops, intensivo, pre-party el jueves y competiciones oficiales. Praga en invierno, con niebla sobre el Moldava, es preciosa.",
+    "highlights": [
+      "Praga invernal.",
+      "Intensivo previo.",
+      "Cerveza checa a precio checo."
+    ],
+    "levanteTip": "Las tarifas suben mucho con el tiempo (de 165 a 205 €): compra en verano.",
+    "access": "Desde el aeropuerto, bus + metro (≈ 40 min) o taxi (≈ 30 min).",
+    "sources": [
+      "https://praguealchemyswing.cz/",
+      "https://praguealchemyswing.cz/passes"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "winter-coast-swing",
+    "name": "Winter Coast Swing",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Finlandia",
+    "countryCode": "FI",
+    "cityId": "leppavirta",
+    "venue": "Sport & Spa Hotel Vesileppis, Leppävirta (pista de 450 m²)",
+    "coords": [62.4911, 27.7867],
+    "start": "2027-02-25",
+    "end": "2027-02-28",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "boutique",
+    "tags": ["spa", "nieve", "todo en un edificio", "experiencia única"],
+    "beginner": 4,
+    "costLevel": 2,
+    "prices": [
+      { "label": "Pases", "value": "Desconocido. Consulta wintercoastswing.com" }
+    ],
+    "priceYear": "2027",
+    "website": "https://www.wintercoastswing.com/",
+    "summary": {
+      "es": "WSDC en un hotel-spa de la región de los lagos de Finlandia: pista, habitación, sauna y túnel de esquí bajo el mismo techo.",
+      "en": "WSDC event at a spa hotel in Finnish Lakeland: dance floor, room, sauna and ski tunnel under one roof."
+    },
+    "description": "Winter Coast Swing es uno de los dos eventos WSDC de Finlandia (el otro es Finnfest). El hotel Vesileppis lo tiene todo en un edificio: pista principal de 450 m², habitaciones, desayuno, spa, túnel de esquí indoor y pista de hielo. El hotel se llena: reserva habitación pronto.",
+    "highlights": [
+      "Todo en el mismo edificio: no hace falta salir al frío.",
+      "Spa y sauna finlandesa.",
+      "Posibilidad de ver auroras boreales."
+    ],
+    "levanteTip": "El viaje es largo (Helsinki + conexión a Kuopio), así que combínalo con Helsinki. Es una experiencia que no se olvida.",
+    "access": "Desde el aeropuerto de Kuopio, ≈ 45 min en coche o traslado.",
+    "sources": [
+      "https://www.wintercoastswing.com/",
+      "https://www.vesileppis.fi/en/"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "king-swing",
+    "name": "King Swing",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Polonia",
+    "countryCode": "PL",
+    "cityId": "cracovia",
+    "venue": "Qubus Hotel Kraków",
+    "coords": [50.0469, 19.9479],
+    "start": "2027-03-18",
+    "end": "2027-03-22",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "grande",
+    "tags": ["asequible", "energía joven", "hotel"],
+    "beginner": 4,
+    "costLevel": 1,
+    "prices": [
+      { "label": "Full Pass (2025)", "value": "Desde 125 €" },
+      { "label": "Hotel Qubus (edición anterior)", "value": "Desde 220 zł (≈ 52 €) sin desayuno" }
+    ],
+    "priceYear": "2025 (referencia)",
+    "priceRefEUR": 125,
+    "website": "https://kingswing.pl/",
+    "summary": {
+      "es": "La opción europea más económica: WSDC de calidad en Cracovia a precios polacos.",
+      "en": "Europe's best-value option: quality WSDC event in Kraków at Polish prices."
+    },
+    "description": "King Swing es uno de los mejores ejemplos de por qué Polonia es una potencia del WCS: eventos de alta calidad a precios muy competitivos. Tiene ambiente joven y entusiasta, menos rígido que los históricos de Europa occidental, y se celebra en un hotel junto al casco histórico.",
+    "highlights": [
+      "Uno de los Full Pass más baratos del circuito WSDC.",
+      "Alojamiento y comida muy asequibles.",
+      "Cracovia, joya medieval."
+    ],
+    "levanteTip": "Nuestra opción internacional recomendada para empezar a competir con poco presupuesto. Alicante–Cracovia directo con Ryanair.",
+    "access": "Desde el aeropuerto, tren al centro (≈ 20 min) y unos minutos a pie o en taxi.",
+    "sources": [
+      "https://www.yourdancebuddy.com/events/king-swing-2027",
+      "https://oazis.app/en/event/king-swing"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "baltic-swing",
+    "name": "Baltic Swing",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Polonia",
+    "countryCode": "PL",
+    "cityId": "gdansk",
+    "venue": "Gdańsk (sede en la web oficial)",
+    "coords": [54.352, 18.6466],
+    "start": "2027-06-10",
+    "end": "2027-06-14",
+    "dateStatus": "confirmed",
+    "dateNote": "Fechas según la WSDC y DanceApp. Una ficha menciona Gdynia: confirma la sede.",
+    "wsdc": "registry",
+    "size": "grande",
+    "tags": ["verano", "Báltico", "vacaciones", "inscripción en pareja"],
+    "beginner": 4,
+    "costLevel": 1,
+    "prices": [
+      { "label": "Full Pass (2026)", "value": "840 zł por persona (inscripción en pareja)" },
+      { "label": "Full Pass (2025)", "value": "780 zł" }
+    ],
+    "priceYear": "2026 (referencia)",
+    "priceRefEUR": 195,
+    "website": "https://www.balticswing.com/",
+    "summary": {
+      "es": "WSDC con ambiente de vacaciones de verano junto al mar Báltico.",
+      "en": "WSDC event with a summer-holiday vibe on the Baltic Sea."
+    },
+    "description": "Baltic Swing, que en 2027 cumple 14 ediciones, mezcla competición WSDC con ambiente de vacaciones de verano en la costa báltica. Junio en Gdańsk son casi 17 horas de luz, precios polacos y playas a un paso.",
+    "highlights": [
+      "Ambiente de vacaciones.",
+      "Noches muy cortas: el sol casi no se pone.",
+      "Playas de Sopot muy cerca."
+    ],
+    "levanteTip": "Busca pareja de inscripción con tiempo. Mira vuelos directos a Gdańsk desde Alicante en temporada.",
+    "access": "Desde el aeropuerto de Gdańsk, tren SKM o taxi al centro (≈ 25 min).",
+    "sources": [
+      "https://www.balticswing.com/",
+      "https://danceapp.net/fr-fr/events/199/"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "finnfest",
+    "name": "Finnfest",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Finlandia",
+    "countryCode": "FI",
+    "cityId": "helsinki",
+    "venue": "Helsinki Congress Paasitorni (sede 2026)",
+    "coords": [60.1794, 24.9535],
+    "start": "2027-09-16",
+    "end": "2027-09-19",
+    "dateStatus": "tentative",
+    "dateNote": "La edición 2026 fue del 17 al 20 de septiembre. Fechas de 2027 sin publicar.",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": ["capital nórdica", "edificio histórico"],
+    "beginner": 3,
+    "costLevel": 3,
+    "prices": [
+      { "label": "Pases", "value": "Desconocido" }
+    ],
+    "priceYear": "—",
+    "website": "https://finnfest.fi/",
+    "summary": {
+      "es": "El WSDC de Helsinki, en el histórico Paasitorni, junto al mar.",
+      "en": "Helsinki's WSDC event at the historic Paasitorni by the sea."
+    },
+    "description": "Finnfest es el evento WSDC de la capital finlandesa. Se celebra en Paasitorni, un edificio histórico de congresos del centro de Helsinki.",
+    "highlights": [
+      "Helsinki en septiembre.",
+      "Sede histórica en el centro.",
+      "Sauna pública frente al mar."
+    ],
+    "levanteTip": "Combina la pista con una sauna en Löyly.",
+    "access": "Metro o tranvía desde el centro (Hakaniemi).",
+    "sources": ["https://finnfest.fi/"],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "norwegian-open-wcs",
+    "name": "Norwegian Open WCS",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Noruega",
+    "countryCode": "NO",
+    "cityId": "hamar",
+    "venue": "Scandic Hamar, Vangsveien 121 (sede 2025–2026)",
+    "coords": [60.7945, 11.0997],
+    "start": "2027-10-08",
+    "end": "2027-10-10",
+    "dateStatus": "confirmed",
+    "dateNote": "«Save the date» publicado en la web oficial.",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": ["lago Mjøsa", "hotel", "competición divertida"],
+    "beginner": 4,
+    "costLevel": 3,
+    "prices": [
+      { "label": "Full Pass", "value": "Desde 1.990 NOK early bird (dato sin confirmar)" }
+    ],
+    "priceYear": "Referencia",
+    "priceRefEUR": 170,
+    "website": "https://norwegianopen.no/",
+    "summary": {
+      "es": "WSDC noruego a orillas del lago Mjøsa, con Jack & Jill de Newcomer a All-Star y Sophisticated.",
+      "en": "Norwegian WSDC event on Lake Mjøsa, with J&J from Newcomer to All-Star plus Sophisticated."
+    },
+    "description": "El Norwegian Open ofrece Jack & Jill de Newcomer a All-Star, división Sophisticated y una competición divertida el domingo. Se celebra en Hamar, junto al lago más grande de Noruega y a 45 minutos en tren del aeropuerto de Oslo. Empezó como evento Trial de la WSDC; comprueba su estatus actual en la WSDC.",
+    "highlights": [
+      "Divisiones de Newcomer a All-Star.",
+      "División Sophisticated.",
+      "Tren directo desde el aeropuerto."
+    ],
+    "levanteTip": "Desde Alicante, vuelo directo a Oslo y tren a Hamar. Combínalo con Oslo en otoño.",
+    "access": "Tren desde el aeropuerto de Oslo-Gardermoen (≈ 45 min) y unos minutos a pie o en taxi.",
+    "sources": [
+      "https://norwegianopen.no/",
+      "https://norwegianopen.no/about"
+    ],
+    "verified": "2026-10-18"
+  }
+]

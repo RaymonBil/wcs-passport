@@ -3,3 +3,7 @@ node_modules
 next-env.d.ts
 *.tsbuildinfo
 out
+out
+public/ics
+public/calendario.ics
+public/precache.json

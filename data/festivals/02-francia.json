@@ -1,0 +1,484 @@
+[
+  {
+    "slug": "westie-pink-city",
+    "name": "Westie Pink City",
+    "edition": "2026",
+    "region": "europa",
+    "country": "Francia",
+    "countryCode": "FR",
+    "cityId": "toulouse",
+    "venue": "NH Toulouse Airport ****, Blagnac",
+    "coords": [43.6455, 1.3745],
+    "start": "2026-11-06",
+    "end": "2026-11-08",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": ["hotel", "aeropuerto", "sur de Francia"],
+    "beginner": 4,
+    "costLevel": 2,
+    "prices": [
+      { "label": "Pases", "value": "Desconocido: consulta la web oficial" }
+    ],
+    "priceYear": "2026",
+    "website": "https://www.westiepinkcity.fr/",
+    "summary": {
+      "es": "El WSDC del suroeste francés en un hotel junto al aeropuerto de Toulouse: workshops por niveles, J&J y Strictly.",
+      "en": "South-west France's WSDC event at a Toulouse airport hotel: leveled workshops, J&J and Strictly."
+    },
+    "description": "Westie Pink City se presenta como el primer evento del suroeste francés en un hotel de cuatro estrellas. El programa incluye 5 horas de workshops por niveles, 2 tasters, competiciones Jack & Jill y Strictly con puntos WSDC, y sociales cada noche.",
+    "highlights": [
+      "5 h de workshops por niveles y 2 tasters.",
+      "Jack & Jill y Strictly oficiales.",
+      "Hotel a 5 minutos del aeropuerto.",
+      "Barcelona a menos de 4 horas en coche."
+    ],
+    "levanteTip": "Desde Barcelona merece la pena en coche compartido. Desde Alicante o Valencia, mira vuelos a Toulouse con escala o combina vuelo a Barcelona + coche.",
+    "access": "Shuttle o taxi desde el aeropuerto de Toulouse-Blagnac (≈ 5–10 min). Tranvía T2 al centro.",
+    "sources": [
+      "https://www.westiepinkcity.fr/",
+      "https://www.westiepinkcity.fr/planning-schedule"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "westies-angels",
+    "name": "Westie's Angels",
+    "edition": "2026",
+    "region": "europa",
+    "country": "Francia",
+    "countryCode": "FR",
+    "cityId": "lyon",
+    "venue": "Hotel Logis Est, Saint-Maurice-de-Beynost (Lyon)",
+    "coords": [45.8253, 5.0006],
+    "start": "2026-11-12",
+    "end": "2026-11-15",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "boutique",
+    "tags": ["solo styling", "técnica", "hotel"],
+    "beginner": 3,
+    "costLevel": 2,
+    "prices": [
+      { "label": "Pases", "value": "Desconocido: consulta frenchywesty.com" },
+      { "label": "Hotel", "value": "Tarifa especial del evento del 12 al 15 de noviembre (ver web)" }
+    ],
+    "priceYear": "2026",
+    "website": "https://www.frenchywesty.com/westiesangels",
+    "summary": {
+      "es": "Fin de semana WSDC centrado en el estilo individual (solo styling), con intensivo de musicalidad.",
+      "en": "WSDC weekend focused on solo styling, with a musicality intensive."
+    },
+    "description": "Westie's Angels es un evento WSDC con identidad propia: todo gira en torno al solo styling y la expresión individual. Hay competiciones para ponerte a prueba y workshops con profesores invitados, y un intensivo de musicalidad con Olivier & Virginie exclusivo para los participantes.",
+    "highlights": [
+      "Foco en solo styling y expresión personal.",
+      "Intensivo de musicalidad exclusivo.",
+      "Formato boutique, cerca de Lyon."
+    ],
+    "levanteTip": "Si ya llevas un año o más bailando y quieres pulir tu estilo, es una joya. Para un primer evento hay opciones más sencillas.",
+    "access": "A ≈ 20 min del centro de Lyon y ≈ 20 min del aeropuerto Saint-Exupéry. Lo más cómodo es el coche.",
+    "sources": [
+      "https://westiehub.dance/events/westies-angels-2026",
+      "https://www.frenchywesty.com/westiesangels"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "avignon-city-swing",
+    "name": "Avignon City Swing",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Francia",
+    "countryCode": "FR",
+    "cityId": "nimes",
+    "venue": "202 rue Nicolas Ledoux, Nîmes",
+    "coords": [43.8113, 4.3656],
+    "start": "2027-01-15",
+    "end": "2027-01-17",
+    "dateStatus": "confirmed",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": ["Provenza", "patrimonio romano", "invierno"],
+    "beginner": 4,
+    "costLevel": 2,
+    "prices": [
+      { "label": "Full Pass", "value": "150 € – 170 € según fecha de compra" },
+      { "label": "Event Pass", "value": "100 € – 120 €" }
+    ],
+    "priceYear": "2026 (referencia)",
+    "priceRefEUR": 160,
+    "website": "https://www.avignoncityswing.com/",
+    "teachers": ["Philippe & Florencia", "Joshua & Maïna"],
+    "summary": {
+      "es": "WSDC en Nîmes, la «Roma francesa», a 3 horas en tren desde Barcelona.",
+      "en": "WSDC event in Nîmes, the 'French Rome', 3 hours by train from Barcelona."
+    },
+    "description": "A pesar del nombre, el Avignon City Swing se celebra en Nîmes. Es un evento WSDC de tamaño medio con profesores de primer nivel, en una ciudad llena de patrimonio romano y con la Provenza a un paso. Muy bien conectado con España por tren.",
+    "highlights": [
+      "Tren directo desde Barcelona (≈ 3 h).",
+      "Profesores: Philippe & Florencia y Joshua & Maïna.",
+      "Primer evento WSDC del año en el sur de Francia."
+    ],
+    "levanteTip": "Combina AVE a Barcelona y tren a Nîmes: sin aeropuertos y con vistas. Una buena alternativa barata a los grandes eventos de enero.",
+    "access": "Desde la estación de Nîmes, taxi o bus urbano (≈ 15 min).",
+    "sources": [
+      "https://www.avignoncityswing.com/",
+      "https://www.thibaultandnicole.com/events/avignon-city-swing/"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "swing-in-paris",
+    "name": "Swing In Paris",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Francia",
+    "countryCode": "FR",
+    "cityId": "paris",
+    "venue": "Le Méridien Paris Arc de Triomphe",
+    "coords": [48.8794, 2.2846],
+    "start": "2027-01-22",
+    "end": "2027-01-24",
+    "dateStatus": "confirmed",
+    "dateNote": "La WSDC lo lista hasta el 25 de enero.",
+    "wsdc": "trial",
+    "size": "mediano",
+    "tags": ["hotel", "París", "invierno"],
+    "beginner": 3,
+    "costLevel": 3,
+    "prices": [
+      { "label": "Full Pass", "value": "160 € early bird (workshops + fiestas + competiciones)" },
+      { "label": "Social Pass", "value": "150 € early (workshops + fiestas, sin competir)" },
+      { "label": "Party Pass", "value": "120 € early (3 noches + acceso a competiciones)" },
+      { "label": "Overseas Full Pass", "value": "130 € (residentes fuera de la UE)" }
+    ],
+    "priceYear": "2027",
+    "priceRefEUR": 160,
+    "website": "https://swing-in-paris.com/en",
+    "summary": {
+      "es": "Evento WSDC Trial en pleno París, en el mismo hotel que el Paris Swing Classic.",
+      "en": "WSDC Trial event in central Paris, at the same hotel as Paris Swing Classic."
+    },
+    "description": "Swing In Paris es un evento WSDC en fase Trial (los puntos cuentan igual) que se celebra en Le Méridien, junto al Arco del Triunfo. Ofrece varios tipos de pase, incluido uno social sin competición, y habitaciones en el propio hotel.",
+    "highlights": [
+      "A pasos del Arco del Triunfo y los Campos Elíseos.",
+      "Pase Social para quien no quiere competir.",
+      "Habitaciones en el hotel sede, reservables con el pase."
+    ],
+    "levanteTip": "Si vas a París, elige entre este y el Paris Swing Classic (un mes después, mismo hotel). Swing In Paris suele ser algo más tranquilo.",
+    "access": "Metro Porte Maillot (línea 1) y RER C/E. Desde CDG, RER B + metro o el autobús Roissybus.",
+    "sources": [
+      "https://swing-in-paris.com/en",
+      "https://ouvibrer.fr/agenda/225483"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "paris-swing-classic",
+    "name": "Paris Swing Classic",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Francia",
+    "countryCode": "FR",
+    "cityId": "paris",
+    "venue": "Le Méridien Paris Arc de Triomphe (≈ 2.000 m² de pista)",
+    "coords": [48.8794, 2.2846],
+    "start": "2027-02-25",
+    "end": "2027-02-28",
+    "dateStatus": "confirmed",
+    "dateNote": "Algunos listados lo alargan hasta el 1 de marzo.",
+    "wsdc": "registry",
+    "size": "grande",
+    "tags": ["hotel", "París", "nivel alto"],
+    "beginner": 3,
+    "costLevel": 3,
+    "prices": [
+      { "label": "Full Pass", "value": "170 € (tarifa super bird)" },
+      { "label": "Party Pass", "value": "130 €" },
+      { "label": "All-Star / Junior / Overseas", "value": "−50 %" }
+    ],
+    "priceYear": "2027",
+    "priceRefEUR": 170,
+    "website": "https://parisswingclassic.com/",
+    "summary": {
+      "es": "Gran WSDC parisino con unos 2.000 m² de pista en un cuatro estrellas junto a los Campos Elíseos.",
+      "en": "Major Parisian WSDC event with about 2,000 m² of dance floor in a 4-star hotel by the Champs-Élysées."
+    },
+    "description": "El Paris Swing Classic es uno de los grandes eventos franceses del registro WSDC: una pista enorme, nivel muy alto y habitaciones con descuento para los asistentes en el propio hotel.",
+    "highlights": [
+      "Alrededor de 2.000 m² de pista.",
+      "Habitaciones premium con descuento para asistentes.",
+      "Descuentos del 50 % para All-Stars, juniors y overseas."
+    ],
+    "levanteTip": "Desde Alicante hay vuelos directos a París casi a diario. Reserva el super bird en cuanto abra: las tarifas suben rápido.",
+    "access": "Metro Porte Maillot (línea 1) y RER C/E.",
+    "sources": [
+      "https://parisswingclassic.com/",
+      "https://thedanceatlas.com/events/paris-swing-classic-2027-wsdc-registry-event/123267"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "west-in-lyon",
+    "name": "West In Lyon",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Francia",
+    "countryCode": "FR",
+    "cityId": "lyon",
+    "venue": "Lyon (sede en la web oficial)",
+    "coords": [45.764, 4.8357],
+    "start": "2027-03-18",
+    "end": "2027-03-21",
+    "dateStatus": "confirmed",
+    "dateNote": "La WSDC lo lista hasta el 22 de marzo.",
+    "wsdc": "registry",
+    "size": "grande",
+    "tags": ["gastronomía", "shows", "routines"],
+    "beginner": 3,
+    "costLevel": 2,
+    "prices": [
+      { "label": "Full Pass (2026)", "value": "170 € (desde 1 dic.) · 180 € (desde 2 feb.) · 200 € en puerta" },
+      { "label": "Event Pass (2026)", "value": "140 € online · 150 € en puerta (fiestas + competir, sin workshops)" },
+      { "label": "Foreign Pass (2026)", "value": "150 € full / 90 € event (países no fronterizos con Francia; España es fronteriza)" },
+      { "label": "Strictly / Routine", "value": "30–40 € / 60–80 € por inscripción" }
+    ],
+    "priceYear": "2026 (referencia)",
+    "priceRefEUR": 180,
+    "priceNote": "El early bird suele abrir el 1 de diciembre del año anterior.",
+    "website": "https://www.west-in-lyon.fr/",
+    "summary": {
+      "es": "Uno de los grandes WSDC franceses de primavera, en la capital gastronómica de Francia.",
+      "en": "One of France's big spring WSDC events, in the country's food capital."
+    },
+    "description": "West In Lyon reúne workshops, fiestas, competiciones (Jack & Jill, Strictly y Routines) y shows. La comunidad lionesa es muy activa, y el evento combina nivel competitivo alto con una ciudad ideal para comer bien.",
+    "highlights": [
+      "Jack & Jill, Strictly y Routines.",
+      "Shows de profesionales.",
+      "Lyon: bouchons, Vieux Lyon y TGV directo desde Barcelona."
+    ],
+    "levanteTip": "España es país fronterizo con Francia, así que no aplica el Foreign Pass. Aun así, el early bird de diciembre es buena opción. Barcelona–Lyon en TGV directo tarda unas 5 horas.",
+    "access": "Lyon tiene metro y tranvía excelentes. Desde el aeropuerto, Rhônexpress hasta Part-Dieu.",
+    "sources": [
+      "https://www.west-in-lyon.fr/pass-1",
+      "https://www.facebook.com/westinlyonwcs/"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "westy-nantes",
+    "name": "Westy Nantes",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Francia",
+    "countryCode": "FR",
+    "cityId": "nantes",
+    "venue": "Sure Hotel by Best Western Nantes Beaujoire, 27 Rue du Chemin Rouge",
+    "coords": [47.2558, -1.5209],
+    "start": "2027-04-16",
+    "end": "2027-04-18",
+    "dateStatus": "tentative",
+    "dateNote": "Facebook indica que empieza el 16 de abril de 2027; otro listado da del 15 al 18 «por confirmar».",
+    "wsdc": "registry",
+    "size": "boutique",
+    "tags": ["regional", "hotel", "Atlántico"],
+    "beginner": 4,
+    "costLevel": 1,
+    "prices": [
+      { "label": "Full Pass (2025)", "value": "Desde 120 €" }
+    ],
+    "priceYear": "2025 (referencia)",
+    "priceRefEUR": 120,
+    "priceNote": "La edición 2025 no tuvo competiciones WSDC (hubo Jack & Jill no oficial). Comprueba el formato de 2027.",
+    "website": "https://www.facebook.com/p/Page-Westy-Nantes-61553121058244/",
+    "summary": {
+      "es": "Evento regional asequible en Nantes, con la técnica de la escuela francesa.",
+      "en": "Affordable regional event in Nantes, showcasing French technique."
+    },
+    "description": "Westy Nantes es un evento regional sólido en un hotel de la zona de la Beaujoire. Tiene precio contenido y tamaño manejable, buenos para ganar experiencia lejos de las grandes multitudes.",
+    "highlights": [
+      "Uno de los pases más baratos del circuito francés.",
+      "Ambiente de comunidad.",
+      "Nantes: creativa, verde y muy cómoda."
+    ],
+    "levanteTip": "Confirma antes si habrá puntos WSDC en 2027. Si buscas sobre todo bailar y aprender, merece la pena igualmente.",
+    "access": "Tranvía línea 1 (Beaujoire) desde el centro. Desde el aeropuerto, navette al centro y tranvía.",
+    "sources": [
+      "https://www.yourdancebuddy.com/events/westy-nantes-2027",
+      "https://www.danceplace.com/index/no/14610/Westy+Nantes-2025-Nantes-France-West+Coast+Swing+Dance+event"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "french-open-wcs",
+    "name": "French Open WCS",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Francia",
+    "countryCode": "FR",
+    "cityId": "paris",
+    "venue": "París (sede en la web oficial)",
+    "coords": [48.8566, 2.3522],
+    "start": "2027-05-05",
+    "end": "2027-05-10",
+    "dateStatus": "tentative",
+    "dateNote": "La WSDC lo lista del 5 al 10 de mayo y Westie Hub del 7 al 9: los días centrales del evento serían del 7 al 9.",
+    "wsdc": "registry",
+    "size": "masivo",
+    "tags": ["nivel élite", "routines", "intensivos", "París"],
+    "beginner": 2,
+    "costLevel": 3,
+    "prices": [
+      { "label": "Pases", "value": "Desconocido. Tiene un «Grand Pass» con días extra de formación intensiva." }
+    ],
+    "priceYear": "—",
+    "website": "https://westiehub.dance/events/french-open-2027",
+    "summary": {
+      "es": "Uno de los tres grandes de Europa: nivel élite y escaparate de routines antes de la temporada estadounidense.",
+      "en": "One of Europe's big three: elite level and a showcase of routines ahead of the US season."
+    },
+    "description": "El French Open es, con BudaFest y el UK Championships, uno de los eventos de referencia en Europa. Aquí muchos competidores estrenan sus routines antes de viajar a Estados Unidos, y el nivel de las finales es altísimo. Además del pase normal, ofrece días extra de formación intensiva.",
+    "highlights": [
+      "Finales de nivel élite.",
+      "Estreno de routines de la temporada.",
+      "Días de intensivo extra antes del evento."
+    ],
+    "levanteTip": "No es el mejor sitio para tu primer Jack & Jill (preliminares masivas), pero ir a verlo y tomar los intensivos es una experiencia brutal.",
+    "access": "París tiene una red de transporte enorme. Consulta la sede exacta en la web oficial.",
+    "sources": [
+      "https://worldsdc.com/events-/?country=FRA",
+      "https://westiehub.dance/events/french-open-2027"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "med-in-swing",
+    "name": "Med in Swing",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Francia",
+    "countryCode": "FR",
+    "cityId": "toulon",
+    "venue": "The Mediterranean Hall, Toulon (recinto en un camping)",
+    "coords": [43.1242, 5.928],
+    "start": "2027-05-14",
+    "end": "2027-05-17",
+    "dateStatus": "tentative",
+    "dateNote": "La tabla de la WSDC indica del 14 al 17 de mayo, pero su texto menciona del 25 al 28 de junio. La edición 2026 fue del 7 al 10 de mayo.",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": ["Costa Azul", "vacaciones", "camping", "niveles sociales"],
+    "beginner": 4,
+    "costLevel": 2,
+    "prices": [
+      { "label": "Pases", "value": "Desconocido" }
+    ],
+    "priceYear": "—",
+    "website": "https://www.facebook.com/MedInSwing/",
+    "teachers": ["Organizan Bret & Joëlle Navarre"],
+    "summary": {
+      "es": "Festival internacional en la Costa Azul, organizado por Bret & Joëlle Navarre, con niveles WSDC y niveles sociales.",
+      "en": "International festival on the French Riviera by Bret & Joëlle Navarre, with WSDC and social levels."
+    },
+    "description": "Med in Swing es un festival WSDC con alma de vacaciones en la Riviera francesa. Los workshops tienen niveles WSDC y también niveles sociales para quien no compite, con profesores de primer nivel. El recinto está en un camping, así que el ambiente es muy relajado.",
+    "highlights": [
+      "Workshops con niveles WSDC y niveles sociales.",
+      "Costa Azul en mayo: primeros baños de la temporada.",
+      "Organizado por profesionales de referencia."
+    ],
+    "levanteTip": "Combínalo con unos días en las Calanques. Desde Barcelona, en tren vía Marsella.",
+    "access": "Desde la estación de Toulon, taxi. Lo más cómodo es el coche.",
+    "sources": [
+      "https://worldsdc.com/events-/?country=FRA",
+      "https://www.yourdancebuddy.com/events/med-in-swing-2026"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "french-connection-wcs",
+    "name": "French Connection WCS",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Francia",
+    "countryCode": "FR",
+    "cityId": "annecy",
+    "venue": "Centre des Congrès de l'Impérial Palace, Annecy",
+    "coords": [45.9031, 6.1449],
+    "start": "2027-06-25",
+    "end": "2027-06-28",
+    "dateStatus": "confirmed",
+    "dateNote": "Fechas según la WSDC y Oazis. Conviene confirmarlas en la web oficial.",
+    "wsdc": "registry",
+    "size": "mediano",
+    "tags": ["lago", "Alpes", "premium", "experiencia"],
+    "beginner": 3,
+    "costLevel": 3,
+    "prices": [
+      { "label": "Pass (2026)", "value": "190 € (leader o follower)" },
+      { "label": "Fiestas + competición (2026)", "value": "140 €" }
+    ],
+    "priceYear": "2026 (referencia)",
+    "priceRefEUR": 190,
+    "priceNote": "En 2025 el Full Pass costaba 155 €: el precio sube cada año.",
+    "website": "https://en.frenchconnectionwcs.com/",
+    "summary": {
+      "es": "El festival más bonito del circuito: palacio de congresos a orillas del lago de Annecy, con los Alpes de fondo.",
+      "en": "The circuit's most scenic festival: a lakeside palace in Annecy with the Alps as backdrop."
+    },
+    "description": "French Connection es un evento de experiencia: el paisaje importa tanto como el baile. Se celebra en el Impérial Palace, a orillas del lago de Annecy, la «Venecia de los Alpes». Hay competiciones con puntos WSDC, workshops y fiestas en uno de los entornos más espectaculares de Europa.",
+    "highlights": [
+      "Lago y montaña a pie de pista.",
+      "A 45 min de Ginebra, con vuelos directos desde casi toda España.",
+      "Ambiente premium."
+    ],
+    "levanteTip": "Desde Alicante o Valencia hay vuelos directos a Ginebra (easyJet). Alárgalo un día para bañarte en el lago o subir a Chamonix.",
+    "access": "Shuttle o coche desde Ginebra (≈ 45 min). A 10 min de la estación de Annecy.",
+    "sources": [
+      "https://en.frenchconnectionwcs.com/hotel",
+      "https://www.helloasso.com/associations/french-connection/evenements/fcwcs2026",
+      "https://oazis.app/en/event/french-connection-wcs"
+    ],
+    "verified": "2026-10-18"
+  },
+  {
+    "slug": "global-grand-prix",
+    "name": "Global Grand Prix WCS Championships",
+    "edition": "2027",
+    "region": "europa",
+    "country": "Francia",
+    "countryCode": "FR",
+    "cityId": "paris",
+    "venue": "Hilton Paris Charles de Gaulle Airport",
+    "coords": [49.0003, 2.5708],
+    "start": "2027-09-17",
+    "end": "2027-09-19",
+    "dateStatus": "tentative",
+    "dateNote": "La edición 2026 fue del 18 al 20 de septiembre. Fechas de 2027 sin publicar.",
+    "wsdc": "trial",
+    "size": "mediano",
+    "tags": ["campeonato", "aeropuerto", "hotel"],
+    "beginner": 2,
+    "costLevel": 3,
+    "prices": [
+      { "label": "Pases", "value": "Desconocido" }
+    ],
+    "priceYear": "—",
+    "website": "https://www.globalgrandprixwcs.com/",
+    "summary": {
+      "es": "Campeonato WSDC (Trial) en un hotel junto al aeropuerto de París-CDG.",
+      "en": "WSDC Trial championship at a Paris-CDG airport hotel."
+    },
+    "description": "El Global Grand Prix es un campeonato con divisiones de competición, workshops y social en el Hilton de Charles de Gaulle, a pocos minutos a pie de la terminal 3. En 2026 celebró su quinto aniversario.",
+    "highlights": [
+      "Llegas en avión y bailas sin tocar el centro de París.",
+      "Formato campeonato con múltiples divisiones."
+    ],
+    "levanteTip": "Ideal para un fin de semana exprés: vuelo directo a CDG el viernes y vuelta el domingo.",
+    "access": "Junto a la terminal 3 de CDG (a pie o en el tren CDGVAL).",
+    "sources": [
+      "https://www.globalgrandprixwcs.com/",
+      "https://www.yourdancebuddy.com/events/global-grand-prix-west-coast-swing-championships-2026"
+    ],
+    "verified": "2026-10-18"
+  }
+]
