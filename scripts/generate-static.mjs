@@ -108,4 +108,40 @@ writeFileSync(join(publicDir, "calendario.ics"), calendar("WCS Passport 2026–2
 const routes = ["", "agenda/", "explorar/", "pasaporte/", "guia/", "comunidad/", ...festivals.map((f) => `festival/${f.slug}/`)];
 writeFileSync(join(publicDir, "precache.json"), JSON.stringify(routes));
 
-console.log(`✓ ${festivals.length} festivales → ics/, calendario.ics y precache.json (${routes.length} rutas)`);
+// Datos abiertos para otras apps e IAs: festivales con su guía de ciudad incluida.
+const cities = JSON.parse(readFileSync(join(root, "data", "cities.json"), "utf8"));
+writeFileSync(
+  join(publicDir, "festivals.json"),
+  JSON.stringify(
+    {
+      name: "West Coast Swing Passport 2026–2027",
+      source: SITE_URL,
+      generated: new Date().toISOString(),
+      festivals: festivals.map((f) => ({ ...f, url: `${SITE_URL}/festival/${f.slug}/`, city: cities[f.cityId] })),
+    },
+    null,
+    2
+  )
+);
+
+// Resumen en texto para LLMs (convención llms.txt).
+const llms = [
+  "# West Coast Swing Passport 2026–2027",
+  "",
+  "> Guía de festivales de West Coast Swing en España y Europa (temporada octubre 2026 – octubre 2027), editada por Levante West Coast Swing y la Asociación Cultural LOBAILAO. Fechas, sedes, tipo WSDC, precios, transporte desde España y guía de cada ciudad.",
+  "",
+  `- Datos completos en JSON: ${SITE_URL}/festivals.json`,
+  `- Calendario de la temporada (iCalendar): ${SITE_URL}/calendario.ics`,
+  `- Guía para principiantes (WSDC, puntos, Jack & Jill): ${SITE_URL}/guia/`,
+  "",
+  "## Festivales",
+  "",
+  ...festivals.map(
+    (f) =>
+      `- [${f.name} ${f.edition}](${SITE_URL}/festival/${f.slug}/): ${f.start} a ${f.end}${f.dateStatus === "tentative" ? " (fecha estimada)" : ""}, ${f.venue}, ${f.country}. ${f.wsdc === "none" ? "Sin puntos WSDC" : `WSDC ${f.wsdc}`}. ${f.summary.es}`
+  ),
+  "",
+].join("\n");
+writeFileSync(join(publicDir, "llms.txt"), llms);
+
+console.log(`✓ ${festivals.length} festivales → ics/, calendario.ics, precache.json, festivals.json y llms.txt (${routes.length} rutas)`);

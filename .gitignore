@@ -7,3 +7,5 @@ out
 public/ics
 public/calendario.ics
 public/precache.json
+public/festivals.json
+public/llms.txt

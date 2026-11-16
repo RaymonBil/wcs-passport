@@ -14,6 +14,7 @@ Edición Especial Levante West Coast Swing · Asociación Cultural LOBAILAO.
 - **Guía** para principiantes: WSDC, divisiones y puntos, primer Jack & Jill, ahorro, glosario.
 - **Comunidad:** manifiesto, carta del editor, QR de redes y apoyo al proyecto.
 - Español / inglés, compartir, QR por festival, instalable en el móvil y **funciona sin conexión**.
+- **Datos abiertos** para otras apps e IAs: [`festivals.json`](https://raymonbil.github.io/wcs-passport/festivals.json) y [`llms.txt`](https://raymonbil.github.io/wcs-passport/llms.txt). Instrucciones para asistentes de código en [`AGENTS.md`](AGENTS.md).
 
 ## Editar los datos (sin tocar el diseño)
 
