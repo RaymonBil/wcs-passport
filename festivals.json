@@ -1,0 +1,4469 @@
+{
+  "name": "West Coast Swing Passport 2026–2027",
+  "source": "https://raymonbil.github.io/wcs-passport",
+  "generated": "2026-11-16T17:43:28.019Z",
+  "festivals": [
+    {
+      "slug": "augsburg-westie-station",
+      "name": "Augsburg Westie Station",
+      "edition": "2026",
+      "region": "europa",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "cityId": "augsburgo",
+      "venue": "Hep Cat Club, Augsburgo",
+      "coords": [
+        48.3705,
+        10.8978
+      ],
+      "start": "2026-10-22",
+      "end": "2026-10-25",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "boutique",
+      "tags": [
+        "street style",
+        "escuela",
+        "aforo limitado"
+      ],
+      "beginner": 3,
+      "costLevel": 2,
+      "soldOut": true,
+      "prices": [
+        {
+          "label": "Pases",
+          "value": "Full y parciales vía DanceApp. AGOTADO (lista de espera)."
+        }
+      ],
+      "priceYear": "2026",
+      "website": "https://hepcatclub.com/",
+      "summary": {
+        "es": "Evento WSDC con estética «street style» en una escuela de swing de Augsburgo.",
+        "en": "Street-style WSDC event at a swing dance school in Augsburg."
+      },
+      "description": "La Westie Station se define como un evento de West Coast Swing «street style» y es WSDC Registry. Se celebra en el Hep Cat Club, una escuela de swing con mucha personalidad. La edición 2026 está agotada.",
+      "highlights": [
+        "Estilo urbano y ambiente de club.",
+        "Formato cercano.",
+        "A 40 minutos de Múnich."
+      ],
+      "levanteTip": "Agotado este año: apúntalo para octubre de 2027 y compra en cuanto abran.",
+      "access": "Tren Múnich–Augsburgo (≈ 30–45 min) y tranvía o a pie.",
+      "sources": [
+        "https://www.festivalsindeutschland.de/festival/augsburg-westie-station",
+        "https://danceapp.net/en-us/events/145-Augsburg_Westie_Station_2026/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/augsburg-westie-station/",
+      "city": {
+        "name": "Augsburgo",
+        "region": "Baviera, Alemania",
+        "intro": "Una de las ciudades más antiguas de Alemania, fundada por los romanos. Tranquila, monumental y a solo 40 minutos de Múnich.",
+        "culture": [
+          "La Fuggerei, el complejo de viviendas sociales más antiguo del mundo (1521).",
+          "Ayuntamiento renacentista y su Salón Dorado.",
+          "Augsburger Puppenkiste, el teatro de marionetas."
+        ],
+        "food": [
+          "Weißwurst con pretzel y mostaza dulce.",
+          "Schweinshaxe (codillo).",
+          "Käsespätzle.",
+          "Cerveza bávara (Riegele, de la propia ciudad)."
+        ],
+        "climate": "Finales de octubre: 3–12 °C. Noviembre: 0–8 °C.",
+        "airports": [
+          {
+            "code": "MUC",
+            "name": "Múnich",
+            "distance": "≈ 1 h 10 min en tren o coche"
+          },
+          {
+            "code": "FMM",
+            "name": "Memmingen (low cost)",
+            "distance": "≈ 1 h"
+          }
+        ],
+        "train": "Augsburg Hbf: trenes a Múnich cada pocos minutos (≈ 30–45 min).",
+        "fromSpain": {
+          "madrid": "Vuelo directo a Múnich (≈ 2 h 40 min) y tren.",
+          "barcelona": "Vuelo directo a Múnich o Memmingen (≈ 2 h).",
+          "valencia": "Vuelo directo a Múnich (habitual con Lufthansa) o Memmingen.",
+          "alicante": "Vuelo directo a Múnich o Memmingen según temporada."
+        }
+      }
+    },
+    {
+      "slug": "swingside-invitational",
+      "name": "Swingside Invitational",
+      "edition": "2026",
+      "region": "europa",
+      "country": "Bélgica",
+      "countryCode": "BE",
+      "cityId": "lieja",
+      "venue": "Palais des Congrès de Liège",
+      "coords": [
+        50.6337,
+        5.5793
+      ],
+      "start": "2026-10-23",
+      "end": "2026-10-25",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "100 % WCS",
+        "palacio de congresos",
+        "Benelux"
+      ],
+      "beginner": 4,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Full Pass (2024)",
+          "value": "Desde 150 €"
+        }
+      ],
+      "priceYear": "2024 (referencia)",
+      "priceRefEUR": 150,
+      "website": "https://www.swingside.be/festival-westcoastswing/",
+      "summary": {
+        "es": "Evento 100 % West Coast Swing en el Palacio de Congresos de Lieja.",
+        "en": "A 100% West Coast Swing event at Liège's Palais des Congrès."
+      },
+      "description": "El Swingside Invitational es el evento WSDC de la escuela Swingside de Lieja. En 2026 se traslada al Palacio de Congresos de la ciudad, junto al río Mosa.",
+      "highlights": [
+        "100 % West Coast Swing.",
+        "Sede junto al Mosa.",
+        "Bien conectado por tren desde Bruselas."
+      ],
+      "levanteTip": "Vuelo a Charleroi o Bruselas desde Alicante o Valencia y tren a Lieja. Prueba el gofre auténtico.",
+      "access": "Desde Liège-Guillemins, ≈ 15 min a pie o en bus.",
+      "sources": [
+        "https://www.swingside.be/festival-westcoastswing/",
+        "https://www.yourdancebuddy.com/events/swingside-invitational-2026"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/swingside-invitational/",
+      "city": {
+        "name": "Lieja",
+        "region": "Valonia, Bélgica",
+        "intro": "Ciudad valona con carácter, junto al río Mosa y a un paso de Maastricht y Aquisgrán.",
+        "culture": [
+          "Escalera de la Montagne de Bueren (374 escalones).",
+          "Estación de Liège-Guillemins, obra de Calatrava.",
+          "Mercado de La Batte, los domingos junto al Mosa."
+        ],
+        "food": [
+          "Gofre de Lieja (con perlas de azúcar).",
+          "Boulets à la liégeoise (albóndigas con salsa de sirope).",
+          "Pèket, la ginebra local.",
+          "Cervezas belgas de abadía."
+        ],
+        "climate": "Finales de octubre: 5–13 °C, lluvia frecuente.",
+        "airports": [
+          {
+            "code": "BRU",
+            "name": "Bruselas-Zaventem",
+            "distance": "≈ 1 h 15 min en tren"
+          },
+          {
+            "code": "CRL",
+            "name": "Charleroi (low cost)",
+            "distance": "≈ 1 h 15 min"
+          }
+        ],
+        "train": "Liège-Guillemins: tren de alta velocidad desde Bruselas (≈ 1 h) y París.",
+        "fromSpain": {
+          "madrid": "Vuelo directo a Bruselas o Charleroi y tren.",
+          "barcelona": "Vuelo directo a Bruselas o Charleroi y tren.",
+          "valencia": "Vuelo directo a Bruselas o Charleroi y tren.",
+          "alicante": "Vuelo directo a Bruselas o Charleroi (habitual) y tren."
+        }
+      }
+    },
+    {
+      "slug": "scandinavian-open-snow",
+      "name": "Scandinavian Open WCS «SNOW»",
+      "edition": "2026",
+      "region": "europa",
+      "country": "Suecia",
+      "countryCode": "SE",
+      "cityId": "estocolmo",
+      "venue": "Quality Hotel Strawberry Arena, Estocolmo (Solna)",
+      "coords": [
+        59.3727,
+        18.0005
+      ],
+      "start": "2026-10-28",
+      "end": "2026-11-01",
+      "dateStatus": "confirmed",
+      "dateNote": "Algunos listados lo alargan hasta el 2 de noviembre.",
+      "wsdc": "registry",
+      "size": "grande",
+      "tags": [
+        "hotel",
+        "nivel nórdico",
+        "otoño"
+      ],
+      "beginner": 3,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "Full Pass (2025)",
+          "value": "Desde 2.000 SEK (tarifa «Blizzard Bird»), con tramos que suben"
+        }
+      ],
+      "priceYear": "2025 (referencia)",
+      "priceRefEUR": 175,
+      "website": "https://snowcs.se/",
+      "summary": {
+        "es": "El gran WSDC sueco en un hotel-arena de Estocolmo: nivel nórdico altísimo.",
+        "en": "Sweden's big WSDC event at a Stockholm arena hotel: top Nordic level."
+      },
+      "description": "SNOW es el Scandinavian Open, el gran evento WSDC de Suecia, uno de los países con más nivel de WCS de Europa. Se celebra en el Quality Hotel junto al Strawberry Arena de Solna, en el área norte de Estocolmo.",
+      "highlights": [
+        "Nivel de baile nórdico, de los más altos de Europa.",
+        "Formato hotel.",
+        "Estocolmo, la ciudad de las 14 islas."
+      ],
+      "levanteTip": "Desde Alicante suele haber vuelo directo a Estocolmo (Norwegian/SAS). Prepárate para pagar precios nórdicos en comida y bebida.",
+      "access": "Desde Arlanda, tren o bus a Solna/Stockholm City y metro o pendeltåg hasta la zona del Strawberry Arena.",
+      "sources": [
+        "https://snowcs.se/register/",
+        "https://www.yourdancebuddy.com/events/scandinavian-open-wcs-snow-2026"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/scandinavian-open-snow/",
+      "city": {
+        "name": "Estocolmo",
+        "region": "Suecia",
+        "intro": "Capital construida sobre 14 islas: diseño, cafés fika y un nivel de baile altísimo, porque Suecia es una potencia del WCS europeo.",
+        "culture": [
+          "Gamla Stan (ciudad vieja) y el Palacio Real.",
+          "Museo Vasa, con un galeón del siglo XVII intacto.",
+          "Djurgården y Skansen, el museo al aire libre."
+        ],
+        "food": [
+          "Albóndigas suecas con puré y mermelada de arándanos rojos.",
+          "Kanelbulle (bollo de canela) en una pausa fika.",
+          "Gravlax (salmón marinado).",
+          "Smörgåstårta, si te invitan a una."
+        ],
+        "climate": "Finales de octubre: 2–9 °C, oscurece pronto.",
+        "airports": [
+          {
+            "code": "ARN",
+            "name": "Estocolmo-Arlanda",
+            "distance": "≈ 30 min (Arlanda Express) — la sede está en el área norte"
+          }
+        ],
+        "train": "Stockholm Central.",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 4 h).",
+          "barcelona": "Vuelo directo (≈ 3 h 40 min).",
+          "valencia": "Vuelo directo según temporada o con escala.",
+          "alicante": "Vuelo directo (habitual con Norwegian/SAS, ≈ 4 h)."
+        }
+      }
+    },
+    {
+      "slug": "warsaw-halloween-swing",
+      "name": "Warsaw Halloween Swing",
+      "edition": "2026",
+      "region": "europa",
+      "country": "Polonia",
+      "countryCode": "PL",
+      "cityId": "varsovia",
+      "venue": "The Westin Warsaw",
+      "coords": [
+        52.2337,
+        20.9963
+      ],
+      "start": "2026-10-29",
+      "end": "2026-11-02",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "grande",
+      "tags": [
+        "disfraces",
+        "Halloween",
+        "hotel",
+        "inscripción en pareja"
+      ],
+      "beginner": 3,
+      "costLevel": 1,
+      "prices": [
+        {
+          "label": "Full Pass",
+          "value": "840 zł por persona (solo inscripción en pareja)"
+        },
+        {
+          "label": "Party & Comp Pass",
+          "value": "525 zł por persona (en pareja)"
+        },
+        {
+          "label": "Party Pass",
+          "value": "300 zł"
+        },
+        {
+          "label": "Fri-tensive",
+          "value": "320 zł anticipado · 380 zł en puerta"
+        },
+        {
+          "label": "En puerta (si no se agota)",
+          "value": "150 € Party Pass · 230 € Full Pass"
+        }
+      ],
+      "priceYear": "2026",
+      "priceRefEUR": 195,
+      "priceNote": "Se paga la tarifa vigente en el momento del pago, no la del registro. Hay que pagar en 5 días o pasas a lista de espera.",
+      "website": "https://warsawhalloweenswing.com/",
+      "summary": {
+        "es": "11.º aniversario de la fiesta de disfraces más grande del WCS europeo, en el Westin de Varsovia.",
+        "en": "The 11th 'AnniverScary' of European WCS's biggest costume party, at the Westin Warsaw."
+      },
+      "description": "El Warsaw Halloween Swing celebra en 2026 su 11.º «AnniverScary»: un evento WSDC con workshops, competiciones y las fiestas de viernes, sábado y domingo, con la noche de disfraces como plato fuerte. La inscripción del Full Pass es solo en pareja (leader + follower).",
+      "highlights": [
+        "La fiesta de disfraces del año.",
+        "Precios polacos muy competitivos.",
+        "Hotel de cinco estrellas en el centro de Varsovia."
+      ],
+      "levanteTip": "Busca pareja de inscripción en el grupo de WhatsApp: el Full Pass solo se vende en pareja. Prepara el disfraz con tiempo, aquí se lo toman muy en serio.",
+      "access": "Desde Chopin, taxi o tren al centro (≈ 25 min). Desde Modlin, bus o tren (≈ 50 min).",
+      "sources": [
+        "https://warsawhalloweenswing.com/booking/",
+        "https://warsawhalloweenswing.com/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/warsaw-halloween-swing/",
+      "city": {
+        "name": "Varsovia",
+        "region": "Polonia",
+        "intro": "La capital polaca, reconstruida tras la guerra, es hoy una metrópolis moderna con precios muy razonables. Halloween aquí es la fiesta de disfraces más grande del circuito.",
+        "culture": [
+          "Casco antiguo (Stare Miasto), reconstruido piedra a piedra.",
+          "Museo del Levantamiento de Varsovia.",
+          "Palacio de la Cultura y la Ciencia, con mirador en la planta 30."
+        ],
+        "food": [
+          "Pierogi (empanadillas) de mil rellenos.",
+          "Żurek (sopa agria) servido en pan.",
+          "Pączki (berlinas polacas).",
+          "Vodka polaco de calidad, con moderación."
+        ],
+        "climate": "Finales de octubre: 2–10 °C.",
+        "airports": [
+          {
+            "code": "WAW",
+            "name": "Varsovia-Chopin",
+            "distance": "≈ 25 min del centro"
+          },
+          {
+            "code": "WMI",
+            "name": "Varsovia-Modlin (low cost)",
+            "distance": "≈ 50 min"
+          }
+        ],
+        "train": "Warszawa Centralna.",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 3 h 30 min).",
+          "barcelona": "Vuelo directo (≈ 3 h).",
+          "valencia": "Vuelo directo según temporada o con escala.",
+          "alicante": "Vuelo directo a Chopin o Modlin (habitual con Ryanair/Wizz Air)."
+        }
+      }
+    },
+    {
+      "slug": "westie-pink-city",
+      "name": "Westie Pink City",
+      "edition": "2026",
+      "region": "europa",
+      "country": "Francia",
+      "countryCode": "FR",
+      "cityId": "toulouse",
+      "venue": "NH Toulouse Airport ****, Blagnac",
+      "coords": [
+        43.6455,
+        1.3745
+      ],
+      "start": "2026-11-06",
+      "end": "2026-11-08",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "hotel",
+        "aeropuerto",
+        "sur de Francia"
+      ],
+      "beginner": 4,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Pases",
+          "value": "Desconocido: consulta la web oficial"
+        }
+      ],
+      "priceYear": "2026",
+      "website": "https://www.westiepinkcity.fr/",
+      "summary": {
+        "es": "El WSDC del suroeste francés en un hotel junto al aeropuerto de Toulouse: workshops por niveles, J&J y Strictly.",
+        "en": "South-west France's WSDC event at a Toulouse airport hotel: leveled workshops, J&J and Strictly."
+      },
+      "description": "Westie Pink City se presenta como el primer evento del suroeste francés en un hotel de cuatro estrellas. El programa incluye 5 horas de workshops por niveles, 2 tasters, competiciones Jack & Jill y Strictly con puntos WSDC, y sociales cada noche.",
+      "highlights": [
+        "5 h de workshops por niveles y 2 tasters.",
+        "Jack & Jill y Strictly oficiales.",
+        "Hotel a 5 minutos del aeropuerto.",
+        "Barcelona a menos de 4 horas en coche."
+      ],
+      "levanteTip": "Desde Barcelona merece la pena en coche compartido. Desde Alicante o Valencia, mira vuelos a Toulouse con escala o combina vuelo a Barcelona + coche.",
+      "access": "Shuttle o taxi desde el aeropuerto de Toulouse-Blagnac (≈ 5–10 min). Tranvía T2 al centro.",
+      "sources": [
+        "https://www.westiepinkcity.fr/",
+        "https://www.westiepinkcity.fr/planning-schedule"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/westie-pink-city/",
+      "city": {
+        "name": "Toulouse",
+        "region": "Occitania, Francia",
+        "intro": "La «Ciudad Rosa», por el ladrillo de sus edificios. Es la capital europea de la aeronáutica (Airbus) y queda a un paso de los Pirineos. El festival se celebra en un hotel junto al aeropuerto.",
+        "culture": [
+          "Place du Capitole y la basílica románica de Saint-Sernin.",
+          "Paseo por el Canal du Midi y las orillas del Garona.",
+          "Cité de l'Espace o Aeroscopia, para los fans de la aviación."
+        ],
+        "food": [
+          "Cassoulet: el guiso de alubias y pato de la región.",
+          "Saucisse de Toulouse.",
+          "Violetas de Toulouse (caramelos y licor).",
+          "Vinos de Fronton y Gaillac."
+        ],
+        "climate": "Noviembre: 5–14 °C, fresco y a veces lluvioso.",
+        "airports": [
+          {
+            "code": "TLS",
+            "name": "Toulouse-Blagnac",
+            "distance": "≈ 5–10 min de la sede"
+          }
+        ],
+        "train": "Estación Matabiau, con conexiones a Barcelona vía Narbona.",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 1 h 20 min) según temporada, o con escala.",
+          "barcelona": "Tren vía Narbona (≈ 3 h 30 min–4 h), coche (≈ 4 h) o vuelo.",
+          "valencia": "Coche (≈ 7 h) o vuelo con escala.",
+          "alicante": "Vuelo con escala (Madrid/Barcelona) o coche (≈ 8 h 30 min)."
+        }
+      }
+    },
+    {
+      "slug": "westies-angels",
+      "name": "Westie's Angels",
+      "edition": "2026",
+      "region": "europa",
+      "country": "Francia",
+      "countryCode": "FR",
+      "cityId": "lyon",
+      "venue": "Hotel Logis Est, Saint-Maurice-de-Beynost (Lyon)",
+      "coords": [
+        45.8253,
+        5.0006
+      ],
+      "start": "2026-11-12",
+      "end": "2026-11-15",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "boutique",
+      "tags": [
+        "solo styling",
+        "técnica",
+        "hotel"
+      ],
+      "beginner": 3,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Pases",
+          "value": "Desconocido: consulta frenchywesty.com"
+        },
+        {
+          "label": "Hotel",
+          "value": "Tarifa especial del evento del 12 al 15 de noviembre (ver web)"
+        }
+      ],
+      "priceYear": "2026",
+      "website": "https://www.frenchywesty.com/westiesangels",
+      "summary": {
+        "es": "Fin de semana WSDC centrado en el estilo individual (solo styling), con intensivo de musicalidad.",
+        "en": "WSDC weekend focused on solo styling, with a musicality intensive."
+      },
+      "description": "Westie's Angels es un evento WSDC con identidad propia: todo gira en torno al solo styling y la expresión individual. Hay competiciones para ponerte a prueba y workshops con profesores invitados, y un intensivo de musicalidad con Olivier & Virginie exclusivo para los participantes.",
+      "highlights": [
+        "Foco en solo styling y expresión personal.",
+        "Intensivo de musicalidad exclusivo.",
+        "Formato boutique, cerca de Lyon."
+      ],
+      "levanteTip": "Si ya llevas un año o más bailando y quieres pulir tu estilo, es una joya. Para un primer evento hay opciones más sencillas.",
+      "access": "A ≈ 20 min del centro de Lyon y ≈ 20 min del aeropuerto Saint-Exupéry. Lo más cómodo es el coche.",
+      "sources": [
+        "https://westiehub.dance/events/westies-angels-2026",
+        "https://www.frenchywesty.com/westiesangels"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/westies-angels/",
+      "city": {
+        "name": "Lyon",
+        "region": "Auvernia-Ródano-Alpes, Francia",
+        "intro": "La capital gastronómica de Francia, en la confluencia del Ródano y el Saona. Tiene una comunidad westie muy activa que organiza varios eventos al año.",
+        "culture": [
+          "Vieux Lyon (Patrimonio de la Humanidad) y sus traboules, los pasajes secretos.",
+          "Basílica de Fourvière y vistas de toda la ciudad.",
+          "Barrio de la Croix-Rousse y su tradición de la seda."
+        ],
+        "food": [
+          "Un bouchon lionés: quenelles, saucisson brioché y andouillette.",
+          "Tarte aux pralines rosas.",
+          "Mercado Les Halles Paul Bocuse.",
+          "Vinos del Beaujolais y Côtes du Rhône."
+        ],
+        "climate": "Marzo: 3–14 °C. Noviembre: 4–12 °C. Lleva abrigo.",
+        "airports": [
+          {
+            "code": "LYS",
+            "name": "Lyon-Saint Exupéry",
+            "distance": "≈ 30 min del centro (Rhônexpress)"
+          }
+        ],
+        "train": "Part-Dieu: TGV directo a Barcelona (≈ 5 h) y París (≈ 2 h).",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 1 h 50 min).",
+          "barcelona": "TGV directo (≈ 5 h) o vuelo directo (≈ 1 h 15 min).",
+          "valencia": "Vuelo con escala o tren vía Barcelona.",
+          "alicante": "Vuelo directo según temporada, o con escala."
+        }
+      }
+    },
+    {
+      "slug": "flowstate",
+      "name": "Flowstate",
+      "edition": "2026",
+      "region": "europa",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "cityId": "londres",
+      "venue": "Thistle Hotel Heathrow Terminal 5, Bath Road, Longford",
+      "coords": [
+        51.4813,
+        -0.5016
+      ],
+      "start": "2026-11-13",
+      "end": "2026-11-15",
+      "dateStatus": "confirmed",
+      "dateNote": "Un listado indica del 15 al 17 de noviembre; la mayoría de fuentes dan del 13 al 15.",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "WCS + Zouk",
+        "hotel",
+        "aeropuerto"
+      ],
+      "beginner": 4,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "Pases",
+          "value": "Desconocido"
+        }
+      ],
+      "priceYear": "2026",
+      "website": "https://flowstatefest.com/",
+      "summary": {
+        "es": "Festival de West Coast Swing y Zouk junto a Heathrow, con Jack & Jill WSDC y BZDC.",
+        "en": "West Coast Swing and Zouk festival by Heathrow, with WSDC and BZDC Jack & Jills."
+      },
+      "description": "Flowstate une dos estilos de baile de conexión: West Coast Swing y Brazilian Zouk. Los workshops, las sociales, las competiciones y tu habitación están en el mismo hotel de Heathrow. Hay Jack & Jill oficiales de WSDC y BZDC.",
+      "highlights": [
+        "Dos estilos: perfecto si también bailas Zouk.",
+        "Todo en el mismo hotel de Heathrow.",
+        "Jack & Jill oficiales WSDC."
+      ],
+      "levanteTip": "Si te pica la curiosidad por el Zouk, es la excusa perfecta. Hay vuelos directos desde Alicante a Heathrow.",
+      "access": "Bus o shuttle desde Heathrow T5 (≈ 5 min).",
+      "sources": [
+        "https://flowstatefest.com/",
+        "https://ukdc.co.uk/event/flowstate-festival/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/flowstate/",
+      "city": {
+        "name": "Londres (Heathrow)",
+        "region": "Inglaterra, Reino Unido",
+        "intro": "Varios de los grandes eventos británicos se celebran en hoteles pegados a Heathrow: llegas del avión a la pista sin pasar por el centro. Si te sobra un día, Londres está a 15 minutos en el Elizabeth Line o el Heathrow Express.",
+        "culture": [
+          "Westminster, el Big Ben y el London Eye.",
+          "Museos gratuitos: British Museum, National Gallery y Tate Modern.",
+          "Camden, Notting Hill y Covent Garden."
+        ],
+        "food": [
+          "Fish and chips.",
+          "Sunday roast en un pub.",
+          "Full English breakfast para recuperar fuerzas.",
+          "Afternoon tea con scones."
+        ],
+        "climate": "Noviembre–marzo: 3–11 °C y lluvia. Septiembre: 12–20 °C.",
+        "airports": [
+          {
+            "code": "LHR",
+            "name": "Heathrow",
+            "distance": "Los hoteles sede están junto al aeropuerto (≈ 5–10 min en shuttle o bus)"
+          },
+          {
+            "code": "LGW",
+            "name": "Gatwick",
+            "distance": "≈ 1 h 15 min"
+          },
+          {
+            "code": "STN",
+            "name": "Stansted / Luton",
+            "distance": "≈ 1 h 30 min"
+          }
+        ],
+        "train": "Eurostar desde París (≈ 2 h 20 min), si combinas viaje.",
+        "fromSpain": {
+          "madrid": "Vuelo directo a Heathrow (≈ 2 h 20 min).",
+          "barcelona": "Vuelo directo a Heathrow o Gatwick (≈ 2 h 10 min).",
+          "valencia": "Vuelo directo a Heathrow, Gatwick o Stansted.",
+          "alicante": "Muchísimos vuelos directos (Heathrow, Gatwick, Stansted, Luton), ≈ 2 h 30 min. Recuerda: para el Reino Unido necesitas pasaporte (el DNI no sirve) y la autorización electrónica ETA."
+        }
+      }
+    },
+    {
+      "slug": "autumn-swing-challenge",
+      "name": "Autumn Swing Challenge",
+      "edition": "2026",
+      "region": "europa",
+      "country": "Hungría",
+      "countryCode": "HU",
+      "cityId": "budapest",
+      "venue": "Aquincum Hotel Budapest",
+      "coords": [
+        47.5486,
+        19.0466
+      ],
+      "start": "2026-11-13",
+      "end": "2026-11-15",
+      "dateStatus": "confirmed",
+      "dateNote": "Pre-party el jueves 12. Algunos listados lo alargan al lunes 16.",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "Rising Star Tour",
+        "hotel",
+        "termas"
+      ],
+      "beginner": 3,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Workshop Pass",
+          "value": "160 € · 180 € · 190 € según tramo"
+        },
+        {
+          "label": "Party Pass",
+          "value": "120 € · 130 € · 140 €"
+        },
+        {
+          "label": "All-Star Pass",
+          "value": "Gratis para las 6 primeras parejas"
+        },
+        {
+          "label": "Hotel",
+          "value": "134 € (2 pers.) · 118 € (1 pers.) por noche con desayuno"
+        }
+      ],
+      "priceYear": "2026",
+      "priceRefEUR": 180,
+      "website": "https://www.asc-budapest.com/",
+      "teachers": [
+        "Joao Parada & Savana Barreau",
+        "Kyle FitzGerald & Mélodie Paletta",
+        "Miguel Ortega & Irina Puzanova",
+        "Ludovic Pelegrin & Coleen Man",
+        "Philipp & Ekaterina Wolff"
+      ],
+      "summary": {
+        "es": "El WSDC otoñal de Budapest, con división Rising Star y un cartel de profesores de lujo.",
+        "en": "Budapest's autumn WSDC event, with a Rising Star division and a stellar line-up."
+      },
+      "description": "Autumn Swing Challenge es el «hermano pequeño» de BudaFest, pero con un cartel de profesores de primer nivel. Forma parte del Rising Star Tour, con su división oficial, y tiene competiciones para divertirse y sumar puntos WSDC en el hotel Aquincum, con balneario propio.",
+      "highlights": [
+        "Profesores top a precio razonable.",
+        "División Rising Star.",
+        "Hotel con balneario termal."
+      ],
+      "levanteTip": "Una forma más asequible y menos masiva de conocer Budapest que BudaFest. Desde Alicante hay vuelos directos.",
+      "access": "Desde el aeropuerto, taxi (≈ 35 min) o bus 100E + HÉV hasta Árpád híd.",
+      "sources": [
+        "https://westiehub.dance/events/autumn-swing-challenge-2026",
+        "https://thedanceatlas.com/events/autumn-swing-challenge-2026-wsdc-rising-star-tour-event/131787"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/autumn-swing-challenge/",
+      "city": {
+        "name": "Budapest",
+        "region": "Hungría",
+        "intro": "Buda y Pest a ambos lados del Danubio: balnearios termales, arquitectura imperial y ruin bars. Es una ciudad muy asequible y el escenario del evento más grande de Europa.",
+        "culture": [
+          "Parlamento, Bastión de los Pescadores y el Castillo de Buda.",
+          "Balnearios Széchenyi y Gellért, perfectos para recuperar las piernas.",
+          "Ruin bars del barrio judío (Szimpla Kert).",
+          "Paseo nocturno junto al Danubio y el Puente de las Cadenas."
+        ],
+        "food": [
+          "Goulash (gulyás) y paprikás de pollo.",
+          "Lángos (masa frita con nata agria y queso).",
+          "Kürtőskalács (chimenea de dulce).",
+          "Vino de Tokaj y pálinka."
+        ],
+        "climate": "Enero: −4 a 3 °C. Noviembre: 1–9 °C.",
+        "airports": [
+          {
+            "code": "BUD",
+            "name": "Budapest-Ferenc Liszt",
+            "distance": "≈ 35 min al centro (bus 100E)"
+          }
+        ],
+        "train": "Keleti y Nyugati, con conexiones a Viena (≈ 2 h 40 min).",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 3 h 15 min).",
+          "barcelona": "Vuelo directo (≈ 2 h 40 min).",
+          "valencia": "Vuelo directo (habitual con Wizz Air/Ryanair).",
+          "alicante": "Vuelo directo (habitual con Wizz Air/Ryanair, ≈ 3 h)."
+        }
+      }
+    },
+    {
+      "slug": "project-switch",
+      "name": "Project Switch",
+      "edition": "2026",
+      "region": "europa",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "cityId": "munich",
+      "venue": "Tumblingerstraße 34a, Múnich",
+      "coords": [
+        48.1236,
+        11.5532
+      ],
+      "start": "2026-11-27",
+      "end": "2026-11-29",
+      "dateStatus": "confirmed",
+      "wsdc": "none",
+      "size": "boutique",
+      "tags": [
+        "cambio de rol",
+        "switch",
+        "formato original"
+      ],
+      "beginner": 3,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Full Pass",
+          "value": "149 € early (hasta 31/08) · 169 € normal"
+        },
+        {
+          "label": "Party Pass",
+          "value": "59 € early · 79 € normal"
+        }
+      ],
+      "priceYear": "2026",
+      "priceRefEUR": 169,
+      "website": "https://www.regioactive.de/tanz/project-switch-the-wcs-event-in-munich-muenchen-tumblingerstrasse-34a-2026-11-27-lnRvXQbj6D",
+      "teachers": [
+        "Clem & Evi"
+      ],
+      "summary": {
+        "es": "El evento del cambio de rol: aprende a bailar tu segundo rol con Clem & Evi y compite en equipos que rotan.",
+        "en": "The role-switching event: learn your second role with Clem & Evi and compete in rotating teams."
+      },
+      "description": "Project Switch está dedicado al «switch» (bailar ambos roles). Tiene dos tracks: Switch, con los básicos en tu segundo rol, y Switch++, con cambio de rol avanzado. Su competición estrella es original: te inscribes solo, te asignan a un grupo de cuatro y compites en equipo mientras las parejas rotan, los roles cambian y te «roban» en mitad de la canción.",
+      "highlights": [
+        "Único evento centrado en el doble rol.",
+        "Competición por equipos de cuatro.",
+        "Mercadillos navideños de Múnich recién abiertos."
+      ],
+      "levanteTip": "Si eres follower y quieres aprender a llevar (o al revés), no hay mejor sitio. No da puntos WSDC.",
+      "access": "Metro U3/U6 o S-Bahn hasta la zona de Schlachthof/Poccistraße.",
+      "sources": [
+        "https://www.regioactive.de/tanz/project-switch-the-wcs-event-in-munich-muenchen-tumblingerstrasse-34a-2026-11-27-lnRvXQbj6D"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/project-switch/",
+      "city": {
+        "name": "Múnich",
+        "region": "Baviera, Alemania",
+        "intro": "La capital bávara combina cervecerías centenarias, museos de primer nivel y una escena de WCS muy activa.",
+        "culture": [
+          "Marienplatz y el carillón del Ayuntamiento.",
+          "Englischer Garten y los surfistas del Eisbach.",
+          "Pinacotecas y el Deutsches Museum."
+        ],
+        "food": [
+          "Brezn y Obatzda en una Biergarten.",
+          "Schweinsbraten con Knödel.",
+          "Apfelstrudel.",
+          "Cerveza en el Hofbräuhaus o el Augustiner."
+        ],
+        "climate": "Noviembre: 0–8 °C. Mercadillos navideños desde finales de mes.",
+        "airports": [
+          {
+            "code": "MUC",
+            "name": "Múnich",
+            "distance": "≈ 40 min al centro (S-Bahn S1/S8)"
+          }
+        ],
+        "train": "München Hbf, conectada con toda Alemania y Austria.",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 2 h 40 min).",
+          "barcelona": "Vuelo directo (≈ 2 h).",
+          "valencia": "Vuelo directo (habitual).",
+          "alicante": "Vuelo directo según temporada."
+        }
+      }
+    },
+    {
+      "slug": "winter-white",
+      "name": "Winter White WCS",
+      "edition": "2026",
+      "region": "europa",
+      "country": "Noruega",
+      "countryCode": "NO",
+      "cityId": "oslo",
+      "venue": "Scandic Oslo Airport, Ravinevegen 15, Gardermoen (sede nueva)",
+      "coords": [
+        60.1958,
+        11.1006
+      ],
+      "start": "2026-12-03",
+      "end": "2026-12-06",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "boutique",
+      "tags": [
+        "íntimo",
+        "invierno",
+        "aeropuerto"
+      ],
+      "beginner": 4,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "Full Pass (2023)",
+          "value": "Desde 1.500 NOK"
+        },
+        {
+          "label": "Hotel (con desayuno)",
+          "value": "1.150 NOK individual · 1.350 NOK doble · 1.680 NOK triple · 1.980 NOK cuádruple por noche"
+        }
+      ],
+      "priceYear": "2023 (referencia)",
+      "priceRefEUR": 130,
+      "priceNote": "Las tarifas de hotel del evento estuvieron disponibles hasta el 20 de septiembre de 2026.",
+      "website": "https://www.winterwhite.no/",
+      "summary": {
+        "es": "Evento WSDC íntimo y acogedor en Noruega, junto al aeropuerto de Oslo.",
+        "en": "A cosy, intimate WSDC event in Norway, next to Oslo airport."
+      },
+      "description": "Winter White se define como un evento «cozy» e íntimo. Es WSDC desde 2014 y en 2026 estrena sede en el hotel Scandic del aeropuerto de Oslo-Gardermoen. Diciembre noruego: nieve, velas y pista llena.",
+      "highlights": [
+        "Ambiente íntimo y acogedor.",
+        "Hotel en el mismo aeropuerto.",
+        "Experiencia invernal nórdica."
+      ],
+      "levanteTip": "Desde Alicante suele haber vuelo directo a Oslo (Norwegian). Ropa de invierno de verdad: fuera se está bajo cero.",
+      "access": "Lanzadera del hotel o a pie desde la terminal de Oslo-Gardermoen.",
+      "sources": [
+        "https://www.winterwhite.no/hotel",
+        "https://danceapp.net/en-us/events/147-Winter_White_2026/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/winter-white/",
+      "city": {
+        "name": "Oslo (Gardermoen)",
+        "region": "Noruega",
+        "intro": "El evento se celebra junto al aeropuerto de Oslo-Gardermoen, ideal para llegar sin complicaciones. Diciembre en Noruega es nieve, velas y hygge.",
+        "culture": [
+          "Ópera de Oslo, cuya cubierta se puede recorrer a pie.",
+          "Museo Munch y el Parque Vigeland.",
+          "Península de Bygdøy y sus museos vikingos y polares."
+        ],
+        "food": [
+          "Salmón noruego y bacalao skrei.",
+          "Brunost (queso marrón dulce).",
+          "Kjøttkaker (albóndigas noruegas).",
+          "Gløgg navideño."
+        ],
+        "climate": "Diciembre: −7 a 0 °C, nieve probable y solo 6 horas de luz.",
+        "airports": [
+          {
+            "code": "OSL",
+            "name": "Oslo-Gardermoen",
+            "distance": "El hotel sede está en el propio aeropuerto"
+          }
+        ],
+        "train": "Flytoget: tren del aeropuerto a Oslo centro (≈ 20 min).",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 4 h).",
+          "barcelona": "Vuelo directo (≈ 3 h 30 min).",
+          "valencia": "Vuelo directo según temporada o con escala.",
+          "alicante": "Vuelo directo (habitual con Norwegian, ≈ 4 h)."
+        }
+      }
+    },
+    {
+      "slug": "berlin-swing-revolution",
+      "name": "Berlin Swing Revolution",
+      "edition": "2026",
+      "region": "europa",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "cityId": "berlin",
+      "venue": "Werk36, Berlín",
+      "coords": [
+        52.5163,
+        13.4545
+      ],
+      "start": "2026-12-10",
+      "end": "2026-12-13",
+      "dateStatus": "confirmed",
+      "dateNote": "Facebook indica hasta el 14 de diciembre.",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "Navidad",
+        "capital",
+        "workshops"
+      ],
+      "beginner": 3,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "Full Pass",
+          "value": "180 € / 200 € según entradas vendidas (7 h por niveles + 2 h todos los niveles + 3 fiestas + competiciones)"
+        },
+        {
+          "label": "All-Star Pass",
+          "value": "90 € / 100 €"
+        },
+        {
+          "label": "Pre-party jueves",
+          "value": "15 € (con workshop)"
+        },
+        {
+          "label": "Fiesta del domingo",
+          "value": "15 € (abierta al público)"
+        },
+        {
+          "label": "Jack & Jill WSDC",
+          "value": "17 € anticipada · 20 € en el evento"
+        }
+      ],
+      "priceYear": "2026",
+      "priceRefEUR": 190,
+      "priceNote": "No hay Party Pass completo. La fiesta del domingo sí está abierta al público.",
+      "website": "https://berlinswingrevolution.com/",
+      "summary": {
+        "es": "WSDC en Berlín en plena temporada de mercadillos navideños, con 9 horas de workshops.",
+        "en": "WSDC event in Berlin during Christmas-market season, with 9 hours of workshops."
+      },
+      "description": "Berlin Swing Revolution reúne 7 horas de workshops por niveles, 2 horas de clases para todos los niveles, tres fiestas y competiciones WSDC en Werk36. Diciembre en Berlín significa Glühwein y mercadillos en cada barrio.",
+      "highlights": [
+        "9 h de workshops en total.",
+        "Mercadillos navideños berlineses.",
+        "Fiesta del domingo abierta al público."
+      ],
+      "levanteTip": "Desde Alicante hay vuelos directos a Berlín. Es un evento caro para quien va solo a bailar: si no vas a tomar clases, plantéate solo la fiesta del domingo.",
+      "access": "Transporte público de Berlín (S-Bahn y U-Bahn). Desde BER, ≈ 40 min.",
+      "sources": [
+        "https://berlinswingrevolution.com/registration/index.en.html",
+        "https://www.yourdancebuddy.com/events/berlin-swing-revolution-2026"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/berlin-swing-revolution/",
+      "city": {
+        "name": "Berlín",
+        "region": "Alemania",
+        "intro": "Historia, arte urbano y la vida nocturna más famosa de Europa. Diciembre llega con mercadillos navideños en cada barrio.",
+        "culture": [
+          "Puerta de Brandeburgo, el Reichstag y el Memorial del Holocausto.",
+          "East Side Gallery (Muro de Berlín).",
+          "Isla de los Museos.",
+          "Mercadillos de Navidad: Gendarmenmarkt y Charlottenburg."
+        ],
+        "food": [
+          "Currywurst.",
+          "Döner kebab berlinés.",
+          "Glühwein (vino caliente) en los mercadillos.",
+          "Berliner (bollo relleno)."
+        ],
+        "climate": "Diciembre: −2 a 5 °C. Abrigo serio.",
+        "airports": [
+          {
+            "code": "BER",
+            "name": "Berlín-Brandeburgo",
+            "distance": "≈ 40 min al centro"
+          }
+        ],
+        "train": "Berlin Hbf, con conexiones a toda Europa central.",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 3 h).",
+          "barcelona": "Vuelo directo (≈ 2 h 40 min).",
+          "valencia": "Vuelo directo (habitual).",
+          "alicante": "Vuelo directo (habitual con Ryanair/easyJet)."
+        }
+      }
+    },
+    {
+      "slug": "santa-swing",
+      "name": "Santa Swing",
+      "edition": "2026",
+      "region": "europa",
+      "country": "Polonia",
+      "countryCode": "PL",
+      "cityId": "cracovia",
+      "venue": "Galaxy Hotel ****, junto al Vístula, Cracovia",
+      "coords": [
+        50.0477,
+        19.9371
+      ],
+      "start": "2026-12-10",
+      "end": "2026-12-14",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "Navidad",
+        "mercadillo navideño",
+        "hotel"
+      ],
+      "beginner": 3,
+      "costLevel": 1,
+      "soldOut": true,
+      "prices": [
+        {
+          "label": "Full Pass",
+          "value": "790 PLN / 190 € early · 860 PLN / 210 € normal · 930 PLN / 230 € late"
+        },
+        {
+          "label": "Party Pass",
+          "value": "500 PLN / 120 €"
+        }
+      ],
+      "priceYear": "2026",
+      "priceRefEUR": 230,
+      "priceNote": "Varios listados lo marcan como AGOTADO. Las cancelaciones desde el 1 de octubre no se reembolsan.",
+      "website": "https://www.santaswing.pl/",
+      "summary": {
+        "es": "WSDC navideño en Cracovia, organizado por Skalski Dance en un hotel junto al Vístula.",
+        "en": "Christmas-themed WSDC event in Kraków by Skalski Dance, at a hotel on the Vistula."
+      },
+      "description": "Santa Swing es el evento navideño del circuito: un WSDC Registry en el Galaxy Hotel, a orillas del Vístula, organizado por la escuela Skalski Dance. De día, mercadillo navideño en la plaza del mercado; de noche, social.",
+      "highlights": [
+        "Ambiente navideño en una de las ciudades más bonitas de Europa.",
+        "Mercadillo de Navidad del Rynek.",
+        "Precios polacos."
+      ],
+      "levanteTip": "Probablemente agotado este año. Apunta King Swing (marzo, misma ciudad) como alternativa, y para Santa Swing 2027 compra en julio, cuando sale el early bird.",
+      "access": "Desde el aeropuerto KRK, tren al centro (≈ 20 min) y taxi o tranvía.",
+      "sources": [
+        "https://www.santaswing.pl/prices/",
+        "https://westiehub.dance/events/santa-swing-2026"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/santa-swing/",
+      "city": {
+        "name": "Cracovia",
+        "region": "Polonia",
+        "intro": "Joya medieval intacta, antigua capital real y una de las ciudades más bonitas (y baratas) de Europa. Tiene dos eventos WSDC al año: King Swing en primavera y Santa Swing en Navidad.",
+        "culture": [
+          "Rynek Główny, la plaza medieval más grande de Europa.",
+          "Castillo de Wawel y el barrio judío de Kazimierz.",
+          "Minas de sal de Wieliczka (≈ 30 min).",
+          "Visita a Auschwitz-Birkenau (≈ 1 h 30 min), dura pero necesaria."
+        ],
+        "food": [
+          "Pierogi y zapiekanka en Kazimierz.",
+          "Obwarzanek (rosca típica de Cracovia).",
+          "Oscypek (queso ahumado de montaña).",
+          "Mercadillo de Navidad del Rynek (en diciembre)."
+        ],
+        "climate": "Marzo: −1 a 9 °C. Diciembre: −4 a 3 °C.",
+        "airports": [
+          {
+            "code": "KRK",
+            "name": "Cracovia-Juan Pablo II",
+            "distance": "≈ 20–30 min del centro"
+          },
+          {
+            "code": "KTW",
+            "name": "Katowice",
+            "distance": "≈ 1 h 15 min"
+          }
+        ],
+        "train": "Kraków Główny.",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 3 h 30 min).",
+          "barcelona": "Vuelo directo (≈ 2 h 50 min).",
+          "valencia": "Vuelo directo según temporada o con escala.",
+          "alicante": "Vuelo directo (habitual con Ryanair, ≈ 3 h 15 min)."
+        }
+      }
+    },
+    {
+      "slug": "new-years-swing-fling",
+      "name": "New Year's Swing Fling",
+      "edition": "2026–27",
+      "region": "europa",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "cityId": "londres",
+      "venue": "Radisson RED Hotel London Heathrow",
+      "coords": [
+        51.4803,
+        -0.4434
+      ],
+      "start": "2026-12-30",
+      "end": "2027-01-03",
+      "dateStatus": "confirmed",
+      "dateNote": "10.ª edición. Un listado indica del 31 de diciembre al 4 de enero.",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "Nochevieja",
+        "hotel",
+        "aeropuerto"
+      ],
+      "beginner": 3,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "Pases",
+          "value": "Desconocido: consulta nysf.uk"
+        }
+      ],
+      "priceYear": "2026",
+      "website": "https://www.nysf.uk/",
+      "teachers": [
+        "Intensivo con J'Em el 30 de diciembre"
+      ],
+      "summary": {
+        "es": "Despide el año bailando en Londres: Nochevieja, workshops con profesores top y Jack & Jill de Newcomer a Masters.",
+        "en": "Ring in the New Year dancing in London: NYE party, top pros and Jack & Jills from Newcomer to Masters."
+      },
+      "description": "El New Year's Swing Fling celebra en 2026 su décima edición con fiesta de Nochevieja, workshops de alto nivel, competiciones WSDC (de Newcomer a Masters, más Hi-Lo Strictly) y sociales hasta tarde. El 30 de diciembre hay un intensivo con J'Em.",
+      "highlights": [
+        "Fiesta de Nochevieja bailando.",
+        "Jack & Jill WSDC de Newcomer a Masters.",
+        "Hi-Lo Strictly Swing."
+      ],
+      "levanteTip": "Compite con SwingVester (Austria) por el fin de año. Londres es más fácil de alcanzar desde Alicante y Valencia.",
+      "access": "Shuttle o bus local desde las terminales de Heathrow.",
+      "sources": [
+        "https://www.nysf.uk/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/new-years-swing-fling/",
+      "city": {
+        "name": "Londres (Heathrow)",
+        "region": "Inglaterra, Reino Unido",
+        "intro": "Varios de los grandes eventos británicos se celebran en hoteles pegados a Heathrow: llegas del avión a la pista sin pasar por el centro. Si te sobra un día, Londres está a 15 minutos en el Elizabeth Line o el Heathrow Express.",
+        "culture": [
+          "Westminster, el Big Ben y el London Eye.",
+          "Museos gratuitos: British Museum, National Gallery y Tate Modern.",
+          "Camden, Notting Hill y Covent Garden."
+        ],
+        "food": [
+          "Fish and chips.",
+          "Sunday roast en un pub.",
+          "Full English breakfast para recuperar fuerzas.",
+          "Afternoon tea con scones."
+        ],
+        "climate": "Noviembre–marzo: 3–11 °C y lluvia. Septiembre: 12–20 °C.",
+        "airports": [
+          {
+            "code": "LHR",
+            "name": "Heathrow",
+            "distance": "Los hoteles sede están junto al aeropuerto (≈ 5–10 min en shuttle o bus)"
+          },
+          {
+            "code": "LGW",
+            "name": "Gatwick",
+            "distance": "≈ 1 h 15 min"
+          },
+          {
+            "code": "STN",
+            "name": "Stansted / Luton",
+            "distance": "≈ 1 h 30 min"
+          }
+        ],
+        "train": "Eurostar desde París (≈ 2 h 20 min), si combinas viaje.",
+        "fromSpain": {
+          "madrid": "Vuelo directo a Heathrow (≈ 2 h 20 min).",
+          "barcelona": "Vuelo directo a Heathrow o Gatwick (≈ 2 h 10 min).",
+          "valencia": "Vuelo directo a Heathrow, Gatwick o Stansted.",
+          "alicante": "Muchísimos vuelos directos (Heathrow, Gatwick, Stansted, Luton), ≈ 2 h 30 min. Recuerda: para el Reino Unido necesitas pasaporte (el DNI no sirve) y la autorización electrónica ETA."
+        }
+      }
+    },
+    {
+      "slug": "swingvester",
+      "name": "SwingVester",
+      "edition": "2026–27",
+      "region": "europa",
+      "country": "Austria",
+      "countryCode": "AT",
+      "cityId": "wels",
+      "venue": "Tanzschule Hippmann, Pollheimerstraße 7, Wels (≈ 2.000 m² en 7 salas)",
+      "coords": [
+        48.1597,
+        14.0283
+      ],
+      "start": "2026-12-30",
+      "end": "2027-01-04",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "grande",
+      "tags": [
+        "Nochevieja",
+        "7 salas",
+        "Rising Star Tour",
+        "intensivos"
+      ],
+      "beginner": 3,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Workshop Pass",
+          "value": "160 € (versión en alemán: 150 €). Incluye 5 fiestas y acceso a competiciones."
+        },
+        {
+          "label": "Party Pass",
+          "value": "120 € (5 fiestas + acceso a competiciones)"
+        },
+        {
+          "label": "Intensivos",
+          "value": "90 € por persona e intensivo"
+        },
+        {
+          "label": "Inscripción a competición",
+          "value": "22 € por persona y división"
+        },
+        {
+          "label": "Paquetes con hotel",
+          "value": "480 € – 750 € (tienda swingticket.dance)"
+        }
+      ],
+      "priceYear": "2026–27",
+      "priceRefEUR": 160,
+      "priceNote": "La tienda swingticket.dance muestra un Workshop Ticket de 195 €: comprueba la tarifa vigente.",
+      "website": "https://www.swingvester.com/",
+      "summary": {
+        "es": "Cinco días de baile para despedir el año en Austria: 2.000 m² de pista en siete salas y competición WSDC.",
+        "en": "Five days of dancing to ring in the New Year in Austria: 2,000 m² of floors across seven rooms and WSDC competition."
+      },
+      "description": "SwingVester es la gran tradición de fin de año del WCS europeo. Se celebra en una escuela de baile enorme (≈ 2.000 m² repartidos en 7 salas) con workshops, intensivos, cinco fiestas incluida la de Nochevieja y competiciones WSDC del Rising Star Tour. Hay hoteles asociados a 2, 5 y 10 minutos a pie.",
+      "highlights": [
+        "Nochevieja bailando con cientos de westies.",
+        "7 salas: siempre hay sitio para bailar.",
+        "Hoteles asociados a pocos minutos a pie.",
+        "Salzburgo y Linz muy cerca."
+      ],
+      "levanteTip": "Plan de fin de año perfecto: vuelo a Múnich o Viena y tren a Wels. Si viajas antes del 30, Salzburgo nevado merece una parada.",
+      "access": "Desde Wels Hbf, ≈ 10–15 min a pie o en taxi. Hotel Kremsmünster a 2 min, Plaza Inn a 5 min, Ibis a 10 min.",
+      "sources": [
+        "https://www.swingvester.com/event-info/",
+        "https://www.swingvester.com/tickets/",
+        "https://www.swingvester.com/event-info/faq/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/swingvester/",
+      "city": {
+        "name": "Wels",
+        "region": "Alta Austria",
+        "intro": "Pequeña ciudad austriaca entre Linz y Salzburgo. Despedir el año bailando aquí es toda una tradición del circuito.",
+        "culture": [
+          "Stadtplatz, el casco histórico de Wels.",
+          "Linz (≈ 25 min): el Danubio y el Ars Electronica Center.",
+          "Salzburgo (≈ 1 h): la ciudad de Mozart, y aún más bonita nevada."
+        ],
+        "food": [
+          "Wiener Schnitzel.",
+          "Tafelspitz (ternera hervida).",
+          "Linzer Torte y Sachertorte.",
+          "Punsch y Glühwein navideño."
+        ],
+        "climate": "Fin de año: −3 a 4 °C, posibilidad de nieve.",
+        "airports": [
+          {
+            "code": "LNZ",
+            "name": "Linz",
+            "distance": "≈ 25 min"
+          },
+          {
+            "code": "SZG",
+            "name": "Salzburgo",
+            "distance": "≈ 1 h"
+          },
+          {
+            "code": "VIE",
+            "name": "Viena",
+            "distance": "≈ 2 h 30 min en tren"
+          },
+          {
+            "code": "MUC",
+            "name": "Múnich",
+            "distance": "≈ 2 h 30 min en tren"
+          }
+        ],
+        "train": "Wels Hbf: está en la línea principal Viena–Salzburgo.",
+        "fromSpain": {
+          "madrid": "Vuelo directo a Viena o Múnich y tren.",
+          "barcelona": "Vuelo directo a Viena, Múnich o Salzburgo y tren.",
+          "valencia": "Vuelo a Viena o Múnich (directo o con escala) y tren.",
+          "alicante": "Vuelo a Viena, Múnich o Memmingen según temporada y tren."
+        }
+      }
+    },
+    {
+      "slug": "budafest",
+      "name": "BudaFest Open WCS Championships",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Hungría",
+      "countryCode": "HU",
+      "cityId": "budapest",
+      "venue": "Hotel InterContinental Budapest (algunas clases en la Academia Húngara de Ciencias)",
+      "coords": [
+        47.4977,
+        19.0479
+      ],
+      "start": "2027-01-05",
+      "end": "2027-01-10",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "masivo",
+      "tags": [
+        "el más grande de Europa",
+        "nivel All-Star",
+        "maratón social",
+        "Danubio"
+      ],
+      "beginner": 2,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "Party Pass (late)",
+          "value": "165 €"
+        },
+        {
+          "label": "Workshop Pass vie–dom (late)",
+          "value": "230 € (agotado en la última consulta)"
+        },
+        {
+          "label": "Focus Workshop mar–mié (late)",
+          "value": "200 € (agotado)"
+        },
+        {
+          "label": "Social Marathon mié–jue (late)",
+          "value": "110 € (agotado)"
+        },
+        {
+          "label": "All-Star Pass",
+          "value": "130 € con juzgar · 180 € sin juzgar"
+        }
+      ],
+      "priceYear": "2027",
+      "priceRefEUR": 230,
+      "priceNote": "Inscripciones abiertas desde el 16/08/2026. Las tarifas super early y early ya han pasado.",
+      "website": "https://wcs-budafest.com/",
+      "summary": {
+        "es": "El «Super Bowl» del WCS europeo: el evento más grande del continente, a orillas del Danubio.",
+        "en": "The 'Super Bowl' of European WCS: the continent's biggest event, on the banks of the Danube."
+      },
+      "description": "BudaFest es el evento más grande de Europa, con más de mil asistentes, nivel All-Star y Champion en las finales, maratón social y días de intensivos antes del fin de semana principal. Se celebra en el InterContinental, frente al Danubio y el Puente de las Cadenas. Las entradas se agotan muy rápido.",
+      "highlights": [
+        "El evento más grande de Europa.",
+        "Finales con las estrellas mundiales del WCS.",
+        "Maratón social y días de Focus Workshops.",
+        "Balnearios termales para recuperar las piernas."
+      ],
+      "levanteTip": "Para tu primera vez, mejor como espectador y bailarín social: las preliminares de Newcomer y Novice son masivas. Vuelo directo desde Alicante y un baño en el Széchenyi obligatorio.",
+      "access": "Desde el aeropuerto, bus 100E al centro (≈ 35 min) o taxi. El hotel está junto al Puente de las Cadenas.",
+      "sources": [
+        "https://wcs-budafest.com/",
+        "https://wcs-budafest.com/tickets/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/budafest/",
+      "city": {
+        "name": "Budapest",
+        "region": "Hungría",
+        "intro": "Buda y Pest a ambos lados del Danubio: balnearios termales, arquitectura imperial y ruin bars. Es una ciudad muy asequible y el escenario del evento más grande de Europa.",
+        "culture": [
+          "Parlamento, Bastión de los Pescadores y el Castillo de Buda.",
+          "Balnearios Széchenyi y Gellért, perfectos para recuperar las piernas.",
+          "Ruin bars del barrio judío (Szimpla Kert).",
+          "Paseo nocturno junto al Danubio y el Puente de las Cadenas."
+        ],
+        "food": [
+          "Goulash (gulyás) y paprikás de pollo.",
+          "Lángos (masa frita con nata agria y queso).",
+          "Kürtőskalács (chimenea de dulce).",
+          "Vino de Tokaj y pálinka."
+        ],
+        "climate": "Enero: −4 a 3 °C. Noviembre: 1–9 °C.",
+        "airports": [
+          {
+            "code": "BUD",
+            "name": "Budapest-Ferenc Liszt",
+            "distance": "≈ 35 min al centro (bus 100E)"
+          }
+        ],
+        "train": "Keleti y Nyugati, con conexiones a Viena (≈ 2 h 40 min).",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 3 h 15 min).",
+          "barcelona": "Vuelo directo (≈ 2 h 40 min).",
+          "valencia": "Vuelo directo (habitual con Wizz Air/Ryanair).",
+          "alicante": "Vuelo directo (habitual con Wizz Air/Ryanair, ≈ 3 h)."
+        }
+      }
+    },
+    {
+      "slug": "avignon-city-swing",
+      "name": "Avignon City Swing",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Francia",
+      "countryCode": "FR",
+      "cityId": "nimes",
+      "venue": "202 rue Nicolas Ledoux, Nîmes",
+      "coords": [
+        43.8113,
+        4.3656
+      ],
+      "start": "2027-01-15",
+      "end": "2027-01-17",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "Provenza",
+        "patrimonio romano",
+        "invierno"
+      ],
+      "beginner": 4,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Full Pass",
+          "value": "150 € – 170 € según fecha de compra"
+        },
+        {
+          "label": "Event Pass",
+          "value": "100 € – 120 €"
+        }
+      ],
+      "priceYear": "2026 (referencia)",
+      "priceRefEUR": 160,
+      "website": "https://www.avignoncityswing.com/",
+      "teachers": [
+        "Philippe & Florencia",
+        "Joshua & Maïna"
+      ],
+      "summary": {
+        "es": "WSDC en Nîmes, la «Roma francesa», a 3 horas en tren desde Barcelona.",
+        "en": "WSDC event in Nîmes, the 'French Rome', 3 hours by train from Barcelona."
+      },
+      "description": "A pesar del nombre, el Avignon City Swing se celebra en Nîmes. Es un evento WSDC de tamaño medio con profesores de primer nivel, en una ciudad llena de patrimonio romano y con la Provenza a un paso. Muy bien conectado con España por tren.",
+      "highlights": [
+        "Tren directo desde Barcelona (≈ 3 h).",
+        "Profesores: Philippe & Florencia y Joshua & Maïna.",
+        "Primer evento WSDC del año en el sur de Francia."
+      ],
+      "levanteTip": "Combina AVE a Barcelona y tren a Nîmes: sin aeropuertos y con vistas. Una buena alternativa barata a los grandes eventos de enero.",
+      "access": "Desde la estación de Nîmes, taxi o bus urbano (≈ 15 min).",
+      "sources": [
+        "https://www.avignoncityswing.com/",
+        "https://www.thibaultandnicole.com/events/avignon-city-swing/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/avignon-city-swing/",
+      "city": {
+        "name": "Nîmes",
+        "region": "Occitania, Francia",
+        "intro": "La «Roma francesa»: tiene uno de los anfiteatros romanos mejor conservados del mundo y una Provenza a la vuelta de la esquina.",
+        "culture": [
+          "Arènes de Nîmes y la Maison Carrée.",
+          "Pont du Gard (≈ 25 min), el acueducto romano.",
+          "Avignon y su Palacio de los Papas (≈ 40 min)."
+        ],
+        "food": [
+          "Brandade de morue (crema de bacalao).",
+          "Aceitunas Picholine y aceite del Gard.",
+          "Costières de Nîmes (vino).",
+          "Croquants Villaret (galletas de almendra)."
+        ],
+        "climate": "Enero: 3–12 °C, seco y con mistral (viento frío del norte).",
+        "airports": [
+          {
+            "code": "FNI",
+            "name": "Nîmes-Garons",
+            "distance": "≈ 20 min (pocas rutas)"
+          },
+          {
+            "code": "MPL",
+            "name": "Montpellier",
+            "distance": "≈ 45 min"
+          },
+          {
+            "code": "MRS",
+            "name": "Marsella-Provenza",
+            "distance": "≈ 1 h 15 min"
+          }
+        ],
+        "train": "Nîmes y Nîmes-Pont du Gard: TGV/AVE directo con Barcelona (≈ 3 h).",
+        "fromSpain": {
+          "madrid": "AVE Madrid–Barcelona y tren a Nîmes (≈ 6 h 30 min en total), o vuelo a Marsella/Montpellier.",
+          "barcelona": "Tren directo (≈ 3 h) o coche (≈ 3 h 30 min).",
+          "valencia": "Coche (≈ 6 h 30 min) o tren vía Barcelona.",
+          "alicante": "Tren vía Barcelona o vuelo a Marsella con escala."
+        }
+      }
+    },
+    {
+      "slug": "swing-resolution",
+      "name": "Swing Resolution",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Reino Unido (Escocia)",
+      "countryCode": "GB-SCT",
+      "cityId": "edimburgo",
+      "venue": "Edimburgo (sede en la web oficial)",
+      "coords": [
+        55.9533,
+        -3.1883
+      ],
+      "start": "2027-01-21",
+      "end": "2027-01-25",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "amigable",
+        "temático",
+        "3 salones",
+        "invierno"
+      ],
+      "beginner": 5,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "Full Pass",
+          "value": "175 £ early bird · 185 £ normal"
+        },
+        {
+          "label": "Party Pass",
+          "value": "120 £ (sociales de noche)"
+        },
+        {
+          "label": "Student Pass",
+          "value": "50 £ (21 años o menos)"
+        }
+      ],
+      "priceYear": "2027",
+      "priceRefEUR": 215,
+      "priceNote": "El pase no incluye hotel. En 2026 hubo paquete pase + A&O Hotel, justo detrás de la sede.",
+      "website": "https://swingresolution.com/",
+      "summary": {
+        "es": "Cuatro noches de WCS en Edimburgo: el evento más amigable del circuito, con temática, tartas y tres salones.",
+        "en": "Four nights of WCS in Edinburgh: the friendliest event on the circuit, themed nights, cakes and three ballrooms."
+      },
+      "description": "Swing Resolution tiene fama de ser uno de los eventos más acogedores de Europa: noches temáticas, detalles caseros (las tartas son ya una leyenda) y tres salones de baile para que siempre haya hueco en la pista. Son cuatro noches de social, workshops inspiradores y competiciones WSDC en el corazón de Escocia.",
+      "highlights": [
+        "Ambiente súper acogedor, ideal si viajas por primera vez.",
+        "Noches temáticas y de disfraces.",
+        "Pase de estudiante a 50 £.",
+        "Edimburgo, una de las ciudades más bonitas de Europa."
+      ],
+      "levanteTip": "Muy recomendable como primer evento internacional. Desde Alicante hay vuelo directo. Saca la ETA británica con tiempo y lleva pasaporte.",
+      "access": "Tranvía o Airlink desde el aeropuerto de Edimburgo hasta el centro (≈ 30 min).",
+      "sources": [
+        "https://swingresolution.com/",
+        "https://swingresolution.com/products/leader-full-pass-2027"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/swing-resolution/",
+      "city": {
+        "name": "Edimburgo",
+        "region": "Escocia, Reino Unido",
+        "intro": "Castillo sobre un volcán, callejones medievales y pubs con música en directo. En enero es fría pero mágica, y la comunidad escocesa es famosa por lo acogedora que es.",
+        "culture": [
+          "Castillo de Edimburgo y la Royal Mile.",
+          "Subida a Arthur's Seat al amanecer.",
+          "Old Town, Victoria Street y el barrio de Dean Village."
+        ],
+        "food": [
+          "Haggis, neeps & tatties.",
+          "Desayuno escocés.",
+          "Whisky de malta (cata en la Royal Mile).",
+          "Shortbread y cranachan."
+        ],
+        "climate": "Enero: 1–7 °C, viento y pocas horas de luz. Abrigo, gorro y guantes.",
+        "airports": [
+          {
+            "code": "EDI",
+            "name": "Edimburgo",
+            "distance": "≈ 25–30 min del centro (tranvía o Airlink)"
+          }
+        ],
+        "train": "Waverley: trenes a Londres en ≈ 4 h 30 min.",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 2 h 40 min).",
+          "barcelona": "Vuelo directo (≈ 2 h 30 min).",
+          "valencia": "Vuelo directo según temporada, o vía Londres.",
+          "alicante": "Vuelo directo (habitual con Ryanair/Jet2, ≈ 3 h). Recuerda: para el Reino Unido necesitas pasaporte (el DNI no sirve) y la autorización electrónica ETA."
+        }
+      }
+    },
+    {
+      "slug": "swing-in-paris",
+      "name": "Swing In Paris",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Francia",
+      "countryCode": "FR",
+      "cityId": "paris",
+      "venue": "Le Méridien Paris Arc de Triomphe",
+      "coords": [
+        48.8794,
+        2.2846
+      ],
+      "start": "2027-01-22",
+      "end": "2027-01-24",
+      "dateStatus": "confirmed",
+      "dateNote": "La WSDC lo lista hasta el 25 de enero.",
+      "wsdc": "trial",
+      "size": "mediano",
+      "tags": [
+        "hotel",
+        "París",
+        "invierno"
+      ],
+      "beginner": 3,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "Full Pass",
+          "value": "160 € early bird (workshops + fiestas + competiciones)"
+        },
+        {
+          "label": "Social Pass",
+          "value": "150 € early (workshops + fiestas, sin competir)"
+        },
+        {
+          "label": "Party Pass",
+          "value": "120 € early (3 noches + acceso a competiciones)"
+        },
+        {
+          "label": "Overseas Full Pass",
+          "value": "130 € (residentes fuera de la UE)"
+        }
+      ],
+      "priceYear": "2027",
+      "priceRefEUR": 160,
+      "website": "https://swing-in-paris.com/en",
+      "summary": {
+        "es": "Evento WSDC Trial en pleno París, en el mismo hotel que el Paris Swing Classic.",
+        "en": "WSDC Trial event in central Paris, at the same hotel as Paris Swing Classic."
+      },
+      "description": "Swing In Paris es un evento WSDC en fase Trial (los puntos cuentan igual) que se celebra en Le Méridien, junto al Arco del Triunfo. Ofrece varios tipos de pase, incluido uno social sin competición, y habitaciones en el propio hotel.",
+      "highlights": [
+        "A pasos del Arco del Triunfo y los Campos Elíseos.",
+        "Pase Social para quien no quiere competir.",
+        "Habitaciones en el hotel sede, reservables con el pase."
+      ],
+      "levanteTip": "Si vas a París, elige entre este y el Paris Swing Classic (un mes después, mismo hotel). Swing In Paris suele ser algo más tranquilo.",
+      "access": "Metro Porte Maillot (línea 1) y RER C/E. Desde CDG, RER B + metro o el autobús Roissybus.",
+      "sources": [
+        "https://swing-in-paris.com/en",
+        "https://ouvibrer.fr/agenda/225483"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/swing-in-paris/",
+      "city": {
+        "name": "París",
+        "region": "Île-de-France, Francia",
+        "intro": "París es uno de los grandes polos del WCS europeo: acoge varios eventos al año y tiene un nivel técnico altísimo. Ideal para ver de cerca a profesionales de primera.",
+        "culture": [
+          "Torre Eiffel, Arco del Triunfo y los Campos Elíseos (junto a Le Méridien).",
+          "Louvre, Orsay y el Centro Pompidou.",
+          "Montmartre y el Sacré-Cœur.",
+          "Paseo en barco por el Sena."
+        ],
+        "food": [
+          "Croissant y pain au chocolat de boulangerie.",
+          "Steak frites o croque-monsieur en una brasserie.",
+          "Macarons y crêpes.",
+          "Quesos y vino natural en un bar à vins."
+        ],
+        "climate": "Enero–febrero: 2–9 °C. Mayo: 11–20 °C. Septiembre: 13–22 °C.",
+        "airports": [
+          {
+            "code": "CDG",
+            "name": "Charles de Gaulle",
+            "distance": "≈ 45 min del centro (RER B)"
+          },
+          {
+            "code": "ORY",
+            "name": "Orly",
+            "distance": "≈ 35 min (Orlyval/Metro 14)"
+          },
+          {
+            "code": "BVA",
+            "name": "Beauvais (low cost)",
+            "distance": "≈ 1 h 15 min en autobús"
+          }
+        ],
+        "train": "Gare de Lyon: TGV directo a Barcelona (≈ 6 h 30 min).",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 2 h). Muchas frecuencias diarias.",
+          "barcelona": "Vuelo directo (≈ 1 h 50 min) o TGV directo (≈ 6 h 30 min).",
+          "valencia": "Vuelo directo (≈ 2 h).",
+          "alicante": "Vuelo directo a CDG, Orly o Beauvais (≈ 2 h 10 min)."
+        }
+      }
+    },
+    {
+      "slug": "swingtzerland",
+      "name": "Swingtzerland",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Suiza",
+      "countryCode": "CH",
+      "cityId": "zurich",
+      "venue": "Zúrich (sede en la web oficial)",
+      "coords": [
+        47.3769,
+        8.5417
+      ],
+      "start": "2027-02-04",
+      "end": "2027-02-07",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "grande",
+      "tags": [
+        "alta gama",
+        "nivel alto",
+        "invierno alpino"
+      ],
+      "beginner": 2,
+      "costLevel": 3,
+      "soldOut": true,
+      "prices": [
+        {
+          "label": "Event Pass",
+          "value": "AGOTADO para 2027"
+        },
+        {
+          "label": "Referencia 2024",
+          "value": "Full Pass desde 210 CHF"
+        }
+      ],
+      "priceYear": "2024 (referencia)",
+      "priceRefEUR": 225,
+      "website": "http://www.swingtzerland.ch/",
+      "summary": {
+        "es": "El clásico suizo de alta gama en Zúrich: nivel altísimo, organización impecable y precios a juego.",
+        "en": "The upscale Swiss classic in Zurich: very high level, flawless organisation and prices to match."
+      },
+      "description": "Swingtzerland es uno de los históricos del circuito europeo, conocido por su organización suiza y su nivel competitivo alto. Es también uno de los más caros: el pase y, sobre todo, el alojamiento en Zúrich. Los pases de 2027 ya están agotados.",
+      "highlights": [
+        "Organización impecable.",
+        "Nivel competitivo alto.",
+        "Zúrich, el lago y los Alpes."
+      ],
+      "levanteTip": "Agotado en 2027. Si quieres ir en 2028, presupuesta alto y compra el primer día de inscripción.",
+      "access": "Tren desde el aeropuerto de Zúrich al centro (≈ 12 min).",
+      "sources": [
+        "http://www.swingtzerland.ch/index_ger.php",
+        "https://www.yourdancebuddy.com/events/swingtzerland-2027"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/swingtzerland/",
+      "city": {
+        "name": "Zúrich",
+        "region": "Suiza",
+        "intro": "La ciudad más grande de Suiza: lago, Alpes en el horizonte y una calidad de vida altísima. También es la más cara del circuito, así que planifica el presupuesto.",
+        "culture": [
+          "Altstadt, el Grossmünster y la Bahnhofstrasse.",
+          "Paseo por el lago de Zúrich.",
+          "Excursión a las cataratas del Rin (≈ 45 min)."
+        ],
+        "food": [
+          "Zürcher Geschnetzeltes con rösti.",
+          "Fondue y raclette.",
+          "Chocolate suizo (Sprüngli y Läderach).",
+          "Luxemburgerli (mini macarons)."
+        ],
+        "climate": "Febrero: −2 a 6 °C, posibles nevadas.",
+        "airports": [
+          {
+            "code": "ZRH",
+            "name": "Zúrich",
+            "distance": "≈ 12 min en tren al centro"
+          },
+          {
+            "code": "BSL",
+            "name": "Basilea-Mulhouse",
+            "distance": "≈ 1 h 15 min (alternativa low cost)"
+          }
+        ],
+        "train": "Zürich HB: red ferroviaria suiza, puntual y cara.",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 2 h 20 min).",
+          "barcelona": "Vuelo directo (≈ 1 h 50 min).",
+          "valencia": "Vuelo directo (habitual con Swiss).",
+          "alicante": "Vuelo directo según temporada, o a Basilea (easyJet) y tren."
+        }
+      }
+    },
+    {
+      "slug": "trinity-swing",
+      "name": "Trinity Swing",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Irlanda",
+      "countryCode": "IE",
+      "cityId": "dundalk",
+      "venue": "Carrickdale Hotel & Spa ****, Dundalk",
+      "coords": [
+        54.0544,
+        -6.3333
+      ],
+      "start": "2027-02-05",
+      "end": "2027-02-07",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "boutique",
+      "tags": [
+        "spa",
+        "hotel",
+        "primer WSDC de Irlanda",
+        "aforo limitado"
+      ],
+      "beginner": 5,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Pases",
+          "value": "Desconocido. Aforo limitado: en 2026 se llenó."
+        }
+      ],
+      "priceYear": "2027",
+      "website": "https://www.trinityswing.com/",
+      "summary": {
+        "es": "El primer evento WSDC de Irlanda, en un hotel-spa: 4 niveles de workshops, 3 noches y 2 salones.",
+        "en": "Ireland's first WSDC event, at a spa hotel: 4 workshop levels, 3 party nights and 2 ballrooms."
+      },
+      "description": "Tras su edición Trial, Trinity Swing se convirtió en el primer evento registrado WSDC de Irlanda. La tercera edición vuelve al Carrickdale Hotel & Spa, con 4 niveles de workshops, 3 noches de fiesta y 2 salones. Tras llenarse el año pasado, este año limitan las entradas.",
+      "highlights": [
+        "Spa en el hotel para recuperar después de bailar.",
+        "Formato boutique y aforo limitado.",
+        "4 niveles de workshops."
+      ],
+      "levanteTip": "Desde Alicante hay vuelos directos a Dublín y desde allí 1 hora de bus. Compra pronto: el aforo es limitado. Irlanda está en la UE: basta el DNI.",
+      "access": "Bus o coche desde el aeropuerto de Dublín (≈ 1 h).",
+      "sources": [
+        "https://www.trinityswing.com/",
+        "https://eastonswing.com/west-coast-swing-events/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/trinity-swing/",
+      "city": {
+        "name": "Dundalk",
+        "region": "Condado de Louth, Irlanda",
+        "intro": "Ciudad irlandesa a medio camino entre Dublín y Belfast. El festival se celebra en un hotel-spa rodeado de colinas: ambiente íntimo, chimeneas y pintas.",
+        "culture": [
+          "Península de Cooley y los paisajes de la leyenda de Cú Chulainn.",
+          "Monasterboice y Mellifont, joyas monásticas medievales.",
+          "Escapada a Dublín (≈ 1 h): Trinity College y Temple Bar."
+        ],
+        "food": [
+          "Irish stew.",
+          "Seafood chowder con pan de soda.",
+          "Pinta de Guinness (aquí sabe distinta).",
+          "Full Irish breakfast."
+        ],
+        "climate": "Febrero: 3–9 °C, húmedo y ventoso.",
+        "airports": [
+          {
+            "code": "DUB",
+            "name": "Dublín",
+            "distance": "≈ 1 h en coche o autobús"
+          },
+          {
+            "code": "BFS",
+            "name": "Belfast International",
+            "distance": "≈ 1 h 15 min"
+          }
+        ],
+        "train": "Estación de Dundalk: línea Enterprise Dublín–Belfast.",
+        "fromSpain": {
+          "madrid": "Vuelo directo a Dublín (≈ 2 h 30 min).",
+          "barcelona": "Vuelo directo a Dublín (≈ 2 h 30 min).",
+          "valencia": "Vuelo directo a Dublín (habitual).",
+          "alicante": "Vuelo directo a Dublín (muy habitual, ≈ 2 h 50 min)."
+        }
+      }
+    },
+    {
+      "slug": "euro-dance-festival",
+      "name": "Euro Dance Festival (WSDC)",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "cityId": "rust",
+      "venue": "Europa-Park, Rust",
+      "coords": [
+        48.266,
+        7.7221
+      ],
+      "start": "2027-02-09",
+      "end": "2027-02-14",
+      "dateStatus": "confirmed",
+      "dateNote": "Festival del 9 al 14 de febrero. La competición WSDC es el sábado 13 de febrero de 2027.",
+      "wsdc": "registry",
+      "size": "masivo",
+      "tags": [
+        "multiestilo",
+        "parque temático",
+        "hoteles temáticos"
+      ],
+      "beginner": 3,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "WCS Eventpass (11–13 feb.)",
+          "value": "99 €"
+        },
+        {
+          "label": "Pase de festival de 6 días",
+          "value": "599 € (hasta 31/10/2026) → 679 € (febrero) → 699 € en taquilla"
+        },
+        {
+          "label": "Entrada de día",
+          "value": "119 € – 149 €"
+        },
+        {
+          "label": "Jack & Jill WSDC",
+          "value": "20 € por inscripción (requiere entrada válida)"
+        },
+        {
+          "label": "Hoteles Europa-Park",
+          "value": "107 € individual · 160 € doble · 189 € triple · 226 € cuádruple por noche, con desayuno (código «Euro Dance Festival»)"
+        }
+      ],
+      "priceYear": "2027",
+      "priceRefEUR": 99,
+      "priceNote": "El hotel Colosseo estará cerrado por reformas a principios de 2027.",
+      "website": "https://www.euro-dance-festival.com/en/rust/wsdc/",
+      "summary": {
+        "es": "Megafestival multiestilo dentro de Europa-Park, con sala de WCS hasta las 3:00 y competición WSDC el sábado.",
+        "en": "A huge multi-style festival inside Europa-Park, with a WCS area until 3 am and WSDC competition on Saturday."
+      },
+      "description": "El Euro Dance Festival es un festival enorme de muchos estilos (salsa, bachata, kizomba, WCS...) en los hoteles temáticos de Europa-Park. El área de West Coast Swing abre hasta las 3:00 el viernes y el sábado, y el sábado 13 se celebra la competición WSDC. Existe un pase específico de WCS mucho más barato que el pase general.",
+      "highlights": [
+        "Pase WCS específico por 99 €.",
+        "Hoteles temáticos dentro del parque.",
+        "Puedes probar otros estilos en las salas vecinas."
+      ],
+      "levanteTip": "Compra solo el WCS Eventpass (99 €) si vas a por el West: el pase general es para quien también baila otros estilos. Vuela a Basilea desde Alicante o Valencia.",
+      "access": "Shuttle o coche desde Basilea o Estrasburgo. Estación Ringsheim/Europa-Park.",
+      "sources": [
+        "https://www.euro-dance-festival.com/en/rust/wsdc/",
+        "https://www.euro-dance-festival.com/en/rust/tickets-preise/",
+        "https://shop.gutmann-events.de/de/edf/47.html"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/euro-dance-festival/",
+      "city": {
+        "name": "Rust (Europa-Park)",
+        "region": "Baden-Wurtemberg, Alemania",
+        "intro": "El festival se celebra dentro de Europa-Park, el mayor parque temático de Alemania: hoteles temáticos, varias salas y miles de bailarines de muchos estilos.",
+        "culture": [
+          "Europa-Park y Rulantica (parque acuático cubierto).",
+          "Estrasburgo (≈ 45 min): catedral y la Petite France.",
+          "Friburgo y la Selva Negra (≈ 40 min)."
+        ],
+        "food": [
+          "Flammkuchen (tarte flambée).",
+          "Tarta Selva Negra.",
+          "Spätzle y Maultaschen.",
+          "Vinos de Baden."
+        ],
+        "climate": "Febrero: −1 a 7 °C.",
+        "airports": [
+          {
+            "code": "BSL",
+            "name": "Basilea-Mulhouse-Friburgo",
+            "distance": "≈ 1 h"
+          },
+          {
+            "code": "SXB",
+            "name": "Estrasburgo",
+            "distance": "≈ 45 min"
+          },
+          {
+            "code": "FKB",
+            "name": "Karlsruhe/Baden-Baden",
+            "distance": "≈ 1 h"
+          }
+        ],
+        "train": "Estación Ringsheim/Europa-Park, con shuttle al parque.",
+        "fromSpain": {
+          "madrid": "Vuelo directo a Basilea (easyJet) y coche o shuttle.",
+          "barcelona": "Vuelo directo a Basilea (≈ 1 h 40 min).",
+          "valencia": "Vuelo directo a Basilea (habitual con easyJet).",
+          "alicante": "Vuelo directo a Basilea (habitual con easyJet)."
+        }
+      }
+    },
+    {
+      "slug": "arousa-westie-fest",
+      "name": "Arousa Westie Fest",
+      "edition": "2027",
+      "region": "espana",
+      "country": "España",
+      "countryCode": "ES",
+      "cityId": "sanxenxo",
+      "venue": "Hotel Carlos I Silgar ****, Sanxenxo",
+      "coords": [
+        42.4006,
+        -8.8086
+      ],
+      "start": "2027-02-18",
+      "end": "2027-02-21",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "boutique",
+      "tags": [
+        "hotel",
+        "gastronomía",
+        "mar",
+        "puntos al inicio de año"
+      ],
+      "beginner": 5,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Full Pass",
+          "value": "145 € early bird (20 pases, en pareja) · 165 € normal · 185 € late"
+        },
+        {
+          "label": "Party Pass",
+          "value": "110 € early (20 pases) · 130 € general"
+        },
+        {
+          "label": "All-Star Pass",
+          "value": "Gratis (puede incluir juzgar o hacer de taxi dancer)"
+        },
+        {
+          "label": "Descuentos",
+          "value": "−35 % para menores de 18 años en tarifas normal y late"
+        }
+      ],
+      "priceYear": "2027",
+      "priceRefEUR": 165,
+      "priceNote": "El alojamiento y las comidas se reservan directamente con el hotel, escribiendo a reservas@hotelcarlos.es con el asunto «WESTIE FEST 2027».",
+      "website": "https://www.arousawestiefest.com/",
+      "summary": {
+        "es": "El evento boutique de Galicia: competición WSDC sin preliminares masivas, marisco, albariño y hospitalidad atlántica.",
+        "en": "Galicia's boutique WSDC event: competitions without huge prelims, seafood, Albariño wine and Atlantic hospitality."
+      },
+      "description": "El Arousa Westie Fest abre la temporada española de puntos. Como es un evento boutique, el aforo es más reducido que en las grandes convenciones europeas: las rondas preliminares son más cortas y los jueces te ven más veces, algo clave si buscas tus primeros puntos. Todo ocurre en un único hotel frente a la playa de Silgar (clases, competiciones y sociales), y la parte gastronómica es tan protagonista como la pista.",
+      "highlights": [
+        "Ideal para debutar en Newcomer o Novice: preliminares menos multitudinarias.",
+        "Formato hotel: duermes, comes y bailas en el mismo edificio.",
+        "Gastronomía gallega de primer nivel y albariño de la D.O. Rías Baixas.",
+        "Primera cita WSDC del año en España."
+      ],
+      "levanteTip": "Es nuestra recomendación n.º 1 para tu primer Jack & Jill. Reserva el early bird en pareja (leader + follower del mismo nivel) en cuanto abran: solo hay 20 plazas. Compartir coche desde el Levante sale caro por la distancia; lo práctico es volar a Santiago o Vigo y compartir un taxi o un coche de alquiler.",
+      "access": "El hotel está en el paseo de Silgar, en el centro de Sanxenxo. Desde Vigo o Santiago no hay transporte público directo cómodo: coche de alquiler o taxi compartido.",
+      "sources": [
+        "https://www.arousawestiefest.com/",
+        "https://thedanceatlas.com/countries/spain/styles/west-coast-swing"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/arousa-westie-fest/",
+      "city": {
+        "name": "Sanxenxo",
+        "region": "Pontevedra, Galicia",
+        "intro": "Capital turística de las Rías Baixas, a orillas de la ría de Pontevedra. En febrero es un pueblo tranquilo, sin aglomeraciones, con paseos frente al Atlántico y luz de invierno preciosa.",
+        "culture": [
+          "Paseo marítimo de Silgar y su playa urbana, a pie del hotel del evento.",
+          "Excursión a Pontevedra (25 min): casco histórico peatonal, uno de los mejor conservados de Galicia.",
+          "Mirador de A Lanzada y la ermita románica junto al mar."
+        ],
+        "food": [
+          "Marisco de las rías: navajas, almejas, zamburiñas y mejillón.",
+          "Pulpo á feira con cachelos.",
+          "Vino Albariño (estás en plena D.O. Rías Baixas).",
+          "Tarta de Santiago y filloas de postre."
+        ],
+        "climate": "Febrero atlántico: 8–15 °C y lluvia frecuente. Lleva chubasquero y algo de abrigo para salir entre sesiones.",
+        "airports": [
+          {
+            "code": "VGO",
+            "name": "Vigo-Peinador",
+            "distance": "≈ 45 min en coche"
+          },
+          {
+            "code": "SCQ",
+            "name": "Santiago-Rosalía de Castro",
+            "distance": "≈ 1 h en coche"
+          }
+        ],
+        "train": "Estación de Pontevedra (≈ 25 min en taxi o bus a Sanxenxo).",
+        "fromSpain": {
+          "madrid": "AVE/Alvia Madrid–Pontevedra (≈ 4 h) o vuelo a Vigo/Santiago (≈ 1 h 10 min).",
+          "barcelona": "Vuelo directo a Santiago o Vigo (≈ 1 h 40 min).",
+          "valencia": "Vuelo a Santiago (directo según temporada) o tren vía Madrid (≈ 6–7 h).",
+          "alicante": "Vuelo a Santiago (directo según temporada) o con escala en Madrid. En tren, vía Madrid (≈ 7 h)."
+        }
+      }
+    },
+    {
+      "slug": "prague-alchemy-swing",
+      "name": "Prague Alchemy Swing",
+      "edition": "2027",
+      "region": "europa",
+      "country": "República Checa",
+      "countryCode": "CZ",
+      "cityId": "praga",
+      "venue": "Praga (sede en la web oficial)",
+      "coords": [
+        50.0755,
+        14.4378
+      ],
+      "start": "2027-02-19",
+      "end": "2027-02-21",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "Praga",
+        "invierno",
+        "intensivo"
+      ],
+      "beginner": 3,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Full Pass (2026)",
+          "value": "165 € (hasta agosto) → 205 € (última tarifa)"
+        },
+        {
+          "label": "Party Pass (2026)",
+          "value": "150 €"
+        },
+        {
+          "label": "All-Star Pass (2026)",
+          "value": "90 €"
+        },
+        {
+          "label": "Intensivo / pre-party",
+          "value": "80 € / 15 €"
+        },
+        {
+          "label": "Competición",
+          "value": "20 € por división"
+        }
+      ],
+      "priceYear": "2026 (referencia)",
+      "priceRefEUR": 205,
+      "website": "https://praguealchemyswing.cz/",
+      "summary": {
+        "es": "WSDC en la ciudad de las cien torres, a mediados de febrero.",
+        "en": "WSDC event in the city of a hundred spires, in mid-February."
+      },
+      "description": "Prague Alchemy Swing es el evento WSDC de la capital checa: workshops, intensivo, pre-party el jueves y competiciones oficiales. Praga en invierno, con niebla sobre el Moldava, es preciosa.",
+      "highlights": [
+        "Praga invernal.",
+        "Intensivo previo.",
+        "Cerveza checa a precio checo."
+      ],
+      "levanteTip": "Las tarifas suben mucho con el tiempo (de 165 a 205 €): compra en verano.",
+      "access": "Desde el aeropuerto, bus + metro (≈ 40 min) o taxi (≈ 30 min).",
+      "sources": [
+        "https://praguealchemyswing.cz/",
+        "https://praguealchemyswing.cz/passes"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/prague-alchemy-swing/",
+      "city": {
+        "name": "Praga",
+        "region": "República Checa",
+        "intro": "La ciudad de las cien torres: puentes góticos, cerveza legendaria y un invierno de postal.",
+        "culture": [
+          "Puente de Carlos y el Castillo de Praga.",
+          "Plaza de la Ciudad Vieja y su reloj astronómico.",
+          "Barrio judío (Josefov) y Malá Strana."
+        ],
+        "food": [
+          "Svíčková (solomillo en salsa de nata con knedlíky).",
+          "Goulash checo con cerveza.",
+          "Trdelník (aunque es más turístico que tradicional).",
+          "Pilsner Urquell de barril, la mejor del mundo según los checos."
+        ],
+        "climate": "Febrero: −3 a 4 °C.",
+        "airports": [
+          {
+            "code": "PRG",
+            "name": "Praga-Václav Havel",
+            "distance": "≈ 30 min del centro"
+          }
+        ],
+        "train": "Praha hlavní nádraží.",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 3 h).",
+          "barcelona": "Vuelo directo (≈ 2 h 30 min).",
+          "valencia": "Vuelo directo según temporada o con escala.",
+          "alicante": "Vuelo directo según temporada o con escala."
+        }
+      }
+    },
+    {
+      "slug": "paris-swing-classic",
+      "name": "Paris Swing Classic",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Francia",
+      "countryCode": "FR",
+      "cityId": "paris",
+      "venue": "Le Méridien Paris Arc de Triomphe (≈ 2.000 m² de pista)",
+      "coords": [
+        48.8794,
+        2.2846
+      ],
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "dateStatus": "confirmed",
+      "dateNote": "Algunos listados lo alargan hasta el 1 de marzo.",
+      "wsdc": "registry",
+      "size": "grande",
+      "tags": [
+        "hotel",
+        "París",
+        "nivel alto"
+      ],
+      "beginner": 3,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "Full Pass",
+          "value": "170 € (tarifa super bird)"
+        },
+        {
+          "label": "Party Pass",
+          "value": "130 €"
+        },
+        {
+          "label": "All-Star / Junior / Overseas",
+          "value": "−50 %"
+        }
+      ],
+      "priceYear": "2027",
+      "priceRefEUR": 170,
+      "website": "https://parisswingclassic.com/",
+      "summary": {
+        "es": "Gran WSDC parisino con unos 2.000 m² de pista en un cuatro estrellas junto a los Campos Elíseos.",
+        "en": "Major Parisian WSDC event with about 2,000 m² of dance floor in a 4-star hotel by the Champs-Élysées."
+      },
+      "description": "El Paris Swing Classic es uno de los grandes eventos franceses del registro WSDC: una pista enorme, nivel muy alto y habitaciones con descuento para los asistentes en el propio hotel.",
+      "highlights": [
+        "Alrededor de 2.000 m² de pista.",
+        "Habitaciones premium con descuento para asistentes.",
+        "Descuentos del 50 % para All-Stars, juniors y overseas."
+      ],
+      "levanteTip": "Desde Alicante hay vuelos directos a París casi a diario. Reserva el super bird en cuanto abra: las tarifas suben rápido.",
+      "access": "Metro Porte Maillot (línea 1) y RER C/E.",
+      "sources": [
+        "https://parisswingclassic.com/",
+        "https://thedanceatlas.com/events/paris-swing-classic-2027-wsdc-registry-event/123267"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/paris-swing-classic/",
+      "city": {
+        "name": "París",
+        "region": "Île-de-France, Francia",
+        "intro": "París es uno de los grandes polos del WCS europeo: acoge varios eventos al año y tiene un nivel técnico altísimo. Ideal para ver de cerca a profesionales de primera.",
+        "culture": [
+          "Torre Eiffel, Arco del Triunfo y los Campos Elíseos (junto a Le Méridien).",
+          "Louvre, Orsay y el Centro Pompidou.",
+          "Montmartre y el Sacré-Cœur.",
+          "Paseo en barco por el Sena."
+        ],
+        "food": [
+          "Croissant y pain au chocolat de boulangerie.",
+          "Steak frites o croque-monsieur en una brasserie.",
+          "Macarons y crêpes.",
+          "Quesos y vino natural en un bar à vins."
+        ],
+        "climate": "Enero–febrero: 2–9 °C. Mayo: 11–20 °C. Septiembre: 13–22 °C.",
+        "airports": [
+          {
+            "code": "CDG",
+            "name": "Charles de Gaulle",
+            "distance": "≈ 45 min del centro (RER B)"
+          },
+          {
+            "code": "ORY",
+            "name": "Orly",
+            "distance": "≈ 35 min (Orlyval/Metro 14)"
+          },
+          {
+            "code": "BVA",
+            "name": "Beauvais (low cost)",
+            "distance": "≈ 1 h 15 min en autobús"
+          }
+        ],
+        "train": "Gare de Lyon: TGV directo a Barcelona (≈ 6 h 30 min).",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 2 h). Muchas frecuencias diarias.",
+          "barcelona": "Vuelo directo (≈ 1 h 50 min) o TGV directo (≈ 6 h 30 min).",
+          "valencia": "Vuelo directo (≈ 2 h).",
+          "alicante": "Vuelo directo a CDG, Orly o Beauvais (≈ 2 h 10 min)."
+        }
+      }
+    },
+    {
+      "slug": "winter-coast-swing",
+      "name": "Winter Coast Swing",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Finlandia",
+      "countryCode": "FI",
+      "cityId": "leppavirta",
+      "venue": "Sport & Spa Hotel Vesileppis, Leppävirta (pista de 450 m²)",
+      "coords": [
+        62.4911,
+        27.7867
+      ],
+      "start": "2027-02-25",
+      "end": "2027-02-28",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "boutique",
+      "tags": [
+        "spa",
+        "nieve",
+        "todo en un edificio",
+        "experiencia única"
+      ],
+      "beginner": 4,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Pases",
+          "value": "Desconocido. Consulta wintercoastswing.com"
+        }
+      ],
+      "priceYear": "2027",
+      "website": "https://www.wintercoastswing.com/",
+      "summary": {
+        "es": "WSDC en un hotel-spa de la región de los lagos de Finlandia: pista, habitación, sauna y túnel de esquí bajo el mismo techo.",
+        "en": "WSDC event at a spa hotel in Finnish Lakeland: dance floor, room, sauna and ski tunnel under one roof."
+      },
+      "description": "Winter Coast Swing es uno de los dos eventos WSDC de Finlandia (el otro es Finnfest). El hotel Vesileppis lo tiene todo en un edificio: pista principal de 450 m², habitaciones, desayuno, spa, túnel de esquí indoor y pista de hielo. El hotel se llena: reserva habitación pronto.",
+      "highlights": [
+        "Todo en el mismo edificio: no hace falta salir al frío.",
+        "Spa y sauna finlandesa.",
+        "Posibilidad de ver auroras boreales."
+      ],
+      "levanteTip": "El viaje es largo (Helsinki + conexión a Kuopio), así que combínalo con Helsinki. Es una experiencia que no se olvida.",
+      "access": "Desde el aeropuerto de Kuopio, ≈ 45 min en coche o traslado.",
+      "sources": [
+        "https://www.wintercoastswing.com/",
+        "https://www.vesileppis.fi/en/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/winter-coast-swing/",
+      "city": {
+        "name": "Leppävirta",
+        "region": "Savonia del Norte, Finlandia",
+        "intro": "Un hotel-spa en plena región de los lagos de Finlandia: lagos helados, sauna y una pista de 450 m² con todo bajo el mismo techo. Es un festival invernal único.",
+        "culture": [
+          "Sauna finlandesa y baño en hielo (avanto), si te atreves.",
+          "Kuopio (≈ 45 min) y la colina de Puijo.",
+          "Paseos por lagos helados y posibles auroras boreales."
+        ],
+        "food": [
+          "Kalakukko (pan relleno de pescado) de Savonia.",
+          "Sopa de salmón (lohikeitto).",
+          "Karjalanpiirakka (empanadillas de Carelia).",
+          "Café, mucho café: los finlandeses son los mayores consumidores del mundo."
+        ],
+        "climate": "Febrero: −15 a −3 °C. Ropa térmica obligatoria.",
+        "airports": [
+          {
+            "code": "KUO",
+            "name": "Kuopio",
+            "distance": "≈ 45 min"
+          },
+          {
+            "code": "HEL",
+            "name": "Helsinki-Vantaa",
+            "distance": "≈ 4 h en tren o coche"
+          }
+        ],
+        "train": "Estación de Kuopio o Varkaus, más un traslado.",
+        "fromSpain": {
+          "madrid": "Vuelo a Helsinki (≈ 4 h 30 min) y conexión a Kuopio.",
+          "barcelona": "Vuelo a Helsinki y conexión a Kuopio.",
+          "valencia": "Vuelo a Helsinki con escala y conexión.",
+          "alicante": "Vuelo a Helsinki (directo según temporada) y conexión."
+        }
+      }
+    },
+    {
+      "slug": "dutch-open-wcs",
+      "name": "Dutch Open West Coast Swing",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Países Bajos",
+      "countryCode": "NL",
+      "cityId": "venray",
+      "venue": "Hotel Asteria, Venray (sede 2026)",
+      "coords": [
+        51.5259,
+        5.9746
+      ],
+      "start": "2027-03-11",
+      "end": "2027-03-14",
+      "dateStatus": "tentative",
+      "dateNote": "La edición 2026 fue del 12 al 15 de marzo. Fechas de 2027 sin publicar.",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "hotel",
+        "premium"
+      ],
+      "beginner": 3,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "Pases",
+          "value": "Desconocido. Los asistentes lo describen como un evento «premium»."
+        }
+      ],
+      "priceYear": "—",
+      "website": "https://www.yourdancebuddy.com/events/dutch-open-west-coast-swing-2026",
+      "summary": {
+        "es": "El evento WSDC histórico de los Países Bajos, en formato hotel.",
+        "en": "The Netherlands' long-running WSDC event, in hotel format."
+      },
+      "description": "El Dutch Open es desde hace años el evento WSDC de referencia en los Países Bajos. Se celebra en formato hotel en Venray, cerca de Eindhoven y de la frontera alemana.",
+      "highlights": [
+        "Formato hotel: todo bajo el mismo techo.",
+        "Cerca del aeropuerto de Eindhoven."
+      ],
+      "levanteTip": "Vuelo a Eindhoven desde Alicante o Valencia y tren a Venray.",
+      "access": "Tren desde Eindhoven o taxi desde el aeropuerto de Weeze.",
+      "sources": [
+        "https://www.yourdancebuddy.com/events/dutch-open-west-coast-swing-2026"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/dutch-open-wcs/",
+      "city": {
+        "name": "Venray",
+        "region": "Limburgo, Países Bajos",
+        "intro": "Localidad holandesa cerca de la frontera alemana. El evento es de formato hotel cerrado: todo pasa en el mismo edificio.",
+        "culture": [
+          "Parque Nacional De Maasduinen.",
+          "Maastricht (≈ 1 h): una de las ciudades más bonitas de Holanda.",
+          "Eindhoven (≈ 40 min): diseño y el museo Van Abbe."
+        ],
+        "food": [
+          "Bitterballen y kroketten.",
+          "Vlaai de Limburgo (tarta de frutas).",
+          "Stroopwafels.",
+          "Quesos holandeses."
+        ],
+        "climate": "Marzo: 2–11 °C.",
+        "airports": [
+          {
+            "code": "EIN",
+            "name": "Eindhoven",
+            "distance": "≈ 40 min"
+          },
+          {
+            "code": "NRN",
+            "name": "Weeze (low cost)",
+            "distance": "≈ 35 min"
+          },
+          {
+            "code": "AMS",
+            "name": "Ámsterdam-Schiphol",
+            "distance": "≈ 2 h en tren"
+          }
+        ],
+        "train": "Estación de Venray, con conexión a Eindhoven y Nimega.",
+        "fromSpain": {
+          "madrid": "Vuelo directo a Eindhoven o Ámsterdam.",
+          "barcelona": "Vuelo directo a Eindhoven o Ámsterdam.",
+          "valencia": "Vuelo directo a Eindhoven (habitual con Ryanair/Transavia).",
+          "alicante": "Vuelo directo a Eindhoven o Ámsterdam (habitual)."
+        }
+      }
+    },
+    {
+      "slug": "west-in-lyon",
+      "name": "West In Lyon",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Francia",
+      "countryCode": "FR",
+      "cityId": "lyon",
+      "venue": "Lyon (sede en la web oficial)",
+      "coords": [
+        45.764,
+        4.8357
+      ],
+      "start": "2027-03-18",
+      "end": "2027-03-21",
+      "dateStatus": "confirmed",
+      "dateNote": "La WSDC lo lista hasta el 22 de marzo.",
+      "wsdc": "registry",
+      "size": "grande",
+      "tags": [
+        "gastronomía",
+        "shows",
+        "routines"
+      ],
+      "beginner": 3,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Full Pass (2026)",
+          "value": "170 € (desde 1 dic.) · 180 € (desde 2 feb.) · 200 € en puerta"
+        },
+        {
+          "label": "Event Pass (2026)",
+          "value": "140 € online · 150 € en puerta (fiestas + competir, sin workshops)"
+        },
+        {
+          "label": "Foreign Pass (2026)",
+          "value": "150 € full / 90 € event (países no fronterizos con Francia; España es fronteriza)"
+        },
+        {
+          "label": "Strictly / Routine",
+          "value": "30–40 € / 60–80 € por inscripción"
+        }
+      ],
+      "priceYear": "2026 (referencia)",
+      "priceRefEUR": 180,
+      "priceNote": "El early bird suele abrir el 1 de diciembre del año anterior.",
+      "website": "https://www.west-in-lyon.fr/",
+      "summary": {
+        "es": "Uno de los grandes WSDC franceses de primavera, en la capital gastronómica de Francia.",
+        "en": "One of France's big spring WSDC events, in the country's food capital."
+      },
+      "description": "West In Lyon reúne workshops, fiestas, competiciones (Jack & Jill, Strictly y Routines) y shows. La comunidad lionesa es muy activa, y el evento combina nivel competitivo alto con una ciudad ideal para comer bien.",
+      "highlights": [
+        "Jack & Jill, Strictly y Routines.",
+        "Shows de profesionales.",
+        "Lyon: bouchons, Vieux Lyon y TGV directo desde Barcelona."
+      ],
+      "levanteTip": "España es país fronterizo con Francia, así que no aplica el Foreign Pass. Aun así, el early bird de diciembre es buena opción. Barcelona–Lyon en TGV directo tarda unas 5 horas.",
+      "access": "Lyon tiene metro y tranvía excelentes. Desde el aeropuerto, Rhônexpress hasta Part-Dieu.",
+      "sources": [
+        "https://www.west-in-lyon.fr/pass-1",
+        "https://www.facebook.com/westinlyonwcs/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/west-in-lyon/",
+      "city": {
+        "name": "Lyon",
+        "region": "Auvernia-Ródano-Alpes, Francia",
+        "intro": "La capital gastronómica de Francia, en la confluencia del Ródano y el Saona. Tiene una comunidad westie muy activa que organiza varios eventos al año.",
+        "culture": [
+          "Vieux Lyon (Patrimonio de la Humanidad) y sus traboules, los pasajes secretos.",
+          "Basílica de Fourvière y vistas de toda la ciudad.",
+          "Barrio de la Croix-Rousse y su tradición de la seda."
+        ],
+        "food": [
+          "Un bouchon lionés: quenelles, saucisson brioché y andouillette.",
+          "Tarte aux pralines rosas.",
+          "Mercado Les Halles Paul Bocuse.",
+          "Vinos del Beaujolais y Côtes du Rhône."
+        ],
+        "climate": "Marzo: 3–14 °C. Noviembre: 4–12 °C. Lleva abrigo.",
+        "airports": [
+          {
+            "code": "LYS",
+            "name": "Lyon-Saint Exupéry",
+            "distance": "≈ 30 min del centro (Rhônexpress)"
+          }
+        ],
+        "train": "Part-Dieu: TGV directo a Barcelona (≈ 5 h) y París (≈ 2 h).",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 1 h 50 min).",
+          "barcelona": "TGV directo (≈ 5 h) o vuelo directo (≈ 1 h 15 min).",
+          "valencia": "Vuelo con escala o tren vía Barcelona.",
+          "alicante": "Vuelo directo según temporada, o con escala."
+        }
+      }
+    },
+    {
+      "slug": "king-swing",
+      "name": "King Swing",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Polonia",
+      "countryCode": "PL",
+      "cityId": "cracovia",
+      "venue": "Qubus Hotel Kraków",
+      "coords": [
+        50.0469,
+        19.9479
+      ],
+      "start": "2027-03-18",
+      "end": "2027-03-22",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "grande",
+      "tags": [
+        "asequible",
+        "energía joven",
+        "hotel"
+      ],
+      "beginner": 4,
+      "costLevel": 1,
+      "prices": [
+        {
+          "label": "Full Pass (2025)",
+          "value": "Desde 125 €"
+        },
+        {
+          "label": "Hotel Qubus (edición anterior)",
+          "value": "Desde 220 zł (≈ 52 €) sin desayuno"
+        }
+      ],
+      "priceYear": "2025 (referencia)",
+      "priceRefEUR": 125,
+      "website": "https://kingswing.pl/",
+      "summary": {
+        "es": "La opción europea más económica: WSDC de calidad en Cracovia a precios polacos.",
+        "en": "Europe's best-value option: quality WSDC event in Kraków at Polish prices."
+      },
+      "description": "King Swing es uno de los mejores ejemplos de por qué Polonia es una potencia del WCS: eventos de alta calidad a precios muy competitivos. Tiene ambiente joven y entusiasta, menos rígido que los históricos de Europa occidental, y se celebra en un hotel junto al casco histórico.",
+      "highlights": [
+        "Uno de los Full Pass más baratos del circuito WSDC.",
+        "Alojamiento y comida muy asequibles.",
+        "Cracovia, joya medieval."
+      ],
+      "levanteTip": "Nuestra opción internacional recomendada para empezar a competir con poco presupuesto. Alicante–Cracovia directo con Ryanair.",
+      "access": "Desde el aeropuerto, tren al centro (≈ 20 min) y unos minutos a pie o en taxi.",
+      "sources": [
+        "https://www.yourdancebuddy.com/events/king-swing-2027",
+        "https://oazis.app/en/event/king-swing"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/king-swing/",
+      "city": {
+        "name": "Cracovia",
+        "region": "Polonia",
+        "intro": "Joya medieval intacta, antigua capital real y una de las ciudades más bonitas (y baratas) de Europa. Tiene dos eventos WSDC al año: King Swing en primavera y Santa Swing en Navidad.",
+        "culture": [
+          "Rynek Główny, la plaza medieval más grande de Europa.",
+          "Castillo de Wawel y el barrio judío de Kazimierz.",
+          "Minas de sal de Wieliczka (≈ 30 min).",
+          "Visita a Auschwitz-Birkenau (≈ 1 h 30 min), dura pero necesaria."
+        ],
+        "food": [
+          "Pierogi y zapiekanka en Kazimierz.",
+          "Obwarzanek (rosca típica de Cracovia).",
+          "Oscypek (queso ahumado de montaña).",
+          "Mercadillo de Navidad del Rynek (en diciembre)."
+        ],
+        "climate": "Marzo: −1 a 9 °C. Diciembre: −4 a 3 °C.",
+        "airports": [
+          {
+            "code": "KRK",
+            "name": "Cracovia-Juan Pablo II",
+            "distance": "≈ 20–30 min del centro"
+          },
+          {
+            "code": "KTW",
+            "name": "Katowice",
+            "distance": "≈ 1 h 15 min"
+          }
+        ],
+        "train": "Kraków Główny.",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 3 h 30 min).",
+          "barcelona": "Vuelo directo (≈ 2 h 50 min).",
+          "valencia": "Vuelo directo según temporada o con escala.",
+          "alicante": "Vuelo directo (habitual con Ryanair, ≈ 3 h 15 min)."
+        }
+      }
+    },
+    {
+      "slug": "uk-wcs-championships",
+      "name": "UK West Coast Swing Championships",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "cityId": "londres",
+      "venue": "Radisson RED Hotel London Heathrow, Sipson",
+      "coords": [
+        51.4803,
+        -0.4434
+      ],
+      "start": "2027-03-25",
+      "end": "2027-03-29",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "masivo",
+      "tags": [
+        "campeonato nacional",
+        "nivel élite",
+        "aeropuerto"
+      ],
+      "beginner": 2,
+      "costLevel": 3,
+      "soldOut": true,
+      "prices": [
+        {
+          "label": "Full Pass (edición anterior)",
+          "value": "159 £ early · 179 £ normal · 199 £ late"
+        },
+        {
+          "label": "Estado",
+          "value": "AGOTADO: aforo completo"
+        }
+      ],
+      "priceYear": "Edición anterior (referencia)",
+      "priceRefEUR": 210,
+      "website": "https://www.ukwcschamps.com/",
+      "summary": {
+        "es": "El campeonato británico: un gigante con muchísimos competidores, incluidos muchos de Estados Unidos.",
+        "en": "The British championship: a giant event drawing many competitors, including many from the US."
+      },
+      "description": "El UK Championships es uno de los eventos de referencia de Europa y atrae a muchos competidores estadounidenses. Se celebra en un hotel pegado a Heathrow. Para 2027 el registro ya figura como completo, así que solo queda vigilar la lista de espera o las reventas oficiales.",
+      "highlights": [
+        "Nivel élite europeo y estadounidense.",
+        "Logística facilísima junto a Heathrow.",
+        "Uno de los «tres grandes» de Europa."
+      ],
+      "levanteTip": "Agotado para 2027. Apúntate a la lista de espera y apunta en el calendario la apertura de inscripciones de 2028: vuela.",
+      "access": "Shuttle o bus local desde Heathrow (≈ 5–10 min).",
+      "sources": [
+        "https://www.ukwcschamps.com/registration",
+        "https://www.yourdancebuddy.com/events/uk-west-coast-swing-championships-2027"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/uk-wcs-championships/",
+      "city": {
+        "name": "Londres (Heathrow)",
+        "region": "Inglaterra, Reino Unido",
+        "intro": "Varios de los grandes eventos británicos se celebran en hoteles pegados a Heathrow: llegas del avión a la pista sin pasar por el centro. Si te sobra un día, Londres está a 15 minutos en el Elizabeth Line o el Heathrow Express.",
+        "culture": [
+          "Westminster, el Big Ben y el London Eye.",
+          "Museos gratuitos: British Museum, National Gallery y Tate Modern.",
+          "Camden, Notting Hill y Covent Garden."
+        ],
+        "food": [
+          "Fish and chips.",
+          "Sunday roast en un pub.",
+          "Full English breakfast para recuperar fuerzas.",
+          "Afternoon tea con scones."
+        ],
+        "climate": "Noviembre–marzo: 3–11 °C y lluvia. Septiembre: 12–20 °C.",
+        "airports": [
+          {
+            "code": "LHR",
+            "name": "Heathrow",
+            "distance": "Los hoteles sede están junto al aeropuerto (≈ 5–10 min en shuttle o bus)"
+          },
+          {
+            "code": "LGW",
+            "name": "Gatwick",
+            "distance": "≈ 1 h 15 min"
+          },
+          {
+            "code": "STN",
+            "name": "Stansted / Luton",
+            "distance": "≈ 1 h 30 min"
+          }
+        ],
+        "train": "Eurostar desde París (≈ 2 h 20 min), si combinas viaje.",
+        "fromSpain": {
+          "madrid": "Vuelo directo a Heathrow (≈ 2 h 20 min).",
+          "barcelona": "Vuelo directo a Heathrow o Gatwick (≈ 2 h 10 min).",
+          "valencia": "Vuelo directo a Heathrow, Gatwick o Stansted.",
+          "alicante": "Muchísimos vuelos directos (Heathrow, Gatwick, Stansted, Luton), ≈ 2 h 30 min. Recuerda: para el Reino Unido necesitas pasaporte (el DNI no sirve) y la autorización electrónica ETA."
+        }
+      }
+    },
+    {
+      "slug": "swing-in-capital",
+      "name": "Swing in Capital",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Italia",
+      "countryCode": "IT",
+      "cityId": "roma",
+      "venue": "Hotel Capannelle ****, junto al Parque de la Vía Apia Antigua, Roma",
+      "coords": [
+        41.8317,
+        12.5631
+      ],
+      "start": "2027-04-01",
+      "end": "2027-04-04",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "primavera",
+        "Roma",
+        "niveles por audición"
+      ],
+      "beginner": 4,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Full Pass",
+          "value": "149 €"
+        },
+        {
+          "label": "Hotel",
+          "value": "110 € por noche, individual con desayuno"
+        }
+      ],
+      "priceYear": "2027",
+      "priceRefEUR": 149,
+      "website": "https://swingincapital.com/?locale=en",
+      "summary": {
+        "es": "WSDC en Roma en primavera, en un hotel junto a la Vía Apia Antigua, con niveles de nombres romanos.",
+        "en": "Spring WSDC event in Rome at a hotel by the Appian Way, with Roman-themed levels."
+      },
+      "description": "Swing in Capital es el evento WSDC de West Coast Swing Roma. Tiene Jack & Jill y Strictly oficiales, y los workshops se ordenan por niveles con nombres romanos (de Legionary a Colosseum) según tus puntos WSDC o una audición. La sede está en un entorno verde junto a la Vía Apia.",
+      "highlights": [
+        "Precio muy competitivo (149 €).",
+        "Justo después de Semana Santa (Pascua es el 28 de marzo de 2027): Roma en primavera.",
+        "Ciampino a 15 minutos."
+      ],
+      "levanteTip": "Alicante–Roma en low cost y un Full Pass de 149 €: una de las mejores relaciones calidad-precio de la temporada. La inscripción abrió el 1 de octubre de 2026.",
+      "access": "Desde Ciampino, taxi (≈ 15 min). Desde Fiumicino, ≈ 45 min.",
+      "sources": [
+        "https://swingincapital.com/?locale=en"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/swing-in-capital/",
+      "city": {
+        "name": "Roma",
+        "region": "Lacio, Italia",
+        "intro": "La Ciudad Eterna en primavera. El hotel del festival está junto al Parque de la Vía Apia Antigua, en un entorno verde lejos del caos del centro.",
+        "culture": [
+          "Coliseo, Foro Romano y el Palatino.",
+          "Vaticano: Basílica de San Pedro y la Capilla Sixtina.",
+          "Trastevere al anochecer.",
+          "Vía Apia Antigua en bici, junto a la sede."
+        ],
+        "food": [
+          "Carbonara, cacio e pepe y amatriciana.",
+          "Supplì (croqueta de arroz frita).",
+          "Pizza al taglio.",
+          "Gelato y maritozzo con nata."
+        ],
+        "climate": "Principios de abril: 9–20 °C, soleado.",
+        "airports": [
+          {
+            "code": "FCO",
+            "name": "Roma-Fiumicino",
+            "distance": "≈ 45 min"
+          },
+          {
+            "code": "CIA",
+            "name": "Roma-Ciampino (low cost)",
+            "distance": "≈ 15 min de la sede"
+          }
+        ],
+        "train": "Roma Termini.",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 2 h 30 min).",
+          "barcelona": "Vuelo directo (≈ 1 h 50 min).",
+          "valencia": "Vuelo directo (habitual).",
+          "alicante": "Vuelo directo a Fiumicino o Ciampino (habitual con Ryanair)."
+        }
+      }
+    },
+    {
+      "slug": "westy-nantes",
+      "name": "Westy Nantes",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Francia",
+      "countryCode": "FR",
+      "cityId": "nantes",
+      "venue": "Sure Hotel by Best Western Nantes Beaujoire, 27 Rue du Chemin Rouge",
+      "coords": [
+        47.2558,
+        -1.5209
+      ],
+      "start": "2027-04-16",
+      "end": "2027-04-18",
+      "dateStatus": "tentative",
+      "dateNote": "Facebook indica que empieza el 16 de abril de 2027; otro listado da del 15 al 18 «por confirmar».",
+      "wsdc": "registry",
+      "size": "boutique",
+      "tags": [
+        "regional",
+        "hotel",
+        "Atlántico"
+      ],
+      "beginner": 4,
+      "costLevel": 1,
+      "prices": [
+        {
+          "label": "Full Pass (2025)",
+          "value": "Desde 120 €"
+        }
+      ],
+      "priceYear": "2025 (referencia)",
+      "priceRefEUR": 120,
+      "priceNote": "La edición 2025 no tuvo competiciones WSDC (hubo Jack & Jill no oficial). Comprueba el formato de 2027.",
+      "website": "https://www.facebook.com/p/Page-Westy-Nantes-61553121058244/",
+      "summary": {
+        "es": "Evento regional asequible en Nantes, con la técnica de la escuela francesa.",
+        "en": "Affordable regional event in Nantes, showcasing French technique."
+      },
+      "description": "Westy Nantes es un evento regional sólido en un hotel de la zona de la Beaujoire. Tiene precio contenido y tamaño manejable, buenos para ganar experiencia lejos de las grandes multitudes.",
+      "highlights": [
+        "Uno de los pases más baratos del circuito francés.",
+        "Ambiente de comunidad.",
+        "Nantes: creativa, verde y muy cómoda."
+      ],
+      "levanteTip": "Confirma antes si habrá puntos WSDC en 2027. Si buscas sobre todo bailar y aprender, merece la pena igualmente.",
+      "access": "Tranvía línea 1 (Beaujoire) desde el centro. Desde el aeropuerto, navette al centro y tranvía.",
+      "sources": [
+        "https://www.yourdancebuddy.com/events/westy-nantes-2027",
+        "https://www.danceplace.com/index/no/14610/Westy+Nantes-2025-Nantes-France-West+Coast+Swing+Dance+event"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/westy-nantes/",
+      "city": {
+        "name": "Nantes",
+        "region": "Países del Loira, Francia",
+        "intro": "Ciudad creativa y verde a orillas del Loira, cuna de Julio Verne. Es muy cómoda para un fin de semana.",
+        "culture": [
+          "Les Machines de l'Île y su elefante mecánico gigante.",
+          "Castillo de los Duques de Bretaña.",
+          "Passage Pommeraye y el barrio de Bouffay."
+        ],
+        "food": [
+          "Galettes y crêpes bretonas.",
+          "Beurre blanc (salsa nantesa) con pescado.",
+          "Galletas LU y Petit Beurre.",
+          "Vino blanco Muscadet."
+        ],
+        "climate": "Abril: 7–16 °C, primavera atlántica cambiante.",
+        "airports": [
+          {
+            "code": "NTE",
+            "name": "Nantes-Atlantique",
+            "distance": "≈ 20 min del centro"
+          }
+        ],
+        "train": "Gare de Nantes: TGV a París en ≈ 2 h.",
+        "fromSpain": {
+          "madrid": "Vuelo directo según temporada (≈ 1 h 40 min) o vía París.",
+          "barcelona": "Vuelo directo (≈ 1 h 40 min).",
+          "valencia": "Vuelo con escala o vía París.",
+          "alicante": "Vuelo con escala, o vuelo a París y TGV."
+        }
+      }
+    },
+    {
+      "slug": "detonation-dance",
+      "name": "Detonation Dance",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "cityId": "manchester",
+      "venue": "Hilton / DoubleTree by Hilton Manchester Airport",
+      "coords": [
+        53.3626,
+        -2.2737
+      ],
+      "start": "2027-04-22",
+      "end": "2027-04-26",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "grande",
+      "tags": [
+        "aeropuerto",
+        "Zero to Hero",
+        "Strictly"
+      ],
+      "beginner": 4,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Full Pass internacional",
+          "value": "149 £ earlybird · 169 £ full"
+        },
+        {
+          "label": "Full Pass UK & Irlanda",
+          "value": "149 £ superbird (agotado) · 169 £ earlybird · 189 £ full"
+        },
+        {
+          "label": "Advanced / All-Star",
+          "value": "129 £ earlybird · 149 £ full"
+        }
+      ],
+      "priceYear": "2027",
+      "priceRefEUR": 175,
+      "website": "https://detonationdance.com/",
+      "summary": {
+        "es": "Weekender de primavera junto al aeropuerto de Manchester, con Jack & Jill WSDC, Strictly y programa «Zero to Hero».",
+        "en": "Spring weekender by Manchester Airport with WSDC Jack & Jills, Strictly and a 'Zero to Hero' track."
+      },
+      "description": "Detonation Dance, organizado por Easton Swing, es uno de los grandes eventos británicos de primavera. Hay Jack & Jill WSDC, Strictly Swing y un programa específico para principiantes (Zero to Hero). Los internacionales tienen precio propio, más bajo.",
+      "highlights": [
+        "Tarifa especial para internacionales.",
+        "Programa Zero to Hero para quien empieza.",
+        "Hotel en el mismo aeropuerto."
+      ],
+      "levanteTip": "Alicante–Manchester es una de las rutas más baratas que existen. Elige la tarifa internacional (149 £ early).",
+      "access": "A pie o en shuttle desde las terminales del aeropuerto de Manchester.",
+      "sources": [
+        "https://detonationdance.com/register/",
+        "https://westiehub.dance/events/detonation-dance-2027"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/detonation-dance/",
+      "city": {
+        "name": "Manchester",
+        "region": "Inglaterra, Reino Unido",
+        "intro": "Ciudad industrial reconvertida en capital musical y futbolera. El evento se celebra junto al aeropuerto: logística facilísima.",
+        "culture": [
+          "Northern Quarter: arte urbano, vinilos y cafés.",
+          "Museo de Ciencia e Industria.",
+          "Old Trafford o el Etihad, si eres futbolero."
+        ],
+        "food": [
+          "Curry Mile (Rusholme).",
+          "Pie & mash en un pub.",
+          "Eccles cakes.",
+          "Cervezas artesanas locales."
+        ],
+        "climate": "Abril: 5–13 °C, chubascos frecuentes.",
+        "airports": [
+          {
+            "code": "MAN",
+            "name": "Manchester",
+            "distance": "El hotel sede está en el propio aeropuerto"
+          }
+        ],
+        "train": "Manchester Piccadilly: trenes a Londres en ≈ 2 h 10 min.",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 2 h 30 min).",
+          "barcelona": "Vuelo directo (≈ 2 h 20 min).",
+          "valencia": "Vuelo directo (habitual).",
+          "alicante": "Vuelo directo (muy habitual, ≈ 2 h 40 min). Recuerda: para el Reino Unido necesitas pasaporte (el DNI no sirve) y la autorización electrónica ETA."
+        }
+      }
+    },
+    {
+      "slug": "beemad",
+      "name": "BeeMAD",
+      "edition": "2027",
+      "region": "espana",
+      "country": "España",
+      "countryCode": "ES",
+      "cityId": "madrid",
+      "venue": "Hotel Eurostars Puerta Madrid",
+      "coords": [
+        40.4466,
+        -3.6264
+      ],
+      "start": "2027-04-29",
+      "end": "2027-05-02",
+      "dateStatus": "confirmed",
+      "dateNote": "Fechas publicadas en listados del evento. Coincide con el puente del 1 de mayo.",
+      "wsdc": "registry",
+      "size": "grande",
+      "tags": [
+        "hotel",
+        "puente de mayo",
+        "tracks pedagógicos",
+        "social hasta el amanecer"
+      ],
+      "beginner": 4,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Full Pass (2026)",
+          "value": "160 € early (50 pases) · 180 € normal · 195 € late"
+        },
+        {
+          "label": "Party Pass (2026)",
+          "value": "120 € – 150 € según tramo"
+        },
+        {
+          "label": "Hotel (referencia)",
+          "value": "150 € individual · 165 € doble/twin, desayuno incluido, por noche"
+        }
+      ],
+      "priceYear": "2026 (referencia)",
+      "priceRefEUR": 180,
+      "priceNote": "En otra página oficial aparecen 165/185/198 €. Confirma las tarifas de 2027 cuando abran las inscripciones.",
+      "website": "https://beemadwcs.com/",
+      "summary": {
+        "es": "La gran cita nacional en Madrid: WSDC, tracks pedagógicos por nivel, shows y sociales hasta el amanecer en formato hotel.",
+        "en": "Spain's big national WSDC event in Madrid: leveled tracks, shows and dawn-to-dusk socials in a convention hotel."
+      },
+      "description": "BeeMAD es el buque insignia del West Coast Swing en el centro de España, organizado por la comunidad de West Coast Swing Madrid. Combina rigor competitivo WSDC con un ambiente muy festivo: el Full Pass incluye 6 horas de clases por niveles, las fiestas de viernes, sábado y domingo, los shows y el acceso a competir. Al celebrarse en un hotel de convenciones, la burbuja social es total.",
+      "highlights": [
+        "El evento WSDC más grande de España.",
+        "Clases por tracks (niveles) para que aproveches cada hora.",
+        "Pre-party en Círculo de Baile la semana del evento.",
+        "Ambiente internacional, con mucho público de toda Europa."
+      ],
+      "levanteTip": "Desde Alicante o Murcia, el AVE/Ouigo te deja en Madrid en algo más de 2 horas: compra los billetes en cuanto confirmes el pase y sale tirado. Es el mejor sitio para tu segundo o tercer Jack & Jill, cuando ya sabes cómo funciona un evento.",
+      "access": "El hotel está en la zona de Barajas/Avenida de América. Metro línea 5 o 2 + bus, o taxi desde el aeropuerto (≈ 10 min) o desde Atocha (≈ 20 min).",
+      "sources": [
+        "https://beemadwcs.com/",
+        "https://wcswingmadrid.com/en/event/beemad-2026-wsdc-registry/",
+        "https://www.yourdancebuddy.com/events/beemad-2027"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/beemad/",
+      "city": {
+        "name": "Madrid",
+        "region": "Comunidad de Madrid",
+        "intro": "La capital tiene la comunidad westie más grande de España, con sociales casi a diario. Ir a un festival aquí es también la excusa perfecta para conocer la escena local.",
+        "culture": [
+          "Triángulo del Arte: Prado, Reina Sofía y Thyssen.",
+          "Retiro y Madrid Río para descansar las piernas entre sociales.",
+          "Barrios de La Latina, Malasaña y Lavapiés para tapear."
+        ],
+        "food": [
+          "Bocadillo de calamares en la Plaza Mayor.",
+          "Cocido madrileño (si te sobran fuerzas).",
+          "Huevos rotos, oreja a la plancha y vermut de grifo.",
+          "Churros con chocolate al salir de la social."
+        ],
+        "climate": "Primavera (abril–mayo): 12–24 °C, días largos y muy agradables. Otoño (octubre): 10–22 °C.",
+        "airports": [
+          {
+            "code": "MAD",
+            "name": "Adolfo Suárez Madrid-Barajas",
+            "distance": "≈ 15–30 min del centro"
+          }
+        ],
+        "train": "Atocha y Chamartín (AVE, Ouigo, Iryo) conectan con casi toda España.",
+        "fromSpain": {
+          "madrid": "Estás en casa: metro o Cercanías hasta la sede.",
+          "barcelona": "AVE/Ouigo/Iryo (≈ 2 h 30 min) o puente aéreo (≈ 1 h 15 min).",
+          "valencia": "Alta velocidad (≈ 1 h 50 min). Opción más cómoda y barata.",
+          "alicante": "Alta velocidad (≈ 2 h 15 min). Con Ouigo o Iryo hay billetes muy baratos si compras pronto."
+        }
+      }
+    },
+    {
+      "slug": "french-open-wcs",
+      "name": "French Open WCS",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Francia",
+      "countryCode": "FR",
+      "cityId": "paris",
+      "venue": "París (sede en la web oficial)",
+      "coords": [
+        48.8566,
+        2.3522
+      ],
+      "start": "2027-05-05",
+      "end": "2027-05-10",
+      "dateStatus": "tentative",
+      "dateNote": "La WSDC lo lista del 5 al 10 de mayo y Westie Hub del 7 al 9: los días centrales del evento serían del 7 al 9.",
+      "wsdc": "registry",
+      "size": "masivo",
+      "tags": [
+        "nivel élite",
+        "routines",
+        "intensivos",
+        "París"
+      ],
+      "beginner": 2,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "Pases",
+          "value": "Desconocido. Tiene un «Grand Pass» con días extra de formación intensiva."
+        }
+      ],
+      "priceYear": "—",
+      "website": "https://westiehub.dance/events/french-open-2027",
+      "summary": {
+        "es": "Uno de los tres grandes de Europa: nivel élite y escaparate de routines antes de la temporada estadounidense.",
+        "en": "One of Europe's big three: elite level and a showcase of routines ahead of the US season."
+      },
+      "description": "El French Open es, con BudaFest y el UK Championships, uno de los eventos de referencia en Europa. Aquí muchos competidores estrenan sus routines antes de viajar a Estados Unidos, y el nivel de las finales es altísimo. Además del pase normal, ofrece días extra de formación intensiva.",
+      "highlights": [
+        "Finales de nivel élite.",
+        "Estreno de routines de la temporada.",
+        "Días de intensivo extra antes del evento."
+      ],
+      "levanteTip": "No es el mejor sitio para tu primer Jack & Jill (preliminares masivas), pero ir a verlo y tomar los intensivos es una experiencia brutal.",
+      "access": "París tiene una red de transporte enorme. Consulta la sede exacta en la web oficial.",
+      "sources": [
+        "https://worldsdc.com/events-/?country=FRA",
+        "https://westiehub.dance/events/french-open-2027"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/french-open-wcs/",
+      "city": {
+        "name": "París",
+        "region": "Île-de-France, Francia",
+        "intro": "París es uno de los grandes polos del WCS europeo: acoge varios eventos al año y tiene un nivel técnico altísimo. Ideal para ver de cerca a profesionales de primera.",
+        "culture": [
+          "Torre Eiffel, Arco del Triunfo y los Campos Elíseos (junto a Le Méridien).",
+          "Louvre, Orsay y el Centro Pompidou.",
+          "Montmartre y el Sacré-Cœur.",
+          "Paseo en barco por el Sena."
+        ],
+        "food": [
+          "Croissant y pain au chocolat de boulangerie.",
+          "Steak frites o croque-monsieur en una brasserie.",
+          "Macarons y crêpes.",
+          "Quesos y vino natural en un bar à vins."
+        ],
+        "climate": "Enero–febrero: 2–9 °C. Mayo: 11–20 °C. Septiembre: 13–22 °C.",
+        "airports": [
+          {
+            "code": "CDG",
+            "name": "Charles de Gaulle",
+            "distance": "≈ 45 min del centro (RER B)"
+          },
+          {
+            "code": "ORY",
+            "name": "Orly",
+            "distance": "≈ 35 min (Orlyval/Metro 14)"
+          },
+          {
+            "code": "BVA",
+            "name": "Beauvais (low cost)",
+            "distance": "≈ 1 h 15 min en autobús"
+          }
+        ],
+        "train": "Gare de Lyon: TGV directo a Barcelona (≈ 6 h 30 min).",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 2 h). Muchas frecuencias diarias.",
+          "barcelona": "Vuelo directo (≈ 1 h 50 min) o TGV directo (≈ 6 h 30 min).",
+          "valencia": "Vuelo directo (≈ 2 h).",
+          "alicante": "Vuelo directo a CDG, Orly o Beauvais (≈ 2 h 10 min)."
+        }
+      }
+    },
+    {
+      "slug": "med-in-swing",
+      "name": "Med in Swing",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Francia",
+      "countryCode": "FR",
+      "cityId": "toulon",
+      "venue": "The Mediterranean Hall, Toulon (recinto en un camping)",
+      "coords": [
+        43.1242,
+        5.928
+      ],
+      "start": "2027-05-14",
+      "end": "2027-05-17",
+      "dateStatus": "tentative",
+      "dateNote": "La tabla de la WSDC indica del 14 al 17 de mayo, pero su texto menciona del 25 al 28 de junio. La edición 2026 fue del 7 al 10 de mayo.",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "Costa Azul",
+        "vacaciones",
+        "camping",
+        "niveles sociales"
+      ],
+      "beginner": 4,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Pases",
+          "value": "Desconocido"
+        }
+      ],
+      "priceYear": "—",
+      "website": "https://www.facebook.com/MedInSwing/",
+      "teachers": [
+        "Organizan Bret & Joëlle Navarre"
+      ],
+      "summary": {
+        "es": "Festival internacional en la Costa Azul, organizado por Bret & Joëlle Navarre, con niveles WSDC y niveles sociales.",
+        "en": "International festival on the French Riviera by Bret & Joëlle Navarre, with WSDC and social levels."
+      },
+      "description": "Med in Swing es un festival WSDC con alma de vacaciones en la Riviera francesa. Los workshops tienen niveles WSDC y también niveles sociales para quien no compite, con profesores de primer nivel. El recinto está en un camping, así que el ambiente es muy relajado.",
+      "highlights": [
+        "Workshops con niveles WSDC y niveles sociales.",
+        "Costa Azul en mayo: primeros baños de la temporada.",
+        "Organizado por profesionales de referencia."
+      ],
+      "levanteTip": "Combínalo con unos días en las Calanques. Desde Barcelona, en tren vía Marsella.",
+      "access": "Desde la estación de Toulon, taxi. Lo más cómodo es el coche.",
+      "sources": [
+        "https://worldsdc.com/events-/?country=FRA",
+        "https://www.yourdancebuddy.com/events/med-in-swing-2026"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/med-in-swing/",
+      "city": {
+        "name": "Toulon",
+        "region": "Provenza-Alpes-Costa Azul, Francia",
+        "intro": "Puerto militar de la Costa Azul, con calas, mercado provenzal y una rada espectacular. Es un festival con ambiente de vacaciones a la francesa.",
+        "culture": [
+          "Teleférico del Mont Faron y vistas a la rada.",
+          "Mercado provenzal del Cours Lafayette.",
+          "Escapadas a Bandol, Cassis y las Calanques."
+        ],
+        "food": [
+          "Bouillabaisse (en Marsella o en la costa).",
+          "Cade toulonnaise (torta de harina de garbanzo).",
+          "Tapenade y aceitunas provenzales.",
+          "Rosado de Provenza y vino de Bandol."
+        ],
+        "climate": "Mayo: 14–23 °C, soleado. Primeros baños de mar.",
+        "airports": [
+          {
+            "code": "TLN",
+            "name": "Toulon-Hyères",
+            "distance": "≈ 25 min (pocas rutas)"
+          },
+          {
+            "code": "MRS",
+            "name": "Marsella-Provenza",
+            "distance": "≈ 1 h"
+          },
+          {
+            "code": "NCE",
+            "name": "Niza-Costa Azul",
+            "distance": "≈ 1 h 45 min"
+          }
+        ],
+        "train": "Estación de Toulon: TER/TGV desde Marsella (≈ 45 min).",
+        "fromSpain": {
+          "madrid": "Vuelo a Marsella (≈ 1 h 50 min) y tren a Toulon.",
+          "barcelona": "Tren vía Marsella (≈ 5 h) o vuelo a Marsella.",
+          "valencia": "Vuelo a Marsella con escala o coche (≈ 8 h).",
+          "alicante": "Vuelo a Marsella con escala, o tren vía Barcelona."
+        }
+      }
+    },
+    {
+      "slug": "festival-city-swing",
+      "name": "Festival City Swing",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "cityId": "newcastle",
+      "venue": "Britannia Hotel, Newcastle Airport",
+      "coords": [
+        55.0375,
+        -1.6918
+      ],
+      "start": "2027-06-03",
+      "end": "2027-06-07",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "aeropuerto",
+        "noreste de Inglaterra"
+      ],
+      "beginner": 4,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Pases",
+          "value": "Próximamente (coming soon)"
+        }
+      ],
+      "priceYear": "2027",
+      "website": "https://moonshinedance.com/festival-city-swing2027",
+      "summary": {
+        "es": "Evento WSDC organizado por WCS Edinburgh y Moonshine, junto al aeropuerto de Newcastle.",
+        "en": "WSDC event by WCS Edinburgh and Moonshine, next to Newcastle Airport."
+      },
+      "description": "Festival City Swing es un evento WSDC producido por West Coast Swing Edinburgh y Moonshine Productions. En 2027 se traslada a un hotel junto al aeropuerto de Newcastle. Las entradas y el horario aún no se han publicado.",
+      "highlights": [
+        "Organizan los mismos equipos que la escena de Edimburgo.",
+        "Hotel junto al aeropuerto."
+      ],
+      "levanteTip": "Desde Alicante suele haber vuelo directo a Newcastle (Jet2). Vigila cuándo salen las entradas.",
+      "access": "Junto al aeropuerto de Newcastle.",
+      "sources": [
+        "https://moonshinedance.com/festival-city-swing2027"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/festival-city-swing/",
+      "city": {
+        "name": "Newcastle",
+        "region": "Inglaterra, Reino Unido",
+        "intro": "Capital del noreste inglés, famosa por sus puentes sobre el Tyne y por el carácter abierto de los geordies. El festival se celebra junto al aeropuerto.",
+        "culture": [
+          "Quayside y el Millennium Bridge.",
+          "Muralla de Adriano (≈ 45 min), Patrimonio de la Humanidad.",
+          "Castillo de Alnwick (el Hogwarts de las películas)."
+        ],
+        "food": [
+          "Stottie cake con jamón y pease pudding.",
+          "Pan haggerty.",
+          "Newcastle Brown Ale.",
+          "Fish and chips en la costa (Tynemouth)."
+        ],
+        "climate": "Junio: 10–19 °C, días larguísimos.",
+        "airports": [
+          {
+            "code": "NCL",
+            "name": "Newcastle",
+            "distance": "El hotel sede está junto al aeropuerto"
+          }
+        ],
+        "train": "Newcastle Central: trenes a Londres (≈ 3 h) y Edimburgo (≈ 1 h 30 min).",
+        "fromSpain": {
+          "madrid": "Vuelo con escala (Londres/Ámsterdam) o vuelo a Edimburgo y tren.",
+          "barcelona": "Vuelo directo según temporada o con escala.",
+          "valencia": "Vuelo con escala.",
+          "alicante": "Vuelo directo habitual (Jet2/Ryanair, ≈ 3 h). Recuerda: para el Reino Unido necesitas pasaporte (el DNI no sirve) y la autorización electrónica ETA."
+        }
+      }
+    },
+    {
+      "slug": "baltic-swing",
+      "name": "Baltic Swing",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Polonia",
+      "countryCode": "PL",
+      "cityId": "gdansk",
+      "venue": "Gdańsk (sede en la web oficial)",
+      "coords": [
+        54.352,
+        18.6466
+      ],
+      "start": "2027-06-10",
+      "end": "2027-06-14",
+      "dateStatus": "confirmed",
+      "dateNote": "Fechas según la WSDC y DanceApp. Una ficha menciona Gdynia: confirma la sede.",
+      "wsdc": "registry",
+      "size": "grande",
+      "tags": [
+        "verano",
+        "Báltico",
+        "vacaciones",
+        "inscripción en pareja"
+      ],
+      "beginner": 4,
+      "costLevel": 1,
+      "prices": [
+        {
+          "label": "Full Pass (2026)",
+          "value": "840 zł por persona (inscripción en pareja)"
+        },
+        {
+          "label": "Full Pass (2025)",
+          "value": "780 zł"
+        }
+      ],
+      "priceYear": "2026 (referencia)",
+      "priceRefEUR": 195,
+      "website": "https://www.balticswing.com/",
+      "summary": {
+        "es": "WSDC con ambiente de vacaciones de verano junto al mar Báltico.",
+        "en": "WSDC event with a summer-holiday vibe on the Baltic Sea."
+      },
+      "description": "Baltic Swing, que en 2027 cumple 14 ediciones, mezcla competición WSDC con ambiente de vacaciones de verano en la costa báltica. Junio en Gdańsk son casi 17 horas de luz, precios polacos y playas a un paso.",
+      "highlights": [
+        "Ambiente de vacaciones.",
+        "Noches muy cortas: el sol casi no se pone.",
+        "Playas de Sopot muy cerca."
+      ],
+      "levanteTip": "Busca pareja de inscripción con tiempo. Mira vuelos directos a Gdańsk desde Alicante en temporada.",
+      "access": "Desde el aeropuerto de Gdańsk, tren SKM o taxi al centro (≈ 25 min).",
+      "sources": [
+        "https://www.balticswing.com/",
+        "https://danceapp.net/fr-fr/events/199/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/baltic-swing/",
+      "city": {
+        "name": "Gdańsk",
+        "region": "Pomerania, Polonia",
+        "intro": "Ciudad hanseática junto al Báltico, con fachadas de colores y el puerto donde nació Solidaridad. En junio el norte de Europa no duerme, y tú tampoco.",
+        "culture": [
+          "Calle Larga (Długa) y la Fuente de Neptuno.",
+          "Museo de la Segunda Guerra Mundial y el Centro Europeo de Solidaridad.",
+          "Playas de Sopot y su muelle de madera (≈ 20 min)."
+        ],
+        "food": [
+          "Pescado del Báltico: arenque y bacalao.",
+          "Pierogi y sopa de remolacha (barszcz).",
+          "Goldwasser, el licor con láminas de oro.",
+          "Cerveza artesana polaca."
+        ],
+        "climate": "Junio: 11–21 °C, días de casi 17 horas de luz.",
+        "airports": [
+          {
+            "code": "GDN",
+            "name": "Gdańsk-Lech Wałęsa",
+            "distance": "≈ 25 min del centro"
+          }
+        ],
+        "train": "Gdańsk Główny, con conexión rápida a Varsovia (≈ 3 h).",
+        "fromSpain": {
+          "madrid": "Vuelo con escala o directo según temporada.",
+          "barcelona": "Vuelo directo según temporada (Ryanair/Wizz Air).",
+          "valencia": "Vuelo con escala.",
+          "alicante": "Vuelo directo según temporada (Ryanair) o con escala."
+        }
+      }
+    },
+    {
+      "slug": "french-connection-wcs",
+      "name": "French Connection WCS",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Francia",
+      "countryCode": "FR",
+      "cityId": "annecy",
+      "venue": "Centre des Congrès de l'Impérial Palace, Annecy",
+      "coords": [
+        45.9031,
+        6.1449
+      ],
+      "start": "2027-06-25",
+      "end": "2027-06-28",
+      "dateStatus": "confirmed",
+      "dateNote": "Fechas según la WSDC y Oazis. Conviene confirmarlas en la web oficial.",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "lago",
+        "Alpes",
+        "premium",
+        "experiencia"
+      ],
+      "beginner": 3,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "Pass (2026)",
+          "value": "190 € (leader o follower)"
+        },
+        {
+          "label": "Fiestas + competición (2026)",
+          "value": "140 €"
+        }
+      ],
+      "priceYear": "2026 (referencia)",
+      "priceRefEUR": 190,
+      "priceNote": "En 2025 el Full Pass costaba 155 €: el precio sube cada año.",
+      "website": "https://en.frenchconnectionwcs.com/",
+      "summary": {
+        "es": "El festival más bonito del circuito: palacio de congresos a orillas del lago de Annecy, con los Alpes de fondo.",
+        "en": "The circuit's most scenic festival: a lakeside palace in Annecy with the Alps as backdrop."
+      },
+      "description": "French Connection es un evento de experiencia: el paisaje importa tanto como el baile. Se celebra en el Impérial Palace, a orillas del lago de Annecy, la «Venecia de los Alpes». Hay competiciones con puntos WSDC, workshops y fiestas en uno de los entornos más espectaculares de Europa.",
+      "highlights": [
+        "Lago y montaña a pie de pista.",
+        "A 45 min de Ginebra, con vuelos directos desde casi toda España.",
+        "Ambiente premium."
+      ],
+      "levanteTip": "Desde Alicante o Valencia hay vuelos directos a Ginebra (easyJet). Alárgalo un día para bañarte en el lago o subir a Chamonix.",
+      "access": "Shuttle o coche desde Ginebra (≈ 45 min). A 10 min de la estación de Annecy.",
+      "sources": [
+        "https://en.frenchconnectionwcs.com/hotel",
+        "https://www.helloasso.com/associations/french-connection/evenements/fcwcs2026",
+        "https://oazis.app/en/event/french-connection-wcs"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/french-connection-wcs/",
+      "city": {
+        "name": "Annecy",
+        "region": "Alta Saboya, Francia",
+        "intro": "La «Venecia de los Alpes»: canales, casas de colores y un lago turquesa rodeado de montañas. Es probablemente el escenario más bonito del circuito.",
+        "culture": [
+          "Vieille Ville y el Palais de l'Isle.",
+          "Baño o paseo en barco por el lago de Annecy (el hotel está en la orilla).",
+          "Excursión a Chamonix y el Mont Blanc (≈ 1 h 15 min)."
+        ],
+        "food": [
+          "Tartiflette y raclette.",
+          "Fondue savoyarde.",
+          "Quesos: Reblochon, Beaufort y Tomme de Savoie.",
+          "Vinos blancos de Saboya."
+        ],
+        "climate": "Finales de junio: 15–27 °C. Clima alpino con tormentas de tarde ocasionales.",
+        "airports": [
+          {
+            "code": "GVA",
+            "name": "Ginebra",
+            "distance": "≈ 45 min en coche o shuttle"
+          },
+          {
+            "code": "LYS",
+            "name": "Lyon-Saint Exupéry",
+            "distance": "≈ 1 h 30 min"
+          }
+        ],
+        "train": "Gare d'Annecy, a ≈ 10 min de la sede.",
+        "fromSpain": {
+          "madrid": "Vuelo directo a Ginebra (≈ 2 h).",
+          "barcelona": "Vuelo directo a Ginebra (≈ 1 h 30 min).",
+          "valencia": "Vuelo directo a Ginebra (habitual con easyJet).",
+          "alicante": "Vuelo directo a Ginebra (habitual con easyJet, ≈ 2 h)."
+        }
+      }
+    },
+    {
+      "slug": "mediterranean-open",
+      "name": "Mediterranean Open WCS",
+      "edition": "2027",
+      "region": "espana",
+      "country": "España",
+      "countryCode": "ES",
+      "cityId": "santa-susanna",
+      "venue": "Hotel Don Ángel, Santa Susanna (Barcelona)",
+      "coords": [
+        41.6345,
+        2.7108
+      ],
+      "start": "2027-07-08",
+      "end": "2027-07-12",
+      "dateStatus": "tentative",
+      "dateNote": "Fechas de 2027 aún no publicadas. La edición 2026 fue del 9 al 13 de julio; la estimación sigue ese patrón.",
+      "wsdc": "registry",
+      "size": "grande",
+      "tags": [
+        "playa",
+        "piscina",
+        "vacaciones",
+        "resort",
+        "verano"
+      ],
+      "beginner": 4,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Event Pass / Intensive / Hotel",
+          "value": "Se compran por separado en DanceApp. Precio desconocido."
+        },
+        {
+          "label": "Inscripción a competición (2026)",
+          "value": "15 € por división y rol (solo en efectivo)"
+        }
+      ],
+      "priceYear": "2026",
+      "website": "https://mediterraneanopenwcs.com/en/home/",
+      "summary": {
+        "es": "Sun, sea & swing: WSDC en un resort de playa del Maresme, con fiestas en la piscina y pistas enormes.",
+        "en": "Sun, sea & swing: a WSDC event at a Costa del Maresme beach resort with pool parties and huge floors."
+      },
+      "description": "El Mediterranean Open es la versión «vacaciones» del circuito: un resort a pie de playa donde se combinan competiciones WSDC, clases y sociales con piscina y mar. Es ideal si quieres juntar viaje de verano y baile sin salir de España. El evento cuida el equilibrio de roles entre leaders y followers en las inscripciones.",
+      "highlights": [
+        "Resort a pie de playa con piscina.",
+        "Ambiente relajado: perfecto si los nervios de competir te frenan.",
+        "Cerca de Barcelona, muy fácil de combinar con turismo.",
+        "Equilibrio de roles en la inscripción."
+      ],
+      "levanteTip": "Desde Valencia o Alicante en coche por la AP-7 (4–6 h), compartiendo gastos, es la opción más barata. Lleva efectivo para las inscripciones a competición.",
+      "access": "Rodalies R1 hasta Santa Susanna y unos minutos a pie hasta el hotel, junto a la playa.",
+      "sources": [
+        "https://mediterraneanopenwcs.com/en/home/",
+        "https://mediterraneanopenwcs.com/en/competition/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/mediterranean-open/",
+      "city": {
+        "name": "Santa Susanna",
+        "region": "Maresme, Barcelona",
+        "intro": "Pueblo costero del Maresme, a una hora de Barcelona: playa larga, paseo marítimo y ambiente de vacaciones. El festival se vive entre la pista, la piscina y el mar.",
+        "culture": [
+          "Escapada a Barcelona: Sagrada Família, Barrio Gótico y el Born.",
+          "Tossa de Mar (≈ 30 min): villa medieval amurallada junto al mar.",
+          "Paseo de Santa Susanna a Malgrat por la costa."
+        ],
+        "food": [
+          "Arroz y fideuá frente al mar.",
+          "Pan con tomate y embutidos catalanes.",
+          "Crema catalana.",
+          "Vinos y cavas de la D.O. Alella, la del propio Maresme."
+        ],
+        "climate": "Julio mediterráneo: 22–30 °C y humedad. Bañador imprescindible, y prepárate para sudar en la pista.",
+        "airports": [
+          {
+            "code": "BCN",
+            "name": "Barcelona-El Prat",
+            "distance": "≈ 1 h en coche"
+          },
+          {
+            "code": "GRO",
+            "name": "Girona-Costa Brava",
+            "distance": "≈ 35 min en coche"
+          }
+        ],
+        "train": "Rodalies R1 desde Barcelona (Plaça de Catalunya o Arc de Triomf) hasta Santa Susanna (≈ 1 h 15 min).",
+        "fromSpain": {
+          "madrid": "AVE a Barcelona-Sants (≈ 2 h 30 min) y Rodalies R1. O vuelo a BCN.",
+          "barcelona": "Rodalies R1 directo (≈ 1 h 15 min) o coche por la C-32.",
+          "valencia": "Euromed/Intercity a Barcelona (≈ 3 h) y R1. En coche, ≈ 4 h por la AP-7.",
+          "alicante": "Euromed a Barcelona (≈ 4 h 30 min–5 h) y R1, o vuelo ALC–BCN (≈ 1 h 10 min)."
+        }
+      }
+    },
+    {
+      "slug": "lisbon-westie-fest",
+      "name": "Lisbon Westie Fest",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "cityId": "lisboa",
+      "venue": "VIP Executive Santa Iria Hotel **** (cerca del aeropuerto de Lisboa)",
+      "coords": [
+        38.8463,
+        -9.0898
+      ],
+      "start": "2027-07-29",
+      "end": "2027-08-01",
+      "dateStatus": "tentative",
+      "dateNote": "La edición 2026 fue del 30 de julio al 2 de agosto. Fechas de 2027 aún no publicadas.",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "verano",
+        "hotel",
+        "capital",
+        "asequible"
+      ],
+      "beginner": 4,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Full Pass (2026)",
+          "value": "140 € super early · 160 € early · 170 € normal · 185 € late"
+        },
+        {
+          "label": "Party Pass (2026)",
+          "value": "110 € early · 130 € normal"
+        },
+        {
+          "label": "Grupos",
+          "value": "−10 % en Full Pass para grupos de 10 o más (cierre de grupo el 1 de junio)"
+        }
+      ],
+      "priceYear": "2026",
+      "priceRefEUR": 170,
+      "priceNote": "En 2026 el Full Pass llegó a agotarse: compra pronto.",
+      "website": "https://lisbonwestiefest.com/",
+      "summary": {
+        "es": "WSDC de verano en Lisboa: hotel junto al aeropuerto, comunidad portuguesa creciente y una ciudad preciosa para alargar el viaje.",
+        "en": "Summer WSDC event in Lisbon: airport-side hotel, a fast-growing Portuguese scene and a gorgeous city to extend your trip."
+      },
+      "description": "El Lisbon Westie Fest es el evento WSDC de Portugal: Jack & Jill oficiales, workshops y fiestas en un hotel cuatro estrellas cerca del aeropuerto. Incluye también un Invitational sin puntuación WSDC. Con vuelos directos desde casi toda España y precios contenidos, es una de las mejores opciones de verano.",
+      "highlights": [
+        "Descuento de grupo del 10 %: ideal para ir con la comunidad del Levante.",
+        "Lisboa en verano, con atardeceres sobre el Tajo.",
+        "Hotel a 15–20 min del aeropuerto.",
+        "Comunidad portuguesa en pleno crecimiento."
+      ],
+      "levanteTip": "Organicemos un grupo de 10 o más para el descuento: escríbelo en el grupo de WhatsApp antes del 1 de junio.",
+      "access": "Taxi o VTC desde el aeropuerto (≈ 15–20 min). Para ir al centro de Lisboa, tren o taxi (≈ 25 min).",
+      "sources": [
+        "https://lisbonwestiefest.com/",
+        "https://lisbonwestiefest.com/schedule/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/lisbon-westie-fest/",
+      "city": {
+        "name": "Lisboa",
+        "region": "Portugal",
+        "intro": "Siete colinas, tranvías amarillos y atardeceres sobre el Tajo. Una de las capitales más baratas y acogedoras de Europa occidental, y con una escena de WCS en pleno crecimiento.",
+        "culture": [
+          "Alfama y el Castillo de San Jorge.",
+          "Belém: Torre, Monasterio de los Jerónimos y los famosos pastéis.",
+          "Miradores de Santa Luzia y Senhora do Monte al atardecer.",
+          "Una noche de fado en Alfama o en el Bairro Alto."
+        ],
+        "food": [
+          "Pastel de nata (los de Belém son los originales).",
+          "Bacalao en todas sus versiones (à Brás, com natas...).",
+          "Sardinas a la brasa en verano.",
+          "Bifana (bocadillo de cerdo) y ginjinha."
+        ],
+        "climate": "Finales de julio: 20–30 °C, sol y brisa atlántica. Las noches son frescas.",
+        "airports": [
+          {
+            "code": "LIS",
+            "name": "Lisboa-Humberto Delgado",
+            "distance": "≈ 15–20 min de la sede"
+          }
+        ],
+        "train": "Lisboa no tiene tren directo con España: lo práctico es volar o ir en coche.",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 1 h 15 min) o coche (≈ 6 h).",
+          "barcelona": "Vuelo directo (≈ 2 h).",
+          "valencia": "Vuelo directo (habitual con TAP/Ryanair, ≈ 1 h 45 min).",
+          "alicante": "Vuelo directo según temporada o con escala en Madrid. En coche, ≈ 8 h."
+        }
+      }
+    },
+    {
+      "slug": "german-open-wcs",
+      "name": "German Open WCS",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "cityId": "friburgo",
+      "venue": "Ballhaus Freiburg, Leo-Wohleb-Straße",
+      "coords": [
+        47.9873,
+        7.8406
+      ],
+      "start": "2027-08-04",
+      "end": "2027-08-08",
+      "dateStatus": "confirmed",
+      "wsdc": "registry",
+      "size": "grande",
+      "tags": [
+        "verano",
+        "sede histórica",
+        "Selva Negra"
+      ],
+      "beginner": 3,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Full Pass (2025)",
+          "value": "Desde 159 €"
+        }
+      ],
+      "priceYear": "2025 (referencia)",
+      "priceRefEUR": 159,
+      "website": "https://go-wcs.com/",
+      "summary": {
+        "es": "El clásico alemán de verano en Friburgo: Strictly y Jack & Jill en todas las divisiones, 7 h de clases y 5 fiestas.",
+        "en": "Germany's summer classic in Freiburg: Strictly and J&J in all divisions, 7 h of workshops and 5 parties."
+      },
+      "description": "El German Open mantiene un perfil competitivo muy alto en pleno verano: Strictly y Jack & Jill en todas las divisiones, 7 horas de workshops y 5 fiestas en el histórico Ballhaus de Friburgo, la puerta de la Selva Negra.",
+      "highlights": [
+        "Todas las divisiones de J&J y Strictly.",
+        "5 fiestas.",
+        "Friburgo en agosto: terrazas y Selva Negra."
+      ],
+      "levanteTip": "Vuelo a Basilea (easyJet) desde Alicante o Valencia y bus a Friburgo. Agosto en Friburgo es caluroso: lleva ropa de recambio de sobra.",
+      "access": "Tranvía desde Freiburg Hbf. Desde el aeropuerto de Basilea, bus (≈ 50 min).",
+      "sources": [
+        "https://go-wcs.com/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/german-open-wcs/",
+      "city": {
+        "name": "Friburgo de Brisgovia",
+        "region": "Baden-Wurtemberg, Alemania",
+        "intro": "Ciudad universitaria y soleada a las puertas de la Selva Negra, con canalillos de agua (Bächle) recorriendo el casco antiguo. En agosto se vive en terrazas.",
+        "culture": [
+          "Catedral (Münster) y su mercado diario.",
+          "Teleférico al Schauinsland.",
+          "Lagos Titisee y Schluchsee en la Selva Negra."
+        ],
+        "food": [
+          "Tarta Selva Negra (Schwarzwälder Kirschtorte).",
+          "Lange Rote (salchicha larga del mercado del Münster).",
+          "Jamón de la Selva Negra.",
+          "Vinos de la región de Kaiserstuhl."
+        ],
+        "climate": "Agosto: 15–28 °C, la ciudad más soleada de Alemania.",
+        "airports": [
+          {
+            "code": "BSL",
+            "name": "EuroAirport Basilea-Mulhouse-Friburgo",
+            "distance": "≈ 50 min en bus o coche"
+          }
+        ],
+        "train": "Freiburg Hbf, en la línea Basilea–Frankfurt.",
+        "fromSpain": {
+          "madrid": "Vuelo directo a Basilea (easyJet) y bus.",
+          "barcelona": "Vuelo directo a Basilea (≈ 1 h 40 min).",
+          "valencia": "Vuelo directo a Basilea (habitual).",
+          "alicante": "Vuelo directo a Basilea (habitual con easyJet)."
+        }
+      }
+    },
+    {
+      "slug": "finnfest",
+      "name": "Finnfest",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Finlandia",
+      "countryCode": "FI",
+      "cityId": "helsinki",
+      "venue": "Helsinki Congress Paasitorni (sede 2026)",
+      "coords": [
+        60.1794,
+        24.9535
+      ],
+      "start": "2027-09-16",
+      "end": "2027-09-19",
+      "dateStatus": "tentative",
+      "dateNote": "La edición 2026 fue del 17 al 20 de septiembre. Fechas de 2027 sin publicar.",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "capital nórdica",
+        "edificio histórico"
+      ],
+      "beginner": 3,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "Pases",
+          "value": "Desconocido"
+        }
+      ],
+      "priceYear": "—",
+      "website": "https://finnfest.fi/",
+      "summary": {
+        "es": "El WSDC de Helsinki, en el histórico Paasitorni, junto al mar.",
+        "en": "Helsinki's WSDC event at the historic Paasitorni by the sea."
+      },
+      "description": "Finnfest es el evento WSDC de la capital finlandesa. Se celebra en Paasitorni, un edificio histórico de congresos del centro de Helsinki.",
+      "highlights": [
+        "Helsinki en septiembre.",
+        "Sede histórica en el centro.",
+        "Sauna pública frente al mar."
+      ],
+      "levanteTip": "Combina la pista con una sauna en Löyly.",
+      "access": "Metro o tranvía desde el centro (Hakaniemi).",
+      "sources": [
+        "https://finnfest.fi/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/finnfest/",
+      "city": {
+        "name": "Helsinki",
+        "region": "Finlandia",
+        "intro": "Capital nórdica junto al mar, de diseño y saunas públicas. El festival se celebra en Paasitorni, un histórico edificio de congresos en el centro.",
+        "culture": [
+          "Catedral luterana y la Plaza del Senado.",
+          "Fortaleza de Suomenlinna (en ferry).",
+          "Sauna pública Löyly frente al mar."
+        ],
+        "food": [
+          "Salmón y arenques del Báltico.",
+          "Korvapuusti (bollo de canela finlandés).",
+          "Mercado de la Plaza del Mercado (Kauppatori).",
+          "Salmiakki (regaliz salado), solo para valientes."
+        ],
+        "climate": "Septiembre: 9–16 °C.",
+        "airports": [
+          {
+            "code": "HEL",
+            "name": "Helsinki-Vantaa",
+            "distance": "≈ 30 min en tren al centro"
+          }
+        ],
+        "train": "Helsinki Central.",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 4 h 30 min).",
+          "barcelona": "Vuelo directo (≈ 4 h).",
+          "valencia": "Vuelo con escala o directo según temporada.",
+          "alicante": "Vuelo directo según temporada (Finnair/Norwegian) o con escala."
+        }
+      }
+    },
+    {
+      "slug": "global-grand-prix",
+      "name": "Global Grand Prix WCS Championships",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Francia",
+      "countryCode": "FR",
+      "cityId": "paris",
+      "venue": "Hilton Paris Charles de Gaulle Airport",
+      "coords": [
+        49.0003,
+        2.5708
+      ],
+      "start": "2027-09-17",
+      "end": "2027-09-19",
+      "dateStatus": "tentative",
+      "dateNote": "La edición 2026 fue del 18 al 20 de septiembre. Fechas de 2027 sin publicar.",
+      "wsdc": "trial",
+      "size": "mediano",
+      "tags": [
+        "campeonato",
+        "aeropuerto",
+        "hotel"
+      ],
+      "beginner": 2,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "Pases",
+          "value": "Desconocido"
+        }
+      ],
+      "priceYear": "—",
+      "website": "https://www.globalgrandprixwcs.com/",
+      "summary": {
+        "es": "Campeonato WSDC (Trial) en un hotel junto al aeropuerto de París-CDG.",
+        "en": "WSDC Trial championship at a Paris-CDG airport hotel."
+      },
+      "description": "El Global Grand Prix es un campeonato con divisiones de competición, workshops y social en el Hilton de Charles de Gaulle, a pocos minutos a pie de la terminal 3. En 2026 celebró su quinto aniversario.",
+      "highlights": [
+        "Llegas en avión y bailas sin tocar el centro de París.",
+        "Formato campeonato con múltiples divisiones."
+      ],
+      "levanteTip": "Ideal para un fin de semana exprés: vuelo directo a CDG el viernes y vuelta el domingo.",
+      "access": "Junto a la terminal 3 de CDG (a pie o en el tren CDGVAL).",
+      "sources": [
+        "https://www.globalgrandprixwcs.com/",
+        "https://www.yourdancebuddy.com/events/global-grand-prix-west-coast-swing-championships-2026"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/global-grand-prix/",
+      "city": {
+        "name": "París",
+        "region": "Île-de-France, Francia",
+        "intro": "París es uno de los grandes polos del WCS europeo: acoge varios eventos al año y tiene un nivel técnico altísimo. Ideal para ver de cerca a profesionales de primera.",
+        "culture": [
+          "Torre Eiffel, Arco del Triunfo y los Campos Elíseos (junto a Le Méridien).",
+          "Louvre, Orsay y el Centro Pompidou.",
+          "Montmartre y el Sacré-Cœur.",
+          "Paseo en barco por el Sena."
+        ],
+        "food": [
+          "Croissant y pain au chocolat de boulangerie.",
+          "Steak frites o croque-monsieur en una brasserie.",
+          "Macarons y crêpes.",
+          "Quesos y vino natural en un bar à vins."
+        ],
+        "climate": "Enero–febrero: 2–9 °C. Mayo: 11–20 °C. Septiembre: 13–22 °C.",
+        "airports": [
+          {
+            "code": "CDG",
+            "name": "Charles de Gaulle",
+            "distance": "≈ 45 min del centro (RER B)"
+          },
+          {
+            "code": "ORY",
+            "name": "Orly",
+            "distance": "≈ 35 min (Orlyval/Metro 14)"
+          },
+          {
+            "code": "BVA",
+            "name": "Beauvais (low cost)",
+            "distance": "≈ 1 h 15 min en autobús"
+          }
+        ],
+        "train": "Gare de Lyon: TGV directo a Barcelona (≈ 6 h 30 min).",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 2 h). Muchas frecuencias diarias.",
+          "barcelona": "Vuelo directo (≈ 1 h 50 min) o TGV directo (≈ 6 h 30 min).",
+          "valencia": "Vuelo directo (≈ 2 h).",
+          "alicante": "Vuelo directo a CDG, Orly o Beauvais (≈ 2 h 10 min)."
+        }
+      }
+    },
+    {
+      "slug": "midland-swing-open",
+      "name": "Midland Swing Open",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "cityId": "londres",
+      "venue": "Thistle Hotel & Conference Centre, Heathrow Terminal 5 (sede 2026)",
+      "coords": [
+        51.4813,
+        -0.5016
+      ],
+      "start": "2027-09-23",
+      "end": "2027-09-26",
+      "dateStatus": "confirmed",
+      "dateNote": "Fechas según la lista de la WSDC. La sede de 2027 aún no se ha anunciado (en 2026 fue el Thistle T5).",
+      "wsdc": "registry",
+      "size": "grande",
+      "tags": [
+        "aeropuerto",
+        "sala social"
+      ],
+      "beginner": 3,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "Pases",
+          "value": "Desconocido"
+        }
+      ],
+      "priceYear": "—",
+      "website": "https://midlandswingopen.com/",
+      "summary": {
+        "es": "Gran evento británico de otoño junto a Heathrow, con sala social dedicada.",
+        "en": "Major British autumn event by Heathrow with a dedicated social room."
+      },
+      "description": "Midland Swing Open, pese a su nombre, se celebra en el área de Heathrow. Combina competiciones WSDC, workshops y una sala social específica para bailar sin descanso.",
+      "highlights": [
+        "Sala social dedicada.",
+        "Junto a Heathrow T5."
+      ],
+      "levanteTip": "Buena opción para cerrar la temporada en septiembre.",
+      "access": "Bus o shuttle desde Heathrow T5.",
+      "sources": [
+        "https://worldsdc.com/events-/?country=GBR",
+        "https://midlandswingopen.com/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/midland-swing-open/",
+      "city": {
+        "name": "Londres (Heathrow)",
+        "region": "Inglaterra, Reino Unido",
+        "intro": "Varios de los grandes eventos británicos se celebran en hoteles pegados a Heathrow: llegas del avión a la pista sin pasar por el centro. Si te sobra un día, Londres está a 15 minutos en el Elizabeth Line o el Heathrow Express.",
+        "culture": [
+          "Westminster, el Big Ben y el London Eye.",
+          "Museos gratuitos: British Museum, National Gallery y Tate Modern.",
+          "Camden, Notting Hill y Covent Garden."
+        ],
+        "food": [
+          "Fish and chips.",
+          "Sunday roast en un pub.",
+          "Full English breakfast para recuperar fuerzas.",
+          "Afternoon tea con scones."
+        ],
+        "climate": "Noviembre–marzo: 3–11 °C y lluvia. Septiembre: 12–20 °C.",
+        "airports": [
+          {
+            "code": "LHR",
+            "name": "Heathrow",
+            "distance": "Los hoteles sede están junto al aeropuerto (≈ 5–10 min en shuttle o bus)"
+          },
+          {
+            "code": "LGW",
+            "name": "Gatwick",
+            "distance": "≈ 1 h 15 min"
+          },
+          {
+            "code": "STN",
+            "name": "Stansted / Luton",
+            "distance": "≈ 1 h 30 min"
+          }
+        ],
+        "train": "Eurostar desde París (≈ 2 h 20 min), si combinas viaje.",
+        "fromSpain": {
+          "madrid": "Vuelo directo a Heathrow (≈ 2 h 20 min).",
+          "barcelona": "Vuelo directo a Heathrow o Gatwick (≈ 2 h 10 min).",
+          "valencia": "Vuelo directo a Heathrow, Gatwick o Stansted.",
+          "alicante": "Muchísimos vuelos directos (Heathrow, Gatwick, Stansted, Luton), ≈ 2 h 30 min. Recuerda: para el Reino Unido necesitas pasaporte (el DNI no sirve) y la autorización electrónica ETA."
+        }
+      }
+    },
+    {
+      "slug": "madrid-westie-fest",
+      "name": "Madrid Westie Fest",
+      "edition": "2027",
+      "region": "espana",
+      "country": "España",
+      "countryCode": "ES",
+      "cityId": "madrid",
+      "venue": "Círculo de Baile, Plaza del Conde del Valle de Súchil 3, Madrid",
+      "coords": [
+        40.4324,
+        -3.7091
+      ],
+      "start": "2027-10-01",
+      "end": "2027-10-03",
+      "dateStatus": "tentative",
+      "dateNote": "La edición 2026 fue del 2 al 4 de octubre. Estimamos un fin de semana de principios de octubre de 2027.",
+      "wsdc": "none",
+      "size": "boutique",
+      "tags": [
+        "formativo",
+        "sin competición",
+        "escuela",
+        "sociales"
+      ],
+      "beginner": 5,
+      "costLevel": 1,
+      "prices": [
+        {
+          "label": "Full Pass (2026)",
+          "value": "88 € early bird · 98 € normal (6 clases + 3 sociales)"
+        },
+        {
+          "label": "Party / Beginner Pass",
+          "value": "45 € / 30 € (dato de otra edición, sin confirmar)"
+        }
+      ],
+      "priceYear": "2026",
+      "priceRefEUR": 98,
+      "website": "https://wcswingmadrid.com/",
+      "teachers": [
+        "Sara Mouchon & Fran Vidal",
+        "Lauren Jones & Daniel Pavlov (2026)"
+      ],
+      "summary": {
+        "es": "Fin de semana formativo en una escuela de Madrid: clases de alto nivel y tres sociales, sin presión de puntos.",
+        "en": "A training weekend at a Madrid dance school: top-level classes and three socials, no points pressure."
+      },
+      "description": "El Madrid Westie Fest no tiene competición WSDC, y precisamente ahí está su gracia: es un fin de semana para aprender y bailar. Se celebra en Círculo de Baile, la escuela de referencia de Sara Mouchon y Fran Vidal, pioneros del WCS en España, con profesores invitados internacionales. El pase incluye 6 clases y las sociales de viernes, sábado y domingo.",
+      "highlights": [
+        "Clases con Sara Mouchon y Fran Vidal, pioneros nacionales.",
+        "Precio muy asequible.",
+        "Perfecto para tu primer evento fuera de casa.",
+        "Ambiente de escuela, cercano y familiar."
+      ],
+      "levanteTip": "Es el mejor «primer evento» posible para alguien que lleva pocos meses de clases en el Levante: no hay que competir, el precio es bajo y Madrid está a 2 horas en tren.",
+      "access": "Metro Quevedo o Canal (líneas 2 y 7), a pocos minutos a pie.",
+      "sources": [
+        "https://wcswingmadrid.com/events/madrid-westie-fest-2026/",
+        "https://circulodebaile.es/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/madrid-westie-fest/",
+      "city": {
+        "name": "Madrid",
+        "region": "Comunidad de Madrid",
+        "intro": "La capital tiene la comunidad westie más grande de España, con sociales casi a diario. Ir a un festival aquí es también la excusa perfecta para conocer la escena local.",
+        "culture": [
+          "Triángulo del Arte: Prado, Reina Sofía y Thyssen.",
+          "Retiro y Madrid Río para descansar las piernas entre sociales.",
+          "Barrios de La Latina, Malasaña y Lavapiés para tapear."
+        ],
+        "food": [
+          "Bocadillo de calamares en la Plaza Mayor.",
+          "Cocido madrileño (si te sobran fuerzas).",
+          "Huevos rotos, oreja a la plancha y vermut de grifo.",
+          "Churros con chocolate al salir de la social."
+        ],
+        "climate": "Primavera (abril–mayo): 12–24 °C, días largos y muy agradables. Otoño (octubre): 10–22 °C.",
+        "airports": [
+          {
+            "code": "MAD",
+            "name": "Adolfo Suárez Madrid-Barajas",
+            "distance": "≈ 15–30 min del centro"
+          }
+        ],
+        "train": "Atocha y Chamartín (AVE, Ouigo, Iryo) conectan con casi toda España.",
+        "fromSpain": {
+          "madrid": "Estás en casa: metro o Cercanías hasta la sede.",
+          "barcelona": "AVE/Ouigo/Iryo (≈ 2 h 30 min) o puente aéreo (≈ 1 h 15 min).",
+          "valencia": "Alta velocidad (≈ 1 h 50 min). Opción más cómoda y barata.",
+          "alicante": "Alta velocidad (≈ 2 h 15 min). Con Ouigo o Iryo hay billetes muy baratos si compras pronto."
+        }
+      }
+    },
+    {
+      "slug": "norwegian-open-wcs",
+      "name": "Norwegian Open WCS",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Noruega",
+      "countryCode": "NO",
+      "cityId": "hamar",
+      "venue": "Scandic Hamar, Vangsveien 121 (sede 2025–2026)",
+      "coords": [
+        60.7945,
+        11.0997
+      ],
+      "start": "2027-10-08",
+      "end": "2027-10-10",
+      "dateStatus": "confirmed",
+      "dateNote": "«Save the date» publicado en la web oficial.",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "lago Mjøsa",
+        "hotel",
+        "competición divertida"
+      ],
+      "beginner": 4,
+      "costLevel": 3,
+      "prices": [
+        {
+          "label": "Full Pass",
+          "value": "Desde 1.990 NOK early bird (dato sin confirmar)"
+        }
+      ],
+      "priceYear": "Referencia",
+      "priceRefEUR": 170,
+      "website": "https://norwegianopen.no/",
+      "summary": {
+        "es": "WSDC noruego a orillas del lago Mjøsa, con Jack & Jill de Newcomer a All-Star y Sophisticated.",
+        "en": "Norwegian WSDC event on Lake Mjøsa, with J&J from Newcomer to All-Star plus Sophisticated."
+      },
+      "description": "El Norwegian Open ofrece Jack & Jill de Newcomer a All-Star, división Sophisticated y una competición divertida el domingo. Se celebra en Hamar, junto al lago más grande de Noruega y a 45 minutos en tren del aeropuerto de Oslo. Empezó como evento Trial de la WSDC; comprueba su estatus actual en la WSDC.",
+      "highlights": [
+        "Divisiones de Newcomer a All-Star.",
+        "División Sophisticated.",
+        "Tren directo desde el aeropuerto."
+      ],
+      "levanteTip": "Desde Alicante, vuelo directo a Oslo y tren a Hamar. Combínalo con Oslo en otoño.",
+      "access": "Tren desde el aeropuerto de Oslo-Gardermoen (≈ 45 min) y unos minutos a pie o en taxi.",
+      "sources": [
+        "https://norwegianopen.no/",
+        "https://norwegianopen.no/about"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/norwegian-open-wcs/",
+      "city": {
+        "name": "Hamar",
+        "region": "Innlandet, Noruega",
+        "intro": "Ciudad noruega a orillas del lago Mjøsa, el más grande del país, a una hora al norte de Oslo. Fue sede olímpica en Lillehammer 1994.",
+        "culture": [
+          "Vikingskipet, el estadio olímpico con forma de barco vikingo.",
+          "Ruinas de la catedral medieval bajo su cúpula de cristal.",
+          "Paseo por el lago Mjøsa en otoño."
+        ],
+        "food": [
+          "Fårikål (cordero con col), plato nacional de otoño.",
+          "Salmón y trucha.",
+          "Lefse (crepe noruego).",
+          "Waffles con brunost."
+        ],
+        "climate": "Octubre: 0–9 °C.",
+        "airports": [
+          {
+            "code": "OSL",
+            "name": "Oslo-Gardermoen",
+            "distance": "≈ 45 min en tren"
+          }
+        ],
+        "train": "Hamar stasjon, con trenes directos desde el aeropuerto de Oslo.",
+        "fromSpain": {
+          "madrid": "Vuelo directo a Oslo y tren.",
+          "barcelona": "Vuelo directo a Oslo y tren.",
+          "valencia": "Vuelo a Oslo (directo según temporada) y tren.",
+          "alicante": "Vuelo directo a Oslo (habitual con Norwegian) y tren."
+        }
+      }
+    },
+    {
+      "slug": "milan-modern-swing",
+      "name": "Milan Modern Swing",
+      "edition": "2027",
+      "region": "europa",
+      "country": "Italia",
+      "countryCode": "IT",
+      "cityId": "milan",
+      "venue": "Sesto San Giovanni, Milán",
+      "coords": [
+        45.5335,
+        9.2347
+      ],
+      "start": "2027-10-14",
+      "end": "2027-10-17",
+      "dateStatus": "tentative",
+      "dateNote": "La edición 2026 fue del 15 al 18 de octubre. Fechas de 2027 sin publicar.",
+      "wsdc": "registry",
+      "size": "mediano",
+      "tags": [
+        "otoño",
+        "Milán",
+        "hotel"
+      ],
+      "beginner": 3,
+      "costLevel": 2,
+      "prices": [
+        {
+          "label": "Pases",
+          "value": "Desconocido"
+        }
+      ],
+      "priceYear": "—",
+      "website": "https://www.westcoastswingmilan.com/milanmodernswing/",
+      "summary": {
+        "es": "El WSDC de otoño de la comunidad de Milán.",
+        "en": "The Milan community's autumn WSDC event."
+      },
+      "description": "Milan Modern Swing es el evento WSDC de West Coast Swing Milan. Se celebra en Sesto San Giovanni, en el área metropolitana de Milán, a mediados de octubre.",
+      "highlights": [
+        "Milán, capital del diseño.",
+        "Vuelos baratos a Bérgamo y Malpensa."
+      ],
+      "levanteTip": "Alicante–Bérgamo es una ruta low cost muy habitual. Cierra la temporada aquí.",
+      "access": "Metro M1 hasta Sesto.",
+      "sources": [
+        "https://www.westcoastswingmilan.com/milanmodernswing/"
+      ],
+      "verified": "2026-10-18",
+      "url": "https://raymonbil.github.io/wcs-passport/festival/milan-modern-swing/",
+      "city": {
+        "name": "Milán",
+        "region": "Lombardía, Italia",
+        "intro": "Capital italiana de la moda y el diseño, con una de las comunidades de WCS más grandes de Italia.",
+        "culture": [
+          "Duomo y su terraza, y la Galería Vittorio Emanuele II.",
+          "La Última Cena de Leonardo (reserva con mucha antelación).",
+          "Navigli al atardecer, a la hora del aperitivo."
+        ],
+        "food": [
+          "Risotto alla milanese (con azafrán).",
+          "Cotoletta alla milanese.",
+          "Panettone y un aperitivo con spritz.",
+          "Ossobuco."
+        ],
+        "climate": "Octubre: 9–19 °C.",
+        "airports": [
+          {
+            "code": "MXP",
+            "name": "Milán-Malpensa",
+            "distance": "≈ 50 min"
+          },
+          {
+            "code": "LIN",
+            "name": "Milán-Linate",
+            "distance": "≈ 20 min"
+          },
+          {
+            "code": "BGY",
+            "name": "Bérgamo (low cost)",
+            "distance": "≈ 50 min"
+          }
+        ],
+        "train": "Milano Centrale.",
+        "fromSpain": {
+          "madrid": "Vuelo directo (≈ 2 h 15 min).",
+          "barcelona": "Vuelo directo (≈ 1 h 35 min).",
+          "valencia": "Vuelo directo (habitual).",
+          "alicante": "Vuelo directo a Bérgamo o Malpensa (habitual con Ryanair)."
+        }
+      }
+    }
+  ]
+}
